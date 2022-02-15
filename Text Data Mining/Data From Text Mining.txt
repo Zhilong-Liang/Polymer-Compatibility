@@ -1,0 +1,1299 @@
+# 'Score': 'degree of compatibility'; + means increase compatibility and - menas decrease. 0 means incampatible;1 means compatible; 0.5 means partially compatible. 
+{'num': 3, 'Poly_A': 'PTT', 'Poly_B': 'PP', 'Score': '+', 'DOI': '10.1007/s10965-009-9279-6'}
+{'num': 4, 'Poly_A': 'PTT', 'Poly_B': 'PP', 'Score': 0, 'DOI': '10.1007/s10965-009-9279-6'}
+{'num': 5, 'Poly_A': 'PTT', 'Poly_B': 'PP', 'Score': 0, 'DOI': '10.1007/s10965-009-9279-6'}
+{'num': 6, 'Poly_A': 'PTT', 'Poly_B': 'PP', 'Score': '+', 'DOI': '10.1007/s10965-009-9279-6'}
+{'num': 29, 'Poly_A': 'PCL', 'Poly_B': 'PLLA', 'Score': '+', 'DOI': '10.1002/(sici)1097-4628(20000705)77:1<226::aid-app29>3.0.co;2-8'}
+{'num': 30, 'Poly_A': 'PCL', 'Poly_B': 'PLLA', 'Score': '+', 'DOI': '10.1002/(sici)1097-4628(20000705)77:1<226::aid-app29>3.0.co;2-8'}
+{'num': 42, 'Poly_A': 'PP', 'Poly_B': 'PTT', 'Score': 0, 'DOI': '10.1002/app.35635'}
+{'num': 54, 'Poly_A': 'NBR', 'Poly_B': 'PS', 'Score': 0, 'DOI': '10.1016/s0032-3861(97)10191-4'}
+{'num': 54, 'Poly_A': 'NBR', 'Poly_B': 'SAN', 'Score': 1, 'DOI': '10.1016/s0032-3861(97)10191-4'}
+{'num': 54, 'Poly_A': 'NBR', 'Poly_B': 'ABS', 'Score': 1, 'DOI': '10.1016/s0032-3861(97)10191-4'}
+{'num': 62, 'Poly_A': 'PS', 'Poly_B': 'BR', 'Score': 0.5, 'DOI': '10.1002/app.1994.070530906'}
+{'num': 63, 'Poly_A': 'PS', 'Poly_B': 'BR', 'Score': 0.5, 'DOI': '10.1002/app.1994.070530906'}
+{'num': 64, 'Poly_A': 'PS', 'Poly_B': 'BR', 'Score': 0.5, 'DOI': '10.1002/app.1994.070530906'}
+{'num': 65, 'Poly_A': 'PS', 'Poly_B': 'BR', 'Score': 0.5, 'DOI': '10.1002/app.1994.070530906'}
+{'num': 66, 'Poly_A': 'SR', 'Poly_B': 'FKM', 'Score': 0.5, 'DOI': '10.1002/app.35667'}
+{'num': 67, 'Poly_A': 'SR', 'Poly_B': 'FKM', 'Score': '+', 'DOI': '10.1002/app.35667'}
+{'num': 68, 'Poly_A': 'SR', 'Poly_B': 'FKM', 'Score': 0.5, 'DOI': '10.1002/app.35667'}
+{'num': 69, 'Poly_A': 'SR', 'Poly_B': 'FKM', 'Score': 0.5, 'DOI': '10.1002/app.35667'}
+{'num': 70, 'Poly_A': 'SR', 'Poly_B': 'FKM', 'Score': 0.5, 'DOI': '10.1002/app.35667'}
+{'num': 85, 'Poly_A': 'PS', 'Poly_B': 'BR', 'Score': 0, 'DOI': '10.1002/app.1993.070490611'}
+{'num': 86, 'Poly_A': 'PA66', 'Poly_B': 'PVC', 'Score': 0, 'DOI': '10.1016/j.jmapro.2017.02.024'}
+{'num': 134, 'Poly_A': 'POE-g-MAN', 'Poly_B': 'SAN', 'Score': '-', 'DOI': '10.1080/00222348.2010.516178'}
+{'num': 145, 'Poly_A': 'PVME', 'Poly_B': 'PS', 'Score': 0.5, 'DOI': '10.1070/rc1999v068n04abeh000503'}
+{'num': 146, 'Poly_A': 'PS', 'Poly_B': 'PBA', 'Score': '+', 'DOI': '10.1070/rc1999v068n04abeh000503'}
+{'num': 147, 'Poly_A': 'nylon-6', 'Poly_B': 'PF resin', 'Score': 0.5, 'DOI': '10.1070/rc1999v068n04abeh000503'}
+{'num': 160, 'Poly_A': 'P(S-oFS)', 'Poly_B': 'PPO', 'Score': 1, 'DOI': '10.1016/0040-6031(82)80026-9'}
+{'num': 161, 'Poly_A': 'P(S-pClS)', 'Poly_B': 'PPO', 'Score': '+', 'DOI': '10.1016/0040-6031(82)80026-9'}
+{'num': 161, 'Poly_A': 'P(S-oClS)', 'Poly_B': 'PPO', 'Score': '+', 'DOI': None}
+{'num': 162, 'Poly_A': 'P(S-pFS)', 'Poly_B': 'PPO', 'Score': 0.5, 'DOI': '10.1016/0040-6031(82)80026-9'}
+{'num': 163, 'Poly_A': 'P(S-oFS)', 'Poly_B': 'PPO', 'Score': 1, 'DOI': '10.1016/0040-6031(82)80026-9'}
+{'num': 164, 'Poly_A': 'P(S-pFS)', 'Poly_B': 'PPO', 'Score': 0.5, 'DOI': '10.1016/0040-6031(82)80026-9'}
+{'num': 165, 'Poly_A': 'P(S-oFS)', 'Poly_B': 'PPO', 'Score': 1, 'DOI': '10.1016/0040-6031(82)80026-9'}
+{'num': 166, 'Poly_A': 'P(S-oFS)', 'Poly_B': 'PPO', 'Score': 1, 'DOI': '10.1016/0040-6031(82)80026-9'}
+{'num': 167, 'Poly_A': 'P(S-pClS)', 'Poly_B': 'PPO', 'Score': 0.5, 'DOI': '10.1016/0040-6031(82)80026-9'}
+{'num': 167, 'Poly_A': 'P(S-oClS)', 'Poly_B': 'PPO', 'Score': 0.5, 'DOI': '10.1016/0040-6031(82)80026-9'}
+{'num': 168, 'Poly_A': 'P(S-pFS)', 'Poly_B': 'PPO', 'Score': 0.5, 'DOI': '10.1016/0040-6031(82)80026-9'}
+{'num': 168, 'Poly_A': 'P(S-oFS)', 'Poly_B': 'PPO', 'Score': 1, 'DOI': '10.1016/0040-6031(82)80026-9'}
+{'num': 169, 'Poly_A': 'P(S-oFS)', 'Poly_B': 'PPO', 'Score': 1, 'DOI': '10.1016/0040-6031(82)80026-9'}
+{'num': 173, 'Poly_A': 'LDPE', 'Poly_B': 'PET', 'Score': '+', 'DOI': '10.1080/14658011.2019.1701867'}
+{'num': 174, 'Poly_A': 'PLA', 'Poly_B': 'PP', 'Score': '+', 'DOI': '10.1080/14658011.2019.1701867'}
+{'num': 174, 'Poly_A': 'PLA', 'Poly_B': 'PP', 'Score': 0, 'DOI': '10.1080/14658011.2019.1701867'}
+{'num': 196, 'Poly_A': 'fibroin', 'Poly_B': 'chitosan', 'Score': 1, 'DOI': '10.1007/s10973-006-7676-1'}
+{'num': 201, 'Poly_A': 'nylon-6', 'Poly_B': 'LDPE', 'Score': '+', 'DOI': '10.1007/s00289-012-0805-z'}
+{'num': 202, 'Poly_A': 'SPI', 'Poly_B': 'PCL', 'Score': 0, 'DOI': '10.13031/2013.18485'}
+{'num': 209, 'Poly_A': 'PA6', 'Poly_B': 'poly(phenylene oxide)', 'Score': '+', 'DOI': '10.1002/app.27212'}
+{'num': 209, 'Poly_A': 'PA6', 'Poly_B': 'poly(phenylene oxide)', 'Score': '+', 'DOI': '10.1002/app.27212'}
+{'num': 210, 'Poly_A': 'PA6', 'Poly_B': 'SBS-g-MAH', 'Score': 'more', 'DOI': '10.1002/app.27212'}
+{'num': 211, 'Poly_A': 'PA6', 'Poly_B': 'SBS-g-MAH', 'Score': 'more', 'DOI': '10.1002/app.27212'}
+{'num': 211, 'Poly_A': 'PA6', 'Poly_B': 'SBS-g-MAA', 'Score': 'more', 'DOI': '10.1002/app.27212'}
+{'num': 212, 'Poly_A': 'PA6', 'Poly_B': 'SBS-g-MAH', 'Score': 'more', 'DOI': '10.1002/app.27212'}
+{'num': 239, 'Poly_A': 'PP', 'Poly_B': 'PBE', 'Score': 1, 'DOI': '10.1002/app.45201'}
+{'num': 240, 'Poly_A': 'PP', 'Poly_B': 'PBE', 'Score': 'more', 'DOI': '10.1002/app.45201'}
+{'num': 241, 'Poly_A': 'PP', 'Poly_B': 'PBE', 'Score': 'more', 'DOI': '10.1002/app.45201'}
+{'num': 242, 'Poly_A': 'PP', 'Poly_B': 'PBE', 'Score': 'more', 'DOI': '10.1002/app.45201'}
+{'num': 254, 'Poly_A': 'PMMA', 'Poly_B': 'PC', 'Score': '+', 'DOI': '10.1002/(sici)1099-0488(19970415)35:5<749::aid-polb3>3.0.co;2-h'}
+{'num': 255, 'Poly_A': 'PMMA', 'Poly_B': 'PC', 'Score': '+', 'DOI': '10.1002/(sici)1099-0488(19970415)35:5<749::aid-polb3>3.0.co;2-h'}
+{'num': 284, 'Poly_A': 'DMS-E09', 'Poly_B': 'DGEBA', 'Score': '+', 'DOI': '10.1002/app.46891'}
+{'num': 301, 'Poly_A': 'PP', 'Poly_B': 'Nylon 6', 'Score': '+', 'DOI': '10.1016/j.polymer.2020.122386'}
+{'num': 302, 'Poly_A': 'PP', 'Poly_B': 'Nylon 6', 'Score': '+', 'DOI': '10.1016/j.polymer.2020.122386'}
+{'num': 303, 'Poly_A': 'PP', 'Poly_B': 'Nylon 6', 'Score': '+', 'DOI': '10.1016/j.polymer.2020.122386'}
+{'num': 314, 'Poly_A': 'LCP', 'Poly_B': 'PPO', 'Score': '+', 'DOI': '10.1016/s0032-3861(96)00428-4'}
+{'num': 320, 'Poly_A': 'PHB', 'Poly_B': 'EPR', 'Score': 0, 'DOI': '10.1002/(sici)1099-0488(19961115)34:15<2543::aid-polb2>3.0.co;2-u'}
+{'num': 320, 'Poly_A': 'PHB', 'Poly_B': 'PVAc', 'Score': 1, 'DOI': '10.1002/(sici)1099-0488(19961115)34:15<2543::aid-polb2>3.0.co;2-u'}
+{'num': 325, 'Poly_A': 'PVDF', 'Poly_B': 'PS', 'Score': '+', 'DOI': '10.1002/pi.1994.210340411'}
+{'num': 326, 'Poly_A': 'PVDF', 'Poly_B': 'PVAc', 'Score': 1, 'DOI': '10.1002/pi.1994.210340411'}
+{'num': 330, 'Poly_A': 'PC', 'Poly_B': 'SAN', 'Score': '+', 'DOI': '10.1002/pen.11369'}
+{'num': 331, 'Poly_A': 'PC', 'Poly_B': 'SAN', 'Score': '+', 'DOI': '10.1002/pen.11369'}
+{'num': 335, 'Poly_A': 'XNBR', 'Poly_B': 'EPDM', 'Score': '+', 'DOI': '10.1002/app.49331'}
+{'num': 346, 'Poly_A': 'sPS(syndiotactic polystyrene)', 'Poly_B': 'DGEBA/MCDEA', 'Score': '+', 'DOI': '10.1002/app.24204'}
+{'num': 348, 'Poly_A': 'PDR1A', 'Poly_B': 'PMMA', 'Score': 1, 'DOI': '10.1021/ma00084a033'}
+{'num': 348, 'Poly_A': 'PDR1M', 'Poly_B': 'PMMA', 'Score': 1, 'DOI': '10.1021/ma00084a033'}
+{'num': 350, 'Poly_A': 'PDR1M', 'Poly_B': 'PMMA', 'Score': 1, 'DOI': '10.1021/ma00084a033'}
+{'num': 372, 'Poly_A': 'SCPI', 'Poly_B': 'PDMS', 'Score': '+', 'DOI': '10.1002/pola.1994.080320819'}
+{'num': 373, 'Poly_A': 'SCPI', 'Poly_B': 'PDMS', 'Score': '+', 'DOI': '10.1002/pola.1994.080320819'}
+{'num': 376, 'Poly_A': 'PS', 'Poly_B': 'PMMA', 'Score': '+', 'DOI': '10.1002/app.33314'}
+{'num': 376, 'Poly_A': 'PS', 'Poly_B': 'PMMA', 'Score': 0, 'DOI': '10.1002/app.33314'}
+{'num': 377, 'Poly_A': 'PS', 'Poly_B': 'P4VP', 'Score': 0.5, 'DOI': '10.1002/app.33314'}
+{'num': 389, 'Poly_A': 'Dextran', 'Poly_B': 'Mac-VA', 'Score': 0.5, 'DOI': '10.1016/s0141-3910(01)00003-9'}
+{'num': 394, 'Poly_A': 'PP', 'Poly_B': 'HDPE', 'Score': 0, 'DOI': '10.3390/ma8125496'}
+{'num': 395, 'Poly_A': 'PP', 'Poly_B': 'HDPE', 'Score': 0, 'DOI': '10.3390/ma8125496'}
+{'num': 396, 'Poly_A': 'PP', 'Poly_B': 'HDPE', 'Score': 0, 'DOI': '10.3390/ma8125496'}
+{'num': 397, 'Poly_A': 'PP', 'Poly_B': 'LLDPE', 'Score': 1, 'DOI': '10.3390/ma8125496'}
+{'num': 398, 'Poly_A': 'PP', 'Poly_B': 'HDPE', 'Score': 0, 'DOI': '10.3390/ma8125496'}
+{'num': 399, 'Poly_A': 'PP', 'Poly_B': 'HDPE', 'Score': 0, 'DOI': '10.3390/ma8125496'}
+{'num': 400, 'Poly_A': 'PP', 'Poly_B': 'PA6', 'Score': '+', 'DOI': '10.3390/ma8125496'}
+{'num': 1212, 'Poly_A': 'PEEK', 'Poly_B': 'PES', 'Score': 0.5, 'DOI': '10.1002/pat.1994.220050927'}
+{'num': 1224, 'Poly_A': 'PS', 'Poly_B': 'PVME', 'Score': 1, 'DOI': '10.1021/ma60059a027'}
+{'num': 1225, 'Poly_A': 'PS', 'Poly_B': 'PVME', 'Score': '-', 'DOI': '10.1021/ma60059a027'}
+{'num': 1231, 'Poly_A': 'PEO', 'Poly_B': 'PMMA', 'Score': 1, 'DOI': '10.1021/la00092a033'}
+{'num': 1231, 'Poly_A': 'PMA', 'Poly_B': 'PVAc', 'Score': 1, 'DOI': '10.1021/la00092a033'}
+{'num': 1232, 'Poly_A': 'PMMA', 'Poly_B': 'PVAc', 'Score': 0, 'DOI': '10.1021/la00092a033'}
+{'num': 1235, 'Poly_A': 'PVC', 'Poly_B': 'ABS', 'Score': '1', 'DOI': '10.1080/00222348.2017.1360684'}
+{'num': 1236, 'Poly_A': 'PVC', 'Poly_B': 'SAN', 'Score': 1, 'DOI': '10.1080/00222348.2017.1360684'}
+{'num': 1239, 'Poly_A': 'PC', 'Poly_B': 'ABS', 'Score': '+', 'DOI': '10.1039/c3ra45617j'}
+{'num': 1242, 'Poly_A': 'ENR', 'Poly_B': 'EPDM', 'Score': '+', 'DOI': '10.1002/app.11263'}
+{'num': 1255, 'Poly_A': 'HPMC', 'Poly_B': 'HPS', 'Score': '0.5', 'DOI': '10.1016/j.ijbiomac.2018.07.064'}
+{'num': 1298, 'Poly_A': 'PP', 'Poly_B': 'EPR', 'Score': '+', 'DOI': '10.1002/pen.760351602'}
+{'num': 1299, 'Poly_A': 'PP', 'Poly_B': 'EPR', 'Score': '+', 'DOI': '10.1002/pen.760351602'}
+{'num': 1320, 'Poly_A': 'XNBR', 'Poly_B': 'EPDM', 'Score': '1', 'DOI': '10.1007/s10965-019-1885-3'}
+{'num': 1321, 'Poly_A': 'XNBR', 'Poly_B': 'EPDM', 'Score': '1', 'DOI': '10.1007/s10965-019-1885-3'}
+{'num': 1323, 'Poly_A': 'PCL', 'Poly_B': 'PLA', 'Score': '0', 'DOI': '10.1016/j.cej.2018.06.152'}
+{'num': 1363, 'Poly_A': 'PLA', 'Poly_B': 'EGMA', 'Score': '0.5', 'DOI': '10.1039/c6ra28843j'}
+{'num': 1365, 'Poly_A': 'BF (Bamboo Flour)', 'Poly_B': 'PLA', 'Score': '+', 'DOI': '10.3390/polym9080323'}
+{'num': 1369, 'Poly_A': 'PC', 'Poly_B': 'PS', 'Score': '0.5', 'DOI': '10.1002/pat.317'}
+{'num': 1370, 'Poly_A': 'PC', 'Poly_B': 'PS', 'Score': '+', 'DOI': '10.1002/pat.317'}
+{'num': 1371, 'Poly_A': 'PC', 'Poly_B': 'PS', 'Score': '+', 'DOI': '10.1002/pat.317'}
+{'num': 1378, 'Poly_A': 'lignin', 'Poly_B': 'PS', 'Score': '1', 'DOI': '10.1016/j.ijbiomac.2019.03.142'}
+{'num': '1378', 'Poly_A': 'lignin', 'Poly_B': 'PC', 'Score': '1', 'DOI': '10.1016/j.ijbiomac.2019.03.142'}
+{'num': '1378', 'Poly_A': 'lignin', 'Poly_B': 'PET', 'Score': '1', 'DOI': '10.1016/j.ijbiomac.2019.03.142'}
+{'num': '1379', 'Poly_A': None, 'Poly_B': None, 'Score': 'norela ', 'DOI': None}
+{'num': 1390, 'Poly_A': 'PP', 'Poly_B': 'PA-6', 'Score': '+', 'DOI': '10.1016/j.polymer.2016.10.021'}
+{'num': 1398, 'Poly_A': 'PE', 'Poly_B': 'PA-6', 'Score': '+', 'DOI': '10.1002/1521-3935(20010701)202:11<2461::aid-macp2461>3.0.co;2-1'}
+{'num': 1420, 'Poly_A': 'CA', 'Poly_B': 'PVB', 'Score': '+', 'DOI': '10.1002/app.10222'}
+{'num': 1421, 'Poly_A': 'CA', 'Poly_B': 'PVB', 'Score': '1', 'DOI': '10.1002/app.10222'}
+{'num': 1434, 'Poly_A': 'thermoplastic starch (TPS)', 'Poly_B': 'PE', 'Score': '+', 'DOI': '10.1007/s00289-017-2147-3'}
+{'num': 1449, 'Poly_A': 'CPE', 'Poly_B': 'EVA', 'Score': '1', 'DOI': "10.1021/ma00237a010', '10.1021/ma00237a009"}
+{'num': 1454, 'Poly_A': 'CPE', 'Poly_B': 'EVA', 'Score': '1', 'DOI': "'10.1021/ma00237a010', '10.1021/ma00237a009'"}
+{'num': 1459, 'Poly_A': 'EVA', 'Poly_B': 'PMMA', 'Score': '0', 'DOI': '10.1007/s10965-018-1493-7'}
+{'num': 1460, 'Poly_A': 'PC', 'Poly_B': 'PHEMA', 'Score': '0.5', 'DOI': '10.1016/j.memsci.2011.05.035'}
+{'num': 1479, 'Poly_A': 'NBR', 'Poly_B': 'HDPE', 'Score': '0', 'DOI': '10.1016/j.tca.2007.06.004'}
+{'num': 1481, 'Poly_A': 'CA', 'Poly_B': 'cellulose', 'Score': '0', 'DOI': '10.1021/ma00157a024'}
+{'num': 1500, 'Poly_A': 'PAN', 'Poly_B': 'PU', 'Score': '+', 'DOI': '10.1515/epoly.2009.9.1.1324'}
+{'num': 1501, 'Poly_A': 'PAN', 'Poly_B': 'PU', 'Score': '+', 'DOI': '10.1515/epoly.2009.9.1.1324'}
+{'num': 1530, 'Poly_A': 'PBA', 'Poly_B': 'PS', 'Score': '+', 'DOI': '10.1002/app.10288'}
+{'num': 1554, 'Poly_A': 'PC', 'Poly_B': 'SAN', 'Score': '+', 'DOI': '10.1109/icpadm.1994.413991'}
+{'num': 1583, 'Poly_A': 'NR (natural rubber)', 'Poly_B': 'EPDM', 'Score': '+', 'DOI': '10.1177/0095244305052011'}
+{'num': 1584, 'Poly_A': 'NR (natural rubber)', 'Poly_B': 'EPDM', 'Score': '0', 'DOI': '10.1177/0095244305052011'}
+{'num': 1585, 'Poly_A': 'NR (natural rubber)', 'Poly_B': 'EPDM', 'Score': '+', 'DOI': '10.1177/0095244305052011'}
+{'num': 1605, 'Poly_A': 'polystyrene', 'Poly_B': 'polyethyl acrylate', 'Score': '+', 'DOI': '10.1002/pol.1983.180210409'}
+{'num': 1606, 'Poly_A': 'polystyrene', 'Poly_B': 'polyethyl acrylate', 'Score': '+', 'DOI': '10.1002/pol.1983.180210409'}
+{'num': 1607, 'Poly_A': 'polyisoprene', 'Poly_B': 'polystyrene', 'Score': 0, 'DOI': '10.1002/pol.1983.180210409'}
+{'num': 1618, 'Poly_A': 'PP-g-TRGO', 'Poly_B': 'PP', 'Score': 1, 'DOI': '10.1039/c0nr00981d'}
+{'num': 1619, 'Poly_A': 'PP-g-TRGO', 'Poly_B': 'PP', 'Score': 1, 'DOI': '10.1039/c0nr00981d'}
+{'num': 1620, 'Poly_A': 'TRGO', 'Poly_B': 'PP', 'Score': '+', 'DOI': '10.1039/c0nr00981d'}
+{'num': 1626, 'Poly_A': 'nylon 6', 'Poly_B': 'LDPE', 'Score': '+', 'DOI': '10.1007/s00289-012-0805-z, 10.1177/0892705718820397'}
+{'num': 1648, 'Poly_A': 'PVC', 'Poly_B': 'EVA', 'Score': 1, 'DOI': '10.1016/s0376-7388(03)00260-6'}
+{'num': 1649, 'Poly_A': 'PVC', 'Poly_B': 'EVA', 'Score': 1, 'DOI': '10.1016/s0376-7388(03)00260-6'}
+{'num': 1650, 'Poly_A': 'PVC', 'Poly_B': 'EVA', 'Score': 1, 'DOI': '10.1016/s0376-7388(03)00260-6'}
+{'num': 1658, 'Poly_A': 'PS', 'Poly_B': 'PtBS', 'Score': 0, 'DOI': '10.1021/ma00131a011'}
+{'num': 1667, 'Poly_A': 'PEN(HQ/PP)', 'Poly_B': 'PEN(HQ/RS)', 'Score': 1, 'DOI': '10.1002/app.27790'}
+{'num': 1668, 'Poly_A': 'PEN(HQ/PP)', 'Poly_B': 'PEN(HQ/RS)', 'Score': 1, 'DOI': '10.1002/app.27790'}
+{'num': 1715, 'Poly_A': 'NR', 'Poly_B': 'CSM', 'Score': '+', 'DOI': '10.1002/app.22500'}
+{'num': 1716, 'Poly_A': 'NR', 'Poly_B': 'CSM', 'Score': 0, 'DOI': '10.1002/app.22500'}
+{'num': 1717, 'Poly_A': 'NR', 'Poly_B': 'CSM', 'Score': '+', 'DOI': '10.1002/app.22500'}
+{'num': 1718, 'Poly_A': 'NR', 'Poly_B': 'CSM', 'Score': '+', 'DOI': '10.1002/app.22500'}
+{'num': 1719, 'Poly_A': 'NR', 'Poly_B': 'CSM', 'Score': '+', 'DOI': '10.1002/app.22500'}
+{'num': 1720, 'Poly_A': 'NR', 'Poly_B': 'CSM', 'Score': '+', 'DOI': '10.1002/app.22500'}
+{'num': 1724, 'Poly_A': 'PSAN\n(AN wt=24% or 32%)', 'Poly_B': 'PMMA', 'Score': 1, 'DOI': '10.1016/s0040-6090(98)00584-7'}
+{'num': 1725, 'Poly_A': 'PSAN\n(AN wt=52%)', 'Poly_B': 'PMMA', 'Score': 0, 'DOI': '10.1016/s0040-6090(98)00584-7'}
+{'num': 1754, 'Poly_A': '等规PMMA\n\n\n间规PMMA', 'Poly_B': 'PVC\n\n\nPVC', 'Score': '0\n\n\n1', 'DOI': '10.1021/ma00145a015'}
+{'num': 1756, 'Poly_A': 'SBR', 'Poly_B': 'NBR', 'Score': '+', 'DOI': '10.1080/03602550601155948'}
+{'num': 1757, 'Poly_A': 'SBR', 'Poly_B': 'NBR', 'Score': 0, 'DOI': '10.1080/03602550601155948'}
+{'num': 1758, 'Poly_A': 'SBR', 'Poly_B': 'NBR', 'Score': '+', 'DOI': '10.1080/03602550601155948'}
+{'num': 1765, 'Poly_A': 'PVA', 'Poly_B': 'DNA\n(deoxyribonucleic acid)', 'Score': 1, 'DOI': '10.1016/s0032-3861(99)00476-0'}
+{'num': 1766, 'Poly_A': 'PVA', 'Poly_B': 'DNA\n(deoxyribonucleic acid)', 'Score': 1, 'DOI': '10.1016/s0032-3861(99)00476-0'}
+{'num': 1767, 'Poly_A': 'PVA', 'Poly_B': 'DNA\n(deoxyribonucleic acid)', 'Score': 1, 'DOI': '10.1016/s0032-3861(99)00476-0'}
+{'num': 1792, 'Poly_A': 'EPIP', 'Poly_B': 'PTA', 'Score': '+', 'DOI': '10.1039/c9ta09292g'}
+{'num': 1793, 'Poly_A': 'EPIP', 'Poly_B': 'PTA', 'Score': '+', 'DOI': '10.1039/c9ta09292g'}
+{'num': 1794, 'Poly_A': 'EPIP', 'Poly_B': 'PTA', 'Score': '+', 'DOI': '10.1039/c9ta09292g'}
+{'num': 1807, 'Poly_A': 'PBD', 'Poly_B': 'PSAN', 'Score': 0, 'DOI': '10.1016/b978-0-12-546801-5.50008-6'}
+{'num': 1808, 'Poly_A': 'PMMA', 'Poly_B': 'PHMA', 'Score': 0, 'DOI': '10.1016/b978-0-12-546801-5.50008-6'}
+{'num': 1829, 'Poly_A': 'PTMC', 'Poly_B': 'PAA', 'Score': 0.5, 'DOI': '10.1080/10601329708011056'}
+{'num': 1834, 'Poly_A': 'EVOH', 'Poly_B': 'PVA', 'Score': 1, 'DOI': '10.1080/00222348.2018.1460153'}
+{'num': 1835, 'Poly_A': 'PP\n\n\nPP', 'Poly_B': 'PLA\n\n\nEVOH', 'Score': '0\n\n\n0', 'DOI': '10.1080/00222348.2018.1460153'}
+{'num': 1836, 'Poly_A': 'EVOH\n\n\nEVOH', 'Poly_B': 'PLA\n\n\nPP', 'Score': '1\n\n\n0', 'DOI': '10.1080/00222348.2018.1460153'}
+{'num': 1837, 'Poly_A': 'PP\n\n\nEVOH', 'Poly_B': 'PLA\n\n\nPLA', 'Score': '+\n\n\n+', 'DOI': '10.1080/00222348.2018.1460153'}
+{'num': 1866, 'Poly_A': 'HDPE', 'Poly_B': 'PET', 'Score': '+', 'DOI': '10.1002/1097-4628(20001031)78:5<1017::aid-app110>3.0.co;2-6'}
+{'num': 1867, 'Poly_A': 'HDPE', 'Poly_B': 'PET', 'Score': '+', 'DOI': '10.1002/1097-4628(20001031)78:5<1017::aid-app110>3.0.co;2-6'}
+{'num': 1884, 'Poly_A': 'PHB', 'Poly_B': 'PVA', 'Score': 1, 'DOI': '10.1002/app.1995.070560103'}
+{'num': 1885, 'Poly_A': 'PHB', 'Poly_B': 'PVA', 'Score': 1, 'DOI': '10.1002/app.1995.070560103'}
+{'num': 1887, 'Poly_A': 'PHB', 'Poly_B': 'PVA', 'Score': 1, 'DOI': '10.1002/app.1995.070560103'}
+{'num': 1888, 'Poly_A': 'PHB', 'Poly_B': 'PVA', 'Score': '+', 'DOI': '10.1002/app.1995.070560103'}
+{'num': 1889, 'Poly_A': 'PHB', 'Poly_B': 'PVA', 'Score': '+', 'DOI': '10.1002/app.1995.070560103'}
+{'num': 1890, 'Poly_A': 'PHB', 'Poly_B': 'PVA', 'Score': '+', 'DOI': '10.1002/app.1995.070560103'}
+{'num': 1891, 'Poly_A': 'PHB', 'Poly_B': 'PVA', 'Score': 1, 'DOI': '10.1002/app.1995.070560103'}
+{'num': 1892, 'Poly_A': 'PHB', 'Poly_B': 'PVA', 'Score': 1, 'DOI': '10.1002/app.1995.070560103'}
+{'num': 1893, 'Poly_A': 'PHB', 'Poly_B': 'PVA', 'Score': 1, 'DOI': '10.1002/app.1995.070560103'}
+{'num': 1913, 'Poly_A': 'PS-g-graphene', 'Poly_B': 'PS-based copolymer', 'Score': 1, 'DOI': '10.1016/j.matchemphys.2011.07.067'}
+{'num': 1914, 'Poly_A': 'PS-g-graphene', 'Poly_B': 'PS-based copolymer', 'Score': 1, 'DOI': '10.1016/j.matchemphys.2011.07.067'}
+{'num': 1956, 'Poly_A': 'LDPE', 'Poly_B': 'PVAc', 'Score': '+', 'DOI': '10.1080/00914030108033345'}
+{'num': 1971, 'Poly_A': 'PAN', 'Poly_B': 'PBMA', 'Score': 0.5, 'DOI': '10.1002/app.30613'}
+{'num': 1972, 'Poly_A': 'PAN', 'Poly_B': 'PBMA', 'Score': 0.5, 'DOI': '10.1002/app.30613'}
+{'num': 1973, 'Poly_A': 'PAN', 'Poly_B': 'PBMA', 'Score': 0.5, 'DOI': '10.1002/app.30613'}
+{'num': 2010, 'Poly_A': 'PVC', 'Poly_B': 'PMMA', 'Score': 1, 'DOI': "['16547.txt']"}
+{'num': 2015, 'Poly_A': 'PVDF', 'Poly_B': 'PVAC', 'Score': 1, 'DOI': "['16547.txt']"}
+{'num': 2016, 'Poly_A': 'PVDF', 'Poly_B': 'PVMK', 'Score': 1, 'DOI': "['16547.txt']"}
+{'num': None, 'Poly_A': None, 'Poly_B': 'PVME', 'Score': 0, 'DOI': "['16547.txt']"}
+{'num': 2021, 'Poly_A': 'PPO', 'Poly_B': 'PPCS', 'Score': 0, 'DOI': "['16547.txt']"}
+{'num': None, 'Poly_A': None, 'Poly_B': 'PS', 'Score': 1, 'DOI': "['16547.txt']"}
+{'num': 2205, 'Poly_A': 'PVDF', 'Poly_B': 'LPMASQ', 'Score': 1, 'DOI': "['18045.txt']"}
+{'num': 2275, 'Poly_A': 'PBS', 'Poly_B': 'PLA', 'Score': '↑', 'DOI': ' "[\'18707.txt\']"'}
+{'num': 2335, 'Poly_A': 'PVC', 'Poly_B': 'PCL', 'Score': 1, 'DOI': "['19207.txt']"}
+{'num': 2363, 'Poly_A': 'PP', 'Poly_B': 'PC', 'Score': 0, 'DOI': "['19392.txt']"}
+{'num': 2378, 'Poly_A': 'PS', 'Poly_B': 'PMMA', 'Score': 0, 'DOI': "['19450.txt']"}
+{'num': 2401, 'Poly_A': 'KF', 'Poly_B': 'PLA', 'Score': '+', 'DOI': '10.1007/s10924-017-1092-4'}
+{'num': 2402, 'Poly_A': 'KF', 'Poly_B': 'PLA', 'Score': '+', 'DOI': '10.1007/s10924-017-1092-4'}
+{'num': 2403, 'Poly_A': 'KF', 'Poly_B': 'PLA', 'Score': '+', 'DOI': '10.1007/s10924-017-1092-4'}
+{'num': 2404, 'Poly_A': 'PP', 'Poly_B': 'MAPP', 'Score': '+', 'DOI': '10.1002/app.33613'}
+{'num': 2411, 'Poly_A': 'PBT', 'Poly_B': 'SAN', 'Score': '+', 'DOI': '10.1007/978-3-030-45135-6'}
+{'num': 2412, 'Poly_A': 'PBS', 'Poly_B': 'TPS', 'Score': '+', 'DOI': '10.1007/978-3-030-45135-6'}
+{'num': 2413, 'Poly_A': 'PBS', 'Poly_B': 'TPS', 'Score': 0.5, 'DOI': '10.1007/978-3-030-45135-6'}
+{'num': 2414, 'Poly_A': 'PBAT', 'Poly_B': 'PBS', 'Score': '+', 'DOI': '10.1007/978-3-030-45135-6'}
+{'num': 2415, 'Poly_A': 'PCL', 'Poly_B': 'PLA', 'Score': 0, 'DOI': "10.1007/978-3-030-45135-6'"}
+{'num': 2418, 'Poly_A': 'PBS', 'Poly_B': 'PLLA', 'Score': '+', 'DOI': '10.1007/978-3-030-45135-6'}
+{'num': 2420, 'Poly_A': 'PBS', 'Poly_B': 'PCL', 'Score': 1, 'DOI': '10.1007/978-3-030-45135-6'}
+{'num': 2421, 'Poly_A': 'PBS', 'Poly_B': 'PHBV', 'Score': 1, 'DOI': '10.1007/978-3-030-45135-6'}
+{'num': 2421, 'Poly_A': 'PBS', 'Poly_B': 'PHB', 'Score': 1, 'DOI': '10.1007/978-3-030-45135-6'}
+{'num': 2422, 'Poly_A': 'PE', 'Poly_B': 'polyamides', 'Score': 1, 'DOI': '10.1007/978-3-030-45135-6'}
+{'num': 2432, 'Poly_A': 'MPBAT', 'Poly_B': 'starch', 'Score': 1, 'DOI': '10.1002/star.201900098'}
+{'num': 2433, 'Poly_A': 'MPBAT', 'Poly_B': 'PU(polyurethane)', 'Score': 1, 'DOI': '10.1002/star.201900098'}
+{'num': 2436, 'Poly_A': 'PHFA', 'Poly_B': 'Poly(Bisphenol A carbonate)', 'Score': 1, 'DOI': '10.1002/app.1984.070291277'}
+{'num': 2436, 'Poly_A': 'PHFA', 'Poly_B': 'polymethyl methacrylate', 'Score': 1, 'DOI': '10.1002/app.1984.070291277'}
+{'num': 2436, 'Poly_A': 'PHFA', 'Poly_B': 'MPPO', 'Score': 1, 'DOI': '10.1002/app.1984.070291277'}
+{'num': 2437, 'Poly_A': 'TPS', 'Poly_B': 'PLA', 'Score': 0, 'DOI': '10.4028/www.scientific.net/amr.747.67'}
+{'num': 2447, 'Poly_A': 'PLA', 'Poly_B': 'CNF', 'Score': '1+', 'DOI': '10.1021/acs.biomac.7b00173'}
+{'num': 2448, 'Poly_A': 'PLA', 'Poly_B': 'CNF', 'Score': '1+', 'DOI': '10.1021/acs.biomac.7b00173'}
+{'num': 2453, 'Poly_A': 'polybutadiene', 'Poly_B': 'polystyrene', 'Score': 0, 'DOI': '10.1002/app.1986.070320112'}
+{'num': 2454, 'Poly_A': 'polybutadiene(PBD)', 'Poly_B': 'polystyrene(PSI)', 'Score': 0, 'DOI': '10.1002/app.1986.070320112'}
+{'num': 2455, 'Poly_A': 'polybutadiene', 'Poly_B': 'polystyrene', 'Score': '+', 'DOI': '10.1002/app.1986.070320112'}
+{'num': 2456, 'Poly_A': 'PA6', 'Poly_B': 'POE', 'Score': '+', 'DOI': '10.1002/app.32547'}
+{'num': 2457, 'Poly_A': 'PA6', 'Poly_B': 'POE', 'Score': 1, 'DOI': '10.1002/app.32547'}
+{'num': 2462, 'Poly_A': 'PVC', 'Poly_B': 'PMMA', 'Score': 1, 'DOI': '10.1002/(sici)1097-4628(19971024)66:4<761::aid-app17>3.0.co;2-u'}
+{'num': 2462, 'Poly_A': 'PVC', 'Poly_B': 'PGMA', 'Score': 0, 'DOI': '10.1002/(sici)1097-4628(19971024)66:4<761::aid-app17>3.0.co;2-u'}
+{'num': 2473, 'Poly_A': 'PEA', 'Poly_B': 'PEMA', 'Score': 1, 'DOI': '10.1002/app.1986.070310701'}
+{'num': 2473, 'Poly_A': 'PEA', 'Poly_B': 'PtBA', 'Score': 0, 'DOI': '10.1002/app.1986.070310701'}
+{'num': 2474, 'Poly_A': 'PEA', 'Poly_B': 'PEMA', 'Score': 1, 'DOI': '10.1002/app.1986.070310701'}
+{'num': 2479, 'Poly_A': 'PVA', 'Poly_B': 'PMMA', 'Score': 0, 'DOI': '10.1002/app.23337'}
+{'num': 2486, 'Poly_A': 'CPI(cis-1,4-polyisopren)', 'Poly_B': 'TPI(trans-1,4-polyisopren)', 'Score': 1, 'DOI': '10.1016/j.polymer.2018.08.031'}
+{'num': 2488, 'Poly_A': 'CPI(cis-1,4-polyisopren)', 'Poly_B': 'TPI(trans-1,4-polyisopren)', 'Score': 1, 'DOI': '10.1016/j.polymer.2018.08.031'}
+{'num': 2489, 'Poly_A': 'CPI(cis-1,4-polyisopren)', 'Poly_B': 'TPI(trans-1,4-polyisopren)', 'Score': 1, 'DOI': '10.1016/j.polymer.2018.08.031'}
+{'num': 2490, 'Poly_A': 'CPI(cis-1,4-polyisopren)', 'Poly_B': 'TPI(trans-1,4-polyisopren)', 'Score': 1, 'DOI': '10.1016/j.polymer.2018.08.031'}
+{'num': 2493, 'Poly_A': 'PC(bisphenol-A polycarbonate )', 'Poly_B': 'PET', 'Score': 1, 'DOI': '10.1002/polb.1990.090280901'}
+{'num': 2494, 'Poly_A': 'PC(bisphenol-A polycarbonate )', 'Poly_B': 'PET', 'Score': '+', 'DOI': '10.1002/polb.1990.090280901'}
+{'num': 2495, 'Poly_A': 'PEEK', 'Poly_B': 'PES', 'Score': 1, 'DOI': '10.1002/app.1990.070411112'}
+{'num': 2496, 'Poly_A': 'PEEK(Poly (aryl ether ether ketone))', 'Poly_B': 'PES(poly( aryl ether sulfone))', 'Score': 1, 'DOI': '10.1002/app.1990.070411112'}
+{'num': 2497, 'Poly_A': 'PS', 'Poly_B': 'PCPA', 'Score': '+', 'DOI': '10.1080/00914030600620589'}
+{'num': 2498, 'Poly_A': 'PS', 'Poly_B': 'PCPA', 'Score': '+', 'DOI': '10.1080/00914030600620589'}
+{'num': 2502, 'Poly_A': 'EPDM', 'Poly_B': 'PP', 'Score': '+', 'DOI': '10.1016/j.polymer.2005.05.066'}
+{'num': 2519, 'Poly_A': 'PBAT', 'Poly_B': 'PLA', 'Score': '+', 'DOI': '10.1021/acs.iecr.0c04285'}
+{'num': 2522, 'Poly_A': 'PBAT', 'Poly_B': 'PLA', 'Score': '+', 'DOI': '10.1021/acs.iecr.0c04285'}
+{'num': 2523, 'Poly_A': 'PBAT', 'Poly_B': 'PLA', 'Score': '+', 'DOI': '10.1021/acs.iecr.0c04285'}
+{'num': 2536, 'Poly_A': 'PDMS', 'Poly_B': 'TPU', 'Score': '+', 'DOI': '10.1007/s10965-012-9872-y'}
+{'num': 2563, 'Poly_A': 'PEGM', 'Poly_B': 'PLA(PLA grade having carboxyl terminal groups)', 'Score': 'more', 'DOI': '10.1016/j.reactfunctpolym.2017.05.005'}
+{'num': 2564, 'Poly_A': 'PEGM', 'Poly_B': 'PLA(PLA grade having carboxyl terminal groups)', 'Score': 'more', 'DOI': '10.1016/j.reactfunctpolym.2017.05.005'}
+{'num': 2565, 'Poly_A': 'PEGM', 'Poly_B': 'PLA(PLA grade having carboxyl terminal groups)', 'Score': 'more', 'DOI': '10.1016/j.reactfunctpolym.2017.05.005'}
+{'num': 2566, 'Poly_A': 'polyoleﬁns', 'Poly_B': 'thermo- plastic elastomers.', 'Score': '1+', 'DOI': '10.1002/app.12454'}
+{'num': 2590, 'Poly_A': 'TMBPS–polyarylate', 'Poly_B': 'PVC', 'Score': 1, 'DOI': '10.1002/(sici)1097-4628(19981212)70:11<2173::aid-app11>3.0.co;2-i'}
+{'num': 2592, 'Poly_A': 'BPS–polyarylates', 'Poly_B': 'PVC', 'Score': 0, 'DOI': '10.1002/(sici)1097-4628(19981212)70:11<2173::aid-app11>3.0.co;2-i'}
+{'num': 2592, 'Poly_A': 'TMBPA–polyarylates', 'Poly_B': 'PVC', 'Score': 0, 'DOI': '10.1002/(sici)1097-4628(19981212)70:11<2173::aid-app11>3.0.co;2-i'}
+{'num': 2593, 'Poly_A': 'TMBPA–polyarylates', 'Poly_B': 'PVC', 'Score': 0, 'DOI': '10.1002/(sici)1097-4628(19981212)70:11<2173::aid-app11>3.0.co;2-i'}
+{'num': 2601, 'Poly_A': 'EPDM', 'Poly_B': 'NBR', 'Score': 0, 'DOI': '10.1016/s1658-3655(12)60025-9'}
+{'num': 2605, 'Poly_A': 'CPVC', 'Poly_B': 'PVC', 'Score': 0, 'DOI': '10.1002/pen.760221109'}
+{'num': 2606, 'Poly_A': 'CPVC', 'Poly_B': 'PVC', 'Score': 0.5, 'DOI': '10.1002/pen.760221109'}
+{'num': 2608, 'Poly_A': 'PS', 'Poly_B': 'PVME', 'Score': 0, 'DOI': '10.1021/ma60019a010'}
+{'num': 2635, 'Poly_A': 'PMMA', 'Poly_B': 'PVC', 'Score': 1, 'DOI': '10.1143/jjap.38.3091'}
+{'num': 2635, 'Poly_A': 'PS', 'Poly_B': 'PVC', 'Score': 0, 'DOI': '10.1143/jjap.38.3091'}
+{'num': 2636, 'Poly_A': 'PMMA', 'Poly_B': 'PVC', 'Score': 1, 'DOI': '10.1143/jjap.38.3091'}
+{'num': 2636, 'Poly_A': 'PS', 'Poly_B': 'PVC', 'Score': 0, 'DOI': '10.1143/jjap.38.3091'}
+{'num': 2648, 'Poly_A': 'PHBH', 'Poly_B': 'PLA', 'Score': '+', 'DOI': '10.1016/j.polymertesting.2014.12.014'}
+{'num': 2650, 'Poly_A': 'PHBH', 'Poly_B': 'PLA', 'Score': '+', 'DOI': '10.1016/j.polymertesting.2014.12.014'}
+{'num': 2651, 'Poly_A': 'PHBH', 'Poly_B': 'PLA', 'Score': '+', 'DOI': '10.1016/j.polymertesting.2014.12.014'}
+{'num': 2652, 'Poly_A': 'PHBH', 'Poly_B': 'PLA', 'Score': '+', 'DOI': '10.1016/j.polymertesting.2014.12.014'}
+{'num': 2654, 'Poly_A': 'PHBH', 'Poly_B': 'PLA', 'Score': '+', 'DOI': '10.1016/j.polymertesting.2014.12.014'}
+{'num': 2674, 'Poly_A': 'PBS', 'Poly_B': 'PHBV', 'Score': '+', 'DOI': '10.3390/polym10050506'}
+{'num': 2674, 'Poly_A': 'PBS', 'Poly_B': 'PHB', 'Score': '+', 'DOI': '10.3390/polym10050506'}
+{'num': 2696, 'Poly_A': 'SPEEK(sulfonated PEEK)', 'Poly_B': 'PVDF-grafted-PSSA', 'Score': 1, 'DOI': '10.1039/c5ra11894h'}
+{'num': 2697, 'Poly_A': 'SPEEK(sulfonated PEEK)', 'Poly_B': 'PVDF', 'Score': 0, 'DOI': '10.1039/c5ra11894h'}
+{'num': 2699, 'Poly_A': 'SPEEK(sulfonated PEEK)', 'Poly_B': 'PVDF-grafted-PSSA', 'Score': 1, 'DOI': '10.1039/c5ra11894h'}
+{'num': 2711, 'Poly_A': 'PEMA', 'Poly_B': 'NBR', 'Score': 1, 'DOI': '10.1515/chem-2017-0047'}
+{'num': 2712, 'Poly_A': 'PEMA', 'Poly_B': 'NBR', 'Score': 1, 'DOI': '10.1515/chem-2017-0047'}
+{'num': 2713, 'Poly_A': 'PEMA', 'Poly_B': 'NBR', 'Score': 1, 'DOI': '10.1515/chem-2017-0047'}
+{'num': 2714, 'Poly_A': 'PEMA', 'Poly_B': 'NBR', 'Score': 1, 'DOI': '10.1515/chem-2017-0047'}
+{'num': 2715, 'Poly_A': 'PEMA', 'Poly_B': 'NBR', 'Score': 1, 'DOI': '10.1515/chem-2017-0047'}
+{'num': 2716, 'Poly_A': 'PEMA', 'Poly_B': 'NBR', 'Score': 1, 'DOI': '10.1515/chem-2017-0047'}
+{'num': 2717, 'Poly_A': 'PEMA', 'Poly_B': 'NBR', 'Score': 1, 'DOI': '10.1515/chem-2017-0047'}
+{'num': 2718, 'Poly_A': 'PEMA', 'Poly_B': 'NBR', 'Score': 1, 'DOI': '10.1515/chem-2017-0047'}
+{'num': 2719, 'Poly_A': 'PEMA', 'Poly_B': 'NBR', 'Score': 1, 'DOI': '10.1515/chem-2017-0047'}
+{'num': 2760, 'Poly_A': 'polycaprolactone(PCL)', 'Poly_B': 'PLA', 'Score': '+', 'DOI': '10.1002/app.42322'}
+{'num': 2761, 'Poly_A': 'poly(butylene adipate-co-terephthalate)(PBAT)', 'Poly_B': 'PLA', 'Score': '+', 'DOI': '10.1002/app.42322'}
+{'num': 2771, 'Poly_A': 'LEDPNR', 'Poly_B': 'PLLA', 'Score': 1, 'DOI': '10.1002/app.27095'}
+{'num': 2772, 'Poly_A': 'PMMA', 'Poly_B': 'poly(styrene-co-methyl methacrylate)', 'Score': 1, 'DOI': '10.1080/10826070600599579'}
+{'num': 2772, 'Poly_A': 'PMMA', 'Poly_B': 'poly (styrene-co-acrylonitrile)', 'Score': 1, 'DOI': '10.1080/10826070600599579'}
+{'num': 2778, 'Poly_A': 'PP', 'Poly_B': 'elastomers of different polarity', 'Score': '+', 'DOI': '10.1177/0307174x1804500404'}
+{'num': 2781, 'Poly_A': 'P34HB', 'Poly_B': 'Thermoplastic polyurethane (TPU)', 'Score': 0.5, 'DOI': '10.4028/www.scientific.net/amr.815.552'}
+{'num': 2785, 'Poly_A': 'PLA', 'Poly_B': 'GMA-g-POE', 'Score': '+', 'DOI': '10.1016/j.eurpolymj.2009.04.028'}
+{'num': 2786, 'Poly_A': 'PLA', 'Poly_B': 'GMA-g-POE', 'Score': '+', 'DOI': '10.1016/j.eurpolymj.2009.04.028'}
+{'num': 2788, 'Poly_A': 'PVA', 'Poly_B': 'PSSNa', 'Score': 1, 'DOI': '10.1002/app.30598'}
+{'num': 2815, 'Poly_A': 'PVC', 'Poly_B': 'StCn(starch cinnamat)', 'Score': 1, 'DOI': '10.1080/00914030304928'}
+{'num': None, 'Poly_A': 'SAN', 'Poly_B': 'StCn(starch cinnamat)', 'Score': 1, 'DOI': None}
+{'num': None, 'Poly_A': 'PS', 'Poly_B': 'StCn(starch cinnamat)', 'Score': 0, 'DOI': None}
+{'num': 2816, 'Poly_A': 'PMMA', 'Poly_B': 'StCn(starch cinnamat)', 'Score': 1, 'DOI': '10.1080/00914030304928'}
+{'num': 2885, 'Poly_A': 'PS', 'Poly_B': 'PVA', 'Score': 0, 'DOI': '10.1177/096739111502300607'}
+{'num': 2903, 'Poly_A': 'LDPE', 'Poly_B': 'hydrolyzed collagen (HC)', 'Score': 0, 'DOI': '10.1016/j.eurpolymj.2004.12.005'}
+{'num': 2904, 'Poly_A': 'poly- amide', 'Poly_B': 'polyoleﬁns(多元醇)', 'Score': 0, 'DOI': '10.1016/s0141-3910(03)00052-1'}
+{'num': 2906, 'Poly_A': None, 'Poly_B': None, 'Score': 0, 'DOI': '10.1016/s0141-3910(03)00052-1'}
+{'num': 2915, 'Poly_A': 'PLA', 'Poly_B': 'poly(butylene adipate-co-terephthalate) (PBAT)', 'Score': '+', 'DOI': '10.1515/polyeng-2016-0439'}
+{'num': 2916, 'Poly_A': 'PLA', 'Poly_B': 'poly(butylene adipate-co-terephthalate) (PBAT)', 'Score': 0, 'DOI': '10.1515/polyeng-2016-0439'}
+{'num': 2917, 'Poly_A': 'polypropylene (PP)', 'Poly_B': 'ammonium polyphosphate (APP)', 'Score': 0, 'DOI': '10.1016/j.compscitech.2013.08.026'}
+{'num': 2919, 'Poly_A': 'polypropylene (PP)', 'Poly_B': 'ammonium polyphosphate (APP)', 'Score': '+', 'DOI': '10.1016/j.compscitech.2013.08.026'}
+{'num': 2944, 'Poly_A': 'PE', 'Poly_B': 'asphalt', 'Score': 0, 'DOI': '10.1080/10298436.2019.1575968'}
+{'num': 2945, 'Poly_A': 'medium-densitypolyethylene \n(MDPE)', 'Poly_B': 'asphalt', 'Score': 0, 'DOI': '10.1080/10298436.2019.1575968'}
+{'num': 2946, 'Poly_A': 'LDPE', 'Poly_B': 'asphalt', 'Score': 1, 'DOI': '10.1080/10298436.2019.1575968'}
+{'num': None, 'Poly_A': 'LLDPE', 'Poly_B': 'asphalt', 'Score': 1, 'DOI': None}
+{'num': 3052, 'Poly_A': 'PBAT', 'Poly_B': 'PBE', 'Score': 0, 'DOI': '10.1016/j.eurpolymj.2016.12.009'}
+{'num': 3055, 'Poly_A': 'PF resin', 'Poly_B': 'polyethelyne glycol (PEG)', 'Score': 1, 'DOI': '10.1179/wsc.2008.18.1.43'}
+{'num': 3059, 'Poly_A': 'PLA', 'Poly_B': 'PBT', 'Score': 1, 'DOI': '10.1039/c8ra05161e'}
+{'num': 3061, 'Poly_A': 'PLA', 'Poly_B': 'PBT', 'Score': '+', 'DOI': '10.1039/c8ra05161e'}
+{'num': 3063, 'Poly_A': 'PLA', 'Poly_B': 'PCL', 'Score': 0, 'DOI': '10.1016/j.egypro.2016.05.026'}
+{'num': 3071, 'Poly_A': 'Polyethylene', 'Poly_B': 'polypropylene', 'Score': 1, 'DOI': '10.1111/j.1365-2710.1993.tb00876.x'}
+{'num': 3075, 'Poly_A': 'PAN', 'Poly_B': 'PAA', 'Score': 1, 'DOI': '10.1002/pi.4645'}
+{'num': None, 'Poly_A': 'PAN', 'Poly_B': 'PEG', 'Score': 1, 'DOI': None}
+{'num': None, 'Poly_A': 'PAN', 'Poly_B': 'PMMA', 'Score': 0, 'DOI': None}
+{'num': None, 'Poly_A': 'PAN', 'Poly_B': 'PS', 'Score': 0, 'DOI': None}
+{'num': 3116, 'Poly_A': 'PMMA-co-BMA', 'Poly_B': 'chitosan', 'Score': 1, 'DOI': '10.1080/03602559.2013.844240'}
+{'num': 3119, 'Poly_A': 'Poly (acrylic acid)', 'Poly_B': 'poly (sodium styrenesulfonate)', 'Score': 1, 'DOI': '10.1080/03602559.2013.844240'}
+{'num': 3137, 'Poly_A': 'PVA', 'Poly_B': 'Silk Fibroin', 'Score': 0, 'DOI': '10.1002/polb.1994.090320205'}
+{'num': 3162, 'Poly_A': 'Poly(ethylene-ortho-phthalate)', 'Poly_B': 'PMMA', 'Score': 0, 'DOI': '10.1002/app.1986.070320735'}
+{'num': 3163, 'Poly_A': 'Poly(ethylene-ortho-phthalate)', 'Poly_B': 'PVAc', 'Score': 1, 'DOI': '10.1002/app.1986.070320735'}
+{'num': 3165, 'Poly_A': 'Poly(ethylene-ortho-phthalate)', 'Poly_B': 'PMMA', 'Score': 0.5, 'DOI': '10.1002/app.1986.070320735'}
+{'num': 3182, 'Poly_A': 'NR', 'Poly_B': 'SSBR', 'Score': 1, 'DOI': '10.5254/rct.19.80439'}
+{'num': 3228, 'Poly_A': 'PP', 'Poly_B': 'LDPE', 'Score': '+', 'DOI': '10.1177/1847980417715929'}
+{'num': 3253, 'Poly_A': 'PVC', 'Poly_B': 'PS', 'Score': 0, 'DOI': '10.1080/00222340500364817'}
+{'num': 3260, 'Poly_A': 'LDPE', 'Poly_B': 'HDPE', 'Score': 1, 'DOI': '10.1016/j.supflu.2016.05.038'}
+{'num': 3261, 'Poly_A': 'LDPE', 'Poly_B': 'HDPE', 'Score': 1, 'DOI': '10.1016/j.supflu.2016.05.038'}
+{'num': 3262, 'Poly_A': 'LDPE', 'Poly_B': 'PP', 'Score': '+', 'DOI': '10.1016/j.supflu.2016.05.038'}
+{'num': 3265, 'Poly_A': 'SBR', 'Poly_B': 'NBR', 'Score': 0.5, 'DOI': '10.1016/s0032-3861(01)00554-7'}
+{'num': 3266, 'Poly_A': 'SBR', 'Poly_B': 'NBR', 'Score': 0.5, 'DOI': '10.1016/s0032-3861(01)00554-7'}
+{'num': 3267, 'Poly_A': 'SBR', 'Poly_B': 'NBR', 'Score': 0.5, 'DOI': '10.1016/s0032-3861(01)00554-7'}
+{'num': 3268, 'Poly_A': 'SBR', 'Poly_B': 'NBR', 'Score': 0.5, 'DOI': '10.1016/s0032-3861(01)00554-7'}
+{'num': 3286, 'Poly_A': 'EuE', 'Poly_B': 'EuRL', 'Score': 1, 'DOI': '10.1002/(sici)1097-4628(20000613)76:11<1662::aid-app7>3.0.co;2-t'}
+{'num': 3286, 'Poly_A': 'EuE', 'Poly_B': 'EuRS', 'Score': 1, 'DOI': '10.1002/(sici)1097-4628(20000613)76:11<1662::aid-app7>3.0.co;2-t'}
+{'num': 3286, 'Poly_A': 'EuNE', 'Poly_B': 'EuL', 'Score': 0, 'DOI': '10.1002/(sici)1097-4628(20000613)76:11<1662::aid-app7>3.0.co;2-t'}
+{'num': 3286, 'Poly_A': 'EuNE', 'Poly_B': 'EuE', 'Score': 0, 'DOI': '10.1002/(sici)1097-4628(20000613)76:11<1662::aid-app7>3.0.co;2-t'}
+{'num': 3286, 'Poly_A': 'EuL', 'Poly_B': 'EuS', 'Score': 0, 'DOI': '10.1002/(sici)1097-4628(20000613)76:11<1662::aid-app7>3.0.co;2-t'}
+{'num': 3287, 'Poly_A': 'EuRS', 'Poly_B': 'EuRL', 'Score': 1, 'DOI': '10.1002/(sici)1097-4628(20000613)76:11<1662::aid-app7>3.0.co;2-t'}
+{'num': 3288, 'Poly_A': 'EuL', 'Poly_B': 'EuS', 'Score': 0, 'DOI': '10.1002/(sici)1097-4628(20000613)76:11<1662::aid-app7>3.0.co;2-t'}
+{'num': 3291, 'Poly_A': 'CPC', 'Poly_B': 'NBR', 'Score': 1, 'DOI': None}
+{'num': 3312, 'Poly_A': 'PECH-Squ', 'Poly_B': 'Chitosan', 'Score': 1, 'DOI': '10.1007/s00289-018-2290-5'}
+{'num': 3313, 'Poly_A': 'PECH-Squ', 'Poly_B': 'Chitosan', 'Score': 1, 'DOI': '10.1007/s00289-018-2290-5'}
+{'num': 3334, 'Poly_A': 'PPE', 'Poly_B': 'PMMA', 'Score': '+', 'DOI': '10.1016/j.polymer.2012.05.057'}
+{'num': 3335, 'Poly_A': 'PPE', 'Poly_B': 'PMMA', 'Score': 0, 'DOI': '10.1016/j.polymer.2012.05.057'}
+{'num': 3335, 'Poly_A': 'PPE', 'Poly_B': 'PMMA', 'Score': '+', 'DOI': '10.1016/j.polymer.2012.05.057'}
+{'num': 3335, 'Poly_A': 'PPE', 'Poly_B': 'PMMA', 'Score': '+', 'DOI': '10.1016/j.polymer.2012.05.057'}
+{'num': 3335, 'Poly_A': 'PPE', 'Poly_B': 'PMMA', 'Score': '+', 'DOI': '10.1016/j.polymer.2012.05.057'}
+{'num': 3337, 'Poly_A': 'ENR', 'Poly_B': 'Novolac', 'Score': 1, 'DOI': '10.1002/app.1989.070370212'}
+{'num': 3337, 'Poly_A': 'ENR', 'Poly_B': 'Resole', 'Score': 0.5, 'DOI': '10.1002/app.1989.070370212'}
+{'num': 3337, 'Poly_A': 'ENR', 'Poly_B': 'Phenoxy', 'Score': 0.5, 'DOI': '10.1002/app.1989.070370212'}
+{'num': 3337, 'Poly_A': 'ENR', 'Poly_B': 'CER(cured epoxy resin)', 'Score': 0, 'DOI': '10.1002/app.1989.070370212'}
+{'num': 3338, 'Poly_A': 'ENR', 'Poly_B': 'Novolac', 'Score': 1, 'DOI': '10.1002/app.1989.070370212'}
+{'num': 3339, 'Poly_A': 'ENR', 'Poly_B': 'Novolac', 'Score': 1, 'DOI': '10.1002/app.1989.070370212'}
+{'num': 3340, 'Poly_A': 'ENR', 'Poly_B': 'CER(cured epoxy resin)', 'Score': 0, 'DOI': '10.1002/app.1989.070370212'}
+{'num': 3344, 'Poly_A': 'PA66', 'Poly_B': 'ABS', 'Score': '+', 'DOI': '10.1002/pen.22105'}
+{'num': 3344, 'Poly_A': 'PB-g-MAH', 'Poly_B': 'PB', 'Score': 1, 'DOI': '10.1002/pen.22105'}
+{'num': 3345, 'Poly_A': 'PA66', 'Poly_B': 'ABS', 'Score': 0, 'DOI': '10.1002/pen.22105'}
+{'num': 3359, 'Poly_A': 'PTT', 'Poly_B': 'PBAT', 'Score': '+', 'DOI': '10.1002/vnl.21475'}
+{'num': 3363, 'Poly_A': 'R-PET', 'Poly_B': 'ABS', 'Score': 0.5, 'DOI': '10.1002/app.36984'}
+{'num': 3363, 'Poly_A': 'R-PET', 'Poly_B': 'ABS', 'Score': '+', 'DOI': '10.1002/app.36984'}
+{'num': 3364, 'Poly_A': 'R-PET', 'Poly_B': 'ABS', 'Score': '+', 'DOI': '10.1002/app.36984'}
+{'num': 3365, 'Poly_A': 'R-PET', 'Poly_B': 'ABS', 'Score': '+', 'DOI': '10.1002/app.36984'}
+{'num': 3366, 'Poly_A': 'R-PET', 'Poly_B': 'ABS', 'Score': 0.5, 'DOI': '10.1002/app.36984'}
+{'num': 3366, 'Poly_A': 'R-PET', 'Poly_B': 'ABS', 'Score': '+', 'DOI': '10.1002/app.36984'}
+{'num': 3367, 'Poly_A': 'R-PET', 'Poly_B': 'ABS', 'Score': '+', 'DOI': '10.1002/app.36984'}
+{'num': 3383, 'Poly_A': 'SAN', 'Poly_B': 'PCL', 'Score': '+', 'DOI': '10.1002/app.1984.070290532'}
+{'num': 3384, 'Poly_A': 'SAN', 'Poly_B': 'PCL', 'Score': '+', 'DOI': '10.1002/app.1984.070290532'}
+{'num': 3385, 'Poly_A': 'SAN', 'Poly_B': 'PCL', 'Score': '+', 'DOI': '10.1002/app.1984.070290532'}
+{'num': 3386, 'Poly_A': 'PoClS', 'Poly_B': 'PPO', 'Score': 0, 'DOI': '10.1002/app.1984.070290532'}
+{'num': 3386, 'Poly_A': 'PpClS', 'Poly_B': 'PPO', 'Score': 0, 'DOI': '10.1002/app.1984.070290532'}
+{'num': 3386, 'Poly_A': 'P(pClS-oClS)', 'Poly_B': 'PPO', 'Score': 1, 'DOI': '10.1002/app.1984.070290532'}
+{'num': 3387, 'Poly_A': 'SAN', 'Poly_B': 'PCL', 'Score': '+', 'DOI': '10.1002/app.1984.070290532'}
+{'num': 3388, 'Poly_A': 'SAN', 'Poly_B': 'PCL', 'Score': '+', 'DOI': '10.1002/app.1984.070290532'}
+{'num': 3389, 'Poly_A': 'SAN', 'Poly_B': 'PCL', 'Score': '+', 'DOI': '10.1002/app.1984.070290532'}
+{'num': 3390, 'Poly_A': 'SAN', 'Poly_B': 'PCL', 'Score': '+', 'DOI': '10.1002/app.1984.070290532'}
+{'num': 3391, 'Poly_A': 'PS', 'Poly_B': 'PCL', 'Score': 0, 'DOI': '10.1002/app.1984.070290532'}
+{'num': 3392, 'Poly_A': 'SAN', 'Poly_B': 'PCL', 'Score': '+', 'DOI': '10.1002/app.1984.070290532'}
+{'num': 3434, 'Poly_A': 'EMA', 'Poly_B': 'XNBR', 'Score': 1, 'DOI': '10.1007/s00289-018-2474-z'}
+{'num': 3435, 'Poly_A': 'EMA', 'Poly_B': 'XNBR', 'Score': 1, 'DOI': '10.1007/s00289-018-2474-z'}
+{'num': 3441, 'Poly_A': 'PSF', 'Poly_B': 'TLCPA1', 'Score': '+', 'DOI': '10.1081/ppt-120017936'}
+{'num': 3483, 'Poly_A': 'PP', 'Poly_B': 'PS', 'Score': 0, 'DOI': '10.1007/s10118-010-9150-6'}
+{'num': 3484, 'Poly_A': 'PP', 'Poly_B': 'PS', 'Score': 0, 'DOI': '10.1007/s10118-010-9150-6'}
+{'num': 3495, 'Poly_A': 'PVC', 'Poly_B': 'NR', 'Score': '+', 'DOI': '10.1007/s00289-006-0524-4'}
+{'num': 3496, 'Poly_A': 'PE', 'Poly_B': 'NR', 'Score': '+', 'DOI': '10.1007/s00289-006-0524-4'}
+{'num': 3499, 'Poly_A': 'PS', 'Poly_B': 'PPO', 'Score': 1, 'DOI': '10.1021/ma071823c'}
+{'num': 3506, 'Poly_A': 'NBR', 'Poly_B': 'PP', 'Score': '+', 'DOI': '10.1002/app.35222'}
+{'num': 3508, 'Poly_A': 'NBR', 'Poly_B': 'PP', 'Score': '+', 'DOI': '10.1002/app.35222'}
+{'num': 3509, 'Poly_A': 'NBR', 'Poly_B': 'PP', 'Score': '+', 'DOI': '10.1002/app.35222'}
+{'num': 3510, 'Poly_A': 'NBR', 'Poly_B': 'PP', 'Score': '+', 'DOI': '10.1002/app.35222'}
+{'num': 3527, 'Poly_A': 'PLA', 'Poly_B': 'PC', 'Score': '+', 'DOI': '10.4028/www.scientific.net/amm.427-429.170'}
+{'num': 3539, 'Poly_A': 'PVP', 'Poly_B': 'methylcellulose', 'Score': 0, 'DOI': '10.1016/s0014-3057(02)00386-5'}
+{'num': 3540, 'Poly_A': 'PAM', 'Poly_B': 'carboxymethylcellulose', 'Score': 1, 'DOI': '10.1016/s0014-3057(02)00386-5'}
+{'num': 3543, 'Poly_A': 'PS', 'Poly_B': 'PPO', 'Score': 1, 'DOI': '10.1021/ma60076a039'}
+{'num': 3579, 'Poly_A': 'PLA', 'Poly_B': 'PS', 'Score': '+', 'DOI': '10.3390/polym11050846'}
+{'num': 3579, 'Poly_A': 'PLA', 'Poly_B': 'high-impact polystyrene', 'Score': '+', 'DOI': '10.3390/polym11050846'}
+{'num': 3580, 'Poly_A': 'PLA', 'Poly_B': 'SBS', 'Score': '+', 'DOI': '10.3390/polym11050846'}
+{'num': 3602, 'Poly_A': 'PLA', 'Poly_B': 'starch', 'Score': '+', 'DOI': '10.1007/s10924-011-0298-0'}
+{'num': 3603, 'Poly_A': 'PLA', 'Poly_B': 'starch', 'Score': 0, 'DOI': '10.1007/s10924-011-0298-0'}
+{'num': 3604, 'Poly_A': 'PLA', 'Poly_B': 'starch', 'Score': 0, 'DOI': '10.1007/s10924-011-0298-0'}
+{'num': 3605, 'Poly_A': 'PLA', 'Poly_B': 'starch', 'Score': 0, 'DOI': '10.1007/s10924-011-0298-0'}
+{'num': 3606, 'Poly_A': 'PLA', 'Poly_B': 'starch', 'Score': '+', 'DOI': '10.1007/s10924-011-0298-0'}
+{'num': 3607, 'Poly_A': 'PLA', 'Poly_B': 'starch', 'Score': '+', 'DOI': '10.1007/s10924-011-0298-0'}
+{'num': 3608, 'Poly_A': 'PLA', 'Poly_B': 'starch', 'Score': 0, 'DOI': '10.1007/s10924-011-0298-0'}
+{'num': 3609, 'Poly_A': 'PLA', 'Poly_B': 'starch', 'Score': '+', 'DOI': '10.1007/s10924-011-0298-0'}
+{'num': 3612, 'Poly_A': 'XNBR', 'Poly_B': 'SBR', 'Score': '+', 'DOI': '10.1016/j.matchemphys.2019.121926'}
+{'num': 3613, 'Poly_A': 'XNBR', 'Poly_B': 'SBR', 'Score': '+', 'DOI': '10.1016/j.matchemphys.2019.121926'}
+{'num': 3614, 'Poly_A': 'XNBR', 'Poly_B': 'SBR', 'Score': '+', 'DOI': '10.1016/j.matchemphys.2019.121926'}
+{'num': 3625, 'Poly_A': 'PMMA', 'Poly_B': 'PU', 'Score': '+', 'DOI': '10.4028/www.scientific.net/amr.627.873'}
+{'num': 3631, 'Poly_A': 'polycaprolactone(PCL)', 'Poly_B': 'PLA', 'Score': 0, 'DOI': '10.3389/fmats.2019.00206'}
+{'num': 3632, 'Poly_A': 'polycaprolactone(PCL)', 'Poly_B': 'PLA', 'Score': '+', 'DOI': '10.3389/fmats.2019.00206'}
+{'num': 3633, 'Poly_A': 'polycaprolactone(PCL)', 'Poly_B': 'PLA', 'Score': '+', 'DOI': '10.3389/fmats.2019.00206'}
+{'num': 3634, 'Poly_A': 'PA6', 'Poly_B': 'PP', 'Score': 0, 'DOI': '10.1134/s1560090418010062'}
+{'num': 3645, 'Poly_A': 'PMMA', 'Poly_B': 'PLA', 'Score': 1, 'DOI': '10.1016/s0254-0584(01)00401-1'}
+{'num': 3653, 'Poly_A': 'PBT', 'Poly_B': 'ABS', 'Score': '+', 'DOI': '10.1016/j.matdes.2013.07.066'}
+{'num': 3678, 'Poly_A': 'PBSL', 'Poly_B': 'PLLA', 'Score': '+', 'DOI': '10.1007/s00289-012-0748-4'}
+{'num': 3688, 'Poly_A': 'methylvinyl silicone rubber (SR)', 'Poly_B': 'PVDF', 'Score': 0, 'DOI': '10.1021/acs.iecr.9b03028'}
+{'num': 3693, 'Poly_A': 'PA6', 'Poly_B': 'PVDF', 'Score': '+', 'DOI': '10.1007/s10924-019-01607-8'}
+{'num': 3703, 'Poly_A': 'PP', 'Poly_B': 's-PB', 'Score': 0.5, 'DOI': '10.4028/www.scientific.net/kem.531-532.131'}
+{'num': 3704, 'Poly_A': 'PP', 'Poly_B': 's-PB', 'Score': 0.5, 'DOI': '10.4028/www.scientific.net/kem.531-532.131'}
+{'num': 3705, 'Poly_A': 'PP', 'Poly_B': 's-PB', 'Score': 0.5, 'DOI': '10.4028/www.scientific.net/kem.531-532.131'}
+{'num': 3706, 'Poly_A': 'PP', 'Poly_B': 's-PB', 'Score': 0.5, 'DOI': '10.4028/www.scientific.net/kem.531-532.131'}
+{'num': 3713, 'Poly_A': 'EPDM', 'Poly_B': 'NBR', 'Score': '+', 'DOI': '10.1177/0095244305050004'}
+{'num': 3715, 'Poly_A': 'EPDM', 'Poly_B': 'NBR', 'Score': '+', 'DOI': '10.1177/0095244305050004'}
+{'num': 3717, 'Poly_A': 'EPDM', 'Poly_B': 'NBR', 'Score': '+', 'DOI': '10.1177/0095244305050004'}
+{'num': 3718, 'Poly_A': 'EPDM', 'Poly_B': 'NBR', 'Score': '+', 'DOI': '10.1177/0095244305050004'}
+{'num': 3719, 'Poly_A': 'EPDM', 'Poly_B': 'NBR', 'Score': '+', 'DOI': '10.1177/0095244305050004'}
+{'num': 3730, 'Poly_A': 'PS', 'Poly_B': 'PMMA', 'Score': '+', 'DOI': '10.1039/c3py00164d'}
+{'num': 3754, 'Poly_A': 'PLLA', 'Poly_B': 'PGA', 'Score': '+', 'DOI': '10.1016/j.polymdegradstab.2020.109394'}
+{'num': 3808, 'Poly_A': 'NBR(poly butadiene- co-acrylonitrile )', 'Poly_B': 'BR (Polybutadiene)', 'Score': 0, 'DOI': '10.1002/app.1995.070581004'}
+{'num': 3809, 'Poly_A': 'NBR(poly butadiene- co-acrylonitrile )', 'Poly_B': 'BR (Polybutadiene)', 'Score': 0, 'DOI': '10.1002/app.1995.070581004'}
+{'num': 3810, 'Poly_A': 'NBR(poly butadiene- co-acrylonitrile )', 'Poly_B': 'BR (Polybutadiene)', 'Score': 0, 'DOI': '10.1002/app.1995.070581004'}
+{'num': 3832, 'Poly_A': 'polycaprolactone(PCL)', 'Poly_B': 'PVC', 'Score': 1, 'DOI': '10.1002/pol.1983.180210701'}
+{'num': 3833, 'Poly_A': 'PCE', 'Poly_B': 'PP', 'Score': '+', 'DOI': '10.1016/s0032-3861(98)00623-5'}
+{'num': 3834, 'Poly_A': 'PCE', 'Poly_B': 'polyoleﬁns', 'Score': 0, 'DOI': '10.1016/s0032-3861(98)00623-5'}
+{'num': 3835, 'Poly_A': 'PCE', 'Poly_B': 'LDPE(low-density polyethylene)', 'Score': '+', 'DOI': '10.1016/s0032-3861(98)00623-5'}
+{'num': 3836, 'Poly_A': 'PCE', 'Poly_B': 'PP', 'Score': 0, 'DOI': '10.1016/s0032-3861(98)00623-5'}
+{'num': 3837, 'Poly_A': 'PCE', 'Poly_B': 'PP', 'Score': 0, 'DOI': '10.1016/s0032-3861(98)00623-5'}
+{'num': 3837, 'Poly_A': 'PP', 'Poly_B': 'PCL', 'Score': 0, 'DOI': '10.1016/s0032-3861(98)00623-5'}
+{'num': 3839, 'Poly_A': 'PP', 'Poly_B': 'PEG', 'Score': '+', 'DOI': '10.1016/s0032-3861(98)00623-5'}
+{'num': 3840, 'Poly_A': 'PCE', 'Poly_B': 'PP', 'Score': 0, 'DOI': '10.1016/s0032-3861(98)00623-5'}
+{'num': 3841, 'Poly_A': 'PCE', 'Poly_B': 'PP', 'Score': '+', 'DOI': '10.1016/s0032-3861(98)00623-5'}
+{'num': 3856, 'Poly_A': 'PEG', 'Poly_B': 'MCC(microcrystalline cellulose)', 'Score': 0, 'DOI': '10.1016/j.porgcoat.2016.08.008'}
+{'num': 3857, 'Poly_A': 'PEG', 'Poly_B': 'PVP', 'Score': 'more', 'DOI': '10.1016/j.porgcoat.2016.08.008'}
+{'num': 3857, 'Poly_A': 'PEG', 'Poly_B': 'HPMC', 'Score': 'more', 'DOI': '10.1016/j.porgcoat.2016.08.008'}
+{'num': 3858, 'Poly_A': 'PEG', 'Poly_B': 'PVP', 'Score': 'more', 'DOI': '10.1016/j.porgcoat.2016.08.008'}
+{'num': 3858, 'Poly_A': 'PEG', 'Poly_B': 'HPMC', 'Score': 'more', 'DOI': '10.1016/j.porgcoat.2016.08.008'}
+{'num': 3859, 'Poly_A': 'PEG', 'Poly_B': 'PVP', 'Score': 'more', 'DOI': '10.1016/j.porgcoat.2016.08.008'}
+{'num': 3859, 'Poly_A': 'PEG', 'Poly_B': 'HPMC', 'Score': 'more', 'DOI': '10.1016/j.porgcoat.2016.08.008'}
+{'num': 3865, 'Poly_A': 'PLLA', 'Poly_B': 'TPU', 'Score': 1, 'DOI': '10.1002/pat.3382'}
+{'num': 3866, 'Poly_A': 'PLLA', 'Poly_B': 'TPU', 'Score': 1, 'DOI': '10.1002/pat.3382'}
+{'num': 3869, 'Poly_A': 'polycaprolactone(PCL)', 'Poly_B': 'CNC(Cellulose Nanocrystal)', 'Score': 0, 'DOI': '10.1021/acs.jpcc.7b05055'}
+{'num': 3869, 'Poly_A': 'polycaprolactone(PCL)', 'Poly_B': 'aCNC(Acetylated Cellulose Nanocrystal)', 'Score': 1, 'DOI': '10.1021/acs.jpcc.7b05055'}
+{'num': 3873, 'Poly_A': 'PBT', 'Poly_B': 'PA6', 'Score': 1, 'DOI': '10.1002/(sici)1097-4628(19960613)60:11<1803::aid-app3>3.0.co;2-p'}
+{'num': 3879, 'Poly_A': 'PLA', 'Poly_B': 'starch', 'Score': 1, 'DOI': '10.4028/www.scientific.net/amr.236-238.207'}
+{'num': 3892, 'Poly_A': 'PS', 'Poly_B': 'PC(Makrolon 2456)', 'Score': 0, 'DOI': '10.1016/j.apsusc.2018.01.254'}
+{'num': 3893, 'Poly_A': 'PS', 'Poly_B': 'PC(Makrolon 2456)', 'Score': '+', 'DOI': '10.1016/j.apsusc.2018.01.254'}
+{'num': 3894, 'Poly_A': 'TPV(Thermoplastic Vulcanizate) PP and EPDM are the major components of TPV', 'Poly_B': 'WGRT(is composed of styrene butadiene rubber, natural rubber and polybutadiene rubber)', 'Score': 0, 'DOI': '10.1002/app.39868'}
+{'num': 3897, 'Poly_A': 'TPV(Thermoplastic Vulcanizate) PP and EPDM are the major components of TPV', 'Poly_B': 'WGRT(is composed of styrene butadiene rubber, natural rubber and polybutadiene rubber)', 'Score': '+', 'DOI': '10.1002/app.39868'}
+{'num': 3898, 'Poly_A': 'TPV(Thermoplastic Vulcanizate) PP and EPDM are the major components of TPV', 'Poly_B': 'WGRT(is composed of styrene butadiene rubber, natural rubber and polybutadiene rubber)', 'Score': '+', 'DOI': '10.1002/app.39868'}
+{'num': 3907, 'Poly_A': 'PET', 'Poly_B': 'PA6', 'Score': 0, 'DOI': '10.4028/www.scientific.net/msf.993.709'}
+{'num': 3909, 'Poly_A': 'PET', 'Poly_B': 'PA6', 'Score': '+', 'DOI': '10.4028/www.scientific.net/msf.993.709'}
+{'num': 3910, 'Poly_A': 'PET', 'Poly_B': 'PA6', 'Score': '+', 'DOI': '10.4028/www.scientific.net/msf.993.709'}
+{'num': 3911, 'Poly_A': 'PET', 'Poly_B': 'PA6', 'Score': '+', 'DOI': '10.4028/www.scientific.net/msf.993.709'}
+{'num': 3912, 'Poly_A': 'PET', 'Poly_B': 'PA6', 'Score': '+', 'DOI': '10.4028/www.scientific.net/msf.993.709'}
+{'num': 3918, 'Poly_A': 'PLA', 'Poly_B': 'PIL(Poly ionic liquid)Through  the  ion exchange  ([2-(methacryloyloxy)ethyl]  trimethyl  ammonium  hexafluoro  phosphate  ionic  liquids) ([MATMA][PF6]) was prepared. ', 'Score': 0, 'DOI': '10.4028/www.scientific.net/amr.706-708.336'}
+{'num': 3924, 'Poly_A': 'HDPE(high density PE)', 'Poly_B': 'LDPE(low density PE)', 'Score': 0, 'DOI': '10.1016/j.polymertesting.2018.06.008'}
+{'num': 3925, 'Poly_A': 'Recycled PE', 'Poly_B': 'LDPE(low density PE)', 'Score': '+', 'DOI': '10.1016/j.polymertesting.2018.06.008'}
+{'num': 3926, 'Poly_A': 'Recycled PE', 'Poly_B': 'LDPE(low density PE)', 'Score': 0, 'DOI': '10.1016/j.polymertesting.2018.06.008'}
+{'num': 3984, 'Poly_A': 'PA6', 'Poly_B': 'LDPE(low density PE)', 'Score': 1, 'DOI': '10.1002/app.2016'}
+{'num': 3995, 'Poly_A': 'PP', 'Poly_B': 'POSS 1450', 'Score': 1, 'DOI': '10.1016/j.apsusc.2019.01.082'}
+{'num': 3997, 'Poly_A': 'NR', 'Poly_B': 'NBRr(recycle)', 'Score': 1, 'DOI': '10.1016/j.compositesb.2019.107058'}
+{'num': 4002, 'Poly_A': 'CP', 'Poly_B': 'EMA', 'Score': 1, 'DOI': '10.1002/app.40316'}
+{'num': 4003, 'Poly_A': 'CP', 'Poly_B': 'EMA', 'Score': 1, 'DOI': '10.1002/app.40316'}
+{'num': 4005, 'Poly_A': 'PVC', 'Poly_B': 'PMMA', 'Score': 0.5, 'DOI': '10.1111/j.1749-6632.2003.tb06005.x'}
+{'num': 4008, 'Poly_A': 'PVC', 'Poly_B': 'VC-co-VAc', 'Score': 1, 'DOI': '10.1111/j.1749-6632.2003.tb06005.x'}
+{'num': 4008, 'Poly_A': 'PVC', 'Poly_B': 'VC-co-VAc-co-MAL', 'Score': 1, 'DOI': '10.1111/j.1749-6632.2003.tb06005.x'}
+{'num': 4009, 'Poly_A': 'SAN', 'Poly_B': 'PK', 'Score': 0.5, 'DOI': '10.1002/app.48743'}
+{'num': 4010, 'Poly_A': 'SAN', 'Poly_B': 'PK', 'Score': 0.5, 'DOI': '10.1002/app.48743'}
+{'num': 4011, 'Poly_A': 'SAN', 'Poly_B': 'PK', 'Score': '+', 'DOI': '10.1002/app.48743'}
+{'num': 4018, 'Poly_A': 'PLA', 'Poly_B': 'PENAX', 'Score': 1, 'DOI': '10.1002/pi.6058'}
+{'num': 4019, 'Poly_A': 'PLA', 'Poly_B': 'PENAX', 'Score': '-', 'DOI': '10.1002/pi.6058'}
+{'num': 4021, 'Poly_A': 'PLA', 'Poly_B': 'PENAX', 'Score': '-', 'DOI': '10.1002/pi.6058'}
+{'num': 4022, 'Poly_A': 'PLA', 'Poly_B': 'PENAX', 'Score': 1, 'DOI': '10.1002/pi.6058'}
+{'num': 4023, 'Poly_A': 'PLA', 'Poly_B': 'PENAX', 'Score': 1, 'DOI': '10.1002/pi.6058'}
+{'num': 4024, 'Poly_A': 'PLA', 'Poly_B': 'PENAX', 'Score': '-', 'DOI': '10.1002/pi.6058'}
+{'num': 4029, 'Poly_A': 'PEI', 'Poly_B': 'BD', 'Score': 0, 'DOI': '10.1002/pat.3180'}
+{'num': 4030, 'Poly_A': 'PEI', 'Poly_B': 'BD', 'Score': '+', 'DOI': '10.1002/pat.3180'}
+{'num': 4033, 'Poly_A': 'PEI', 'Poly_B': 'BD', 'Score': '+', 'DOI': '10.1002/pat.3180'}
+{'num': 4034, 'Poly_A': 'PEI', 'Poly_B': 'BD', 'Score': 0, 'DOI': '10.1002/pat.3180'}
+{'num': 4035, 'Poly_A': 'PEI', 'Poly_B': 'BD', 'Score': '+', 'DOI': '10.1002/pat.3180'}
+{'num': 4050, 'Poly_A': 'PLA', 'Poly_B': 'PPC', 'Score': 1, 'DOI': '10.1002/polb.20669'}
+{'num': 4051, 'Poly_A': 'PLA', 'Poly_B': 'PPC', 'Score': 1, 'DOI': '10.1002/polb.20669'}
+{'num': 4052, 'Poly_A': 'PLA', 'Poly_B': 'PPC', 'Score': 1, 'DOI': '10.1002/polb.20669'}
+{'num': 4053, 'Poly_A': 'PLA', 'Poly_B': 'PPC', 'Score': 1, 'DOI': '10.1002/polb.20669'}
+{'num': 4054, 'Poly_A': 'PLA', 'Poly_B': 'PPC', 'Score': 1, 'DOI': '10.1002/polb.20669'}
+{'num': 4055, 'Poly_A': 'PLA', 'Poly_B': 'PPC', 'Score': 1, 'DOI': '10.1002/polb.20669'}
+{'num': 4056, 'Poly_A': 'PLA', 'Poly_B': 'PPC', 'Score': 1, 'DOI': '10.1002/polb.20669'}
+{'num': 4063, 'Poly_A': 'pFS', 'Poly_B': 'PPO', 'Score': 0, 'DOI': '10.1002/app.1983.070280119'}
+{'num': 4063, 'Poly_A': 'pFS', 'Poly_B': 'PS', 'Score': 0, 'DOI': '10.1002/app.1983.070280119'}
+{'num': 4063, 'Poly_A': 'oFS', 'Poly_B': 'PPO', 'Score': 0, 'DOI': '10.1002/app.1983.070280119'}
+{'num': 4063, 'Poly_A': 'oFS', 'Poly_B': 'PS', 'Score': 0, 'DOI': '10.1002/app.1983.070280119'}
+{'num': 4064, 'Poly_A': 'SP46', 'Poly_B': 'PPO', 'Score': 1, 'DOI': '10.1002/app.1983.070280119'}
+{'num': 4064, 'Poly_A': 'SO49', 'Poly_B': 'PPO', 'Score': 1, 'DOI': '10.1002/app.1983.070280119'}
+{'num': 4065, 'Poly_A': 'P(S-pClS)', 'Poly_B': 'PPO', 'Score': 0, 'DOI': '10.1002/app.1983.070280119'}
+{'num': 4065, 'Poly_A': 'P(S-pClS)', 'Poly_B': 'PS', 'Score': 0, 'DOI': '10.1002/app.1983.070280119'}
+{'num': 4066, 'Poly_A': 'P(S-oClS)', 'Poly_B': 'PS', 'Score': 1, 'DOI': '10.1002/app.1983.070280119'}
+{'num': 4067, 'Poly_A': 'oFS', 'Poly_B': 'PPO', 'Score': 0, 'DOI': '10.1002/app.1983.070280119'}
+{'num': 4068, 'Poly_A': 'SP46', 'Poly_B': 'PPO', 'Score': 1, 'DOI': '10.1002/app.1983.070280119'}
+{'num': 4068, 'Poly_A': 'SO49', 'Poly_B': 'PPO', 'Score': 1, 'DOI': '10.1002/app.1983.070280119'}
+{'num': 4069, 'Poly_A': 'P(S-oFS)', 'Poly_B': 'PS', 'Score': 0, 'DOI': None}
+{'num': 4070, 'Poly_A': 'PBT', 'Poly_B': 'Phenoxy', 'Score': 1, 'DOI': '10.1002/pol.1980.180181115'}
+{'num': 4073, 'Poly_A': 'Phenoxy', 'Poly_B': 'PET', 'Score': 0, 'DOI': '10.1002/pol.1980.180181115'}
+{'num': 4073, 'Poly_A': 'Phenoxy', 'Poly_B': 'P-1,2-PT', 'Score': 0, 'DOI': '10.1002/pol.1980.180181115'}
+{'num': 4073, 'Poly_A': 'Phenoxy', 'Poly_B': 'P-1,3-PT', 'Score': 0, 'DOI': '10.1002/pol.1980.180181115'}
+{'num': 4074, 'Poly_A': 'Phenoxy', 'Poly_B': 'PET', 'Score': 0, 'DOI': '10.1002/pol.1980.180181115'}
+{'num': 4074, 'Poly_A': 'Phenoxy', 'Poly_B': 'P-1,2-PT', 'Score': 0, 'DOI': '10.1002/pol.1980.180181115'}
+{'num': 4074, 'Poly_A': 'Phenoxy', 'Poly_B': 'P-1,3-PT', 'Score': 0, 'DOI': '10.1002/pol.1980.180181115'}
+{'num': 4074, 'Poly_A': 'Phenoxy', 'Poly_B': 'PBT', 'Score': 0, 'DOI': '10.1002/pol.1980.180181115'}
+{'num': 4074, 'Poly_A': 'Phenoxy', 'Poly_B': 'PHT', 'Score': 0, 'DOI': '10.1002/pol.1980.180181115'}
+{'num': 4116, 'Poly_A': 'PBT', 'Poly_B': 'ABS', 'Score': '+', 'DOI': '10.1007/s10853-013-7867-7'}
+{'num': 4133, 'Poly_A': 'Copolyamide', 'Poly_B': 'chitosan', 'Score': 0.5, 'DOI': '10.1002/polb.20981'}
+{'num': 4134, 'Poly_A': 'Copolyamide', 'Poly_B': 'chitosan', 'Score': 0.5, 'DOI': '10.1002/polb.20981'}
+{'num': 4135, 'Poly_A': 'Copolyamide', 'Poly_B': 'chitosan', 'Score': 0.5, 'DOI': '10.1002/polb.20981'}
+{'num': 4160, 'Poly_A': 'PLA', 'Poly_B': 'PBS', 'Score': 1, 'DOI': '10.13005/ojc/330609'}
+{'num': 4190, 'Poly_A': 'LDPE', 'Poly_B': 'PP', 'Score': 0, 'DOI': '10.1002/pen.760240206'}
+{'num': 4191, 'Poly_A': 'PCPP', 'Poly_B': 'PS', 'Score': 0.5, 'DOI': '10.1021/bk-1994-0572.ch023'}
+{'num': 4192, 'Poly_A': 'PCPP', 'Poly_B': 'PS', 'Score': 0.5, 'DOI': '10.1021/bk-1994-0572.ch023'}
+{'num': 4209, 'Poly_A': 'PMMA', 'Poly_B': 'PS', 'Score': 0.5, 'DOI': '10.1063/1.4946198'}
+{'num': 4238, 'Poly_A': 'PMA', 'Poly_B': 'PVAc', 'Score': 1, 'DOI': '10.1002/app.1961.070051514'}
+{'num': 4238, 'Poly_A': 'PS', 'Poly_B': 'Poly (o-methylstyrene)', 'Score': 1, 'DOI': '10.1002/app.1961.070051514'}
+{'num': 4238, 'Poly_A': 'PMMA', 'Poly_B': 'Nitrocellulose', 'Score': 1, 'DOI': '10.1002/app.1961.070051514'}
+{'num': 4238, 'Poly_A': 'PVAc', 'Poly_B': 'Nitrocellulose', 'Score': 1, 'DOI': '10.1002/app.1961.070051514'}
+{'num': 4241, 'Poly_A': 'EA-AA', 'Poly_B': 'EA-MAA', 'Score': 0, 'DOI': '10.1002/app.1961.070051514'}
+{'num': 4243, 'Poly_A': 'PMAA', 'Poly_B': 'NaMA', 'Score': 1, 'DOI': '10.1002/app.1961.070051514'}
+{'num': 4244, 'Poly_A': 'MMA-NaMA', 'Poly_B': 'EA-NaMA', 'Score': 0, 'DOI': '10.1002/app.1961.070051514'}
+{'num': 4249, 'Poly_A': 'PS', 'Poly_B': 'PMMA', 'Score': 0, 'DOI': '10.1002/app.20973'}
+{'num': 4249, 'Poly_A': 'PS', 'Poly_B': 'SAN', 'Score': 1, 'DOI': '10.1002/app.20973'}
+{'num': 4250, 'Poly_A': 'PS', 'Poly_B': 'PMMA', 'Score': 0, 'DOI': '10.1002/app.20973'}
+{'num': 4287, 'Poly_A': 'PET', 'Poly_B': 'PC', 'Score': '+', 'DOI': '10.1002/pi.6081'}
+{'num': 4288, 'Poly_A': 'PET', 'Poly_B': 'PC', 'Score': '+', 'DOI': '10.1002/pi.6081'}
+{'num': 4291, 'Poly_A': 'PS', 'Poly_B': 'PE', 'Score': '+', 'DOI': '10.1080/00222340701257794'}
+{'num': 4291, 'Poly_A': 'PS', 'Poly_B': 'PP', 'Score': '+', 'DOI': '10.1080/00222340701257794'}
+{'num': 4291, 'Poly_A': 'PS', 'Poly_B': 'EPDM', 'Score': '+', 'DOI': '10.1080/00222340701257794'}
+{'num': 4292, 'Poly_A': 'PS', 'Poly_B': 'PP', 'Score': '+', 'DOI': '10.1080/00222340701257794'}
+{'num': 4301, 'Poly_A': 'XNBR', 'Poly_B': 'SBR', 'Score': '+', 'DOI': '10.1016/j.compositesb.2016.12.003'}
+{'num': 4302, 'Poly_A': 'XNBR', 'Poly_B': 'SBR', 'Score': '+', 'DOI': '10.1016/j.compositesb.2016.12.003'}
+{'num': 4309, 'Poly_A': 'chitosan', 'Poly_B': 'PEG', 'Score': 0, 'DOI': '10.1016/j.memsci.2003.11.020'}
+{'num': 4319, 'Poly_A': 'EVM', 'Poly_B': 'thermoplastic polyurethane (TPU)', 'Score': '+', 'DOI': '10.1080/00222340701389258'}
+{'num': 4320, 'Poly_A': 'EVM', 'Poly_B': 'thermoplastic polyurethane (TPU)', 'Score': '+', 'DOI': '10.1080/00222340701389258'}
+{'num': 4334, 'Poly_A': 'poly (γ-butyl glutamate)', 'Poly_B': 'poly(γ-benzyl glutamate)', 'Score': 0, 'DOI': '10.1080/00222348408219462'}
+{'num': 4344, 'Poly_A': 'UP(unsaturated polyester)', 'Poly_B': 'Resole', 'Score': 0, 'DOI': '10.1016/j.polymdegradstab.2014.11.002'}
+{'num': 4344, 'Poly_A': 'UP(unsaturated polyester)', 'Poly_B': 'Resole', 'Score': '+', 'DOI': '10.1016/j.polymdegradstab.2014.11.002'}
+{'num': 4344, 'Poly_A': 'UP(unsaturated polyester)', 'Poly_B': 'Resole', 'Score': '+', 'DOI': '10.1016/j.polymdegradstab.2014.11.002'}
+{'num': 4344, 'Poly_A': 'UP(unsaturated polyester)', 'Poly_B': 'Resole', 'Score': '+', 'DOI': '10.1016/j.polymdegradstab.2014.11.002'}
+{'num': 4345, 'Poly_A': 'UP(unsaturated polyester)', 'Poly_B': 'Resole', 'Score': 0, 'DOI': '10.1016/j.polymdegradstab.2014.11.002'}
+{'num': 4345, 'Poly_A': 'UP(unsaturated polyester)', 'Poly_B': 'Resole', 'Score': '+', 'DOI': '10.1016/j.polymdegradstab.2014.11.002'}
+{'num': 4345, 'Poly_A': 'UP(unsaturated polyester)', 'Poly_B': 'Resole', 'Score': '+', 'DOI': '10.1016/j.polymdegradstab.2014.11.002'}
+{'num': 4345, 'Poly_A': 'UP(unsaturated polyester)', 'Poly_B': 'Resole', 'Score': '+', 'DOI': '10.1016/j.polymdegradstab.2014.11.002'}
+{'num': 4364, 'Poly_A': 'PEMA', 'Poly_B': 'PC', 'Score': 1, 'DOI': '10.1021/ma00231a048'}
+{'num': 4365, 'Poly_A': 'PEMA', 'Poly_B': 'PC', 'Score': 1, 'DOI': '10.1021/ma00231a048'}
+{'num': 4366, 'Poly_A': 'PE', 'Poly_B': 'thermoplastic starch (TPS)', 'Score': '+', 'DOI': '10.1002/app.36850'}
+{'num': 4400, 'Poly_A': 'PBS', 'Poly_B': 'EPR', 'Score': 1, 'DOI': '10.1016/j.polymertesting.2009.08.004'}
+{'num': 403, 'Poly_A': 'BIMS橡胶', 'Poly_B': '酚醛树脂', 'Score': 0, 'DOI': '10.1002/app.28649'}
+{'num': 404, 'Poly_A': 'BIMS橡胶', 'Poly_B': '石油树脂', 'Score': 1, 'DOI': '10.1002/app.28649'}
+{'num': 405, 'Poly_A': 'BIMS橡胶', 'Poly_B': '酚醛树脂', 'Score': 0, 'DOI': '10.1002/app.28649'}
+{'num': 406, 'Poly_A': 'BIMS橡胶', 'Poly_B': '酚醛树脂', 'Score': 0, 'DOI': '10.1002/app.28649'}
+{'num': 414, 'Poly_A': 'MFC', 'Poly_B': 'PP', 'Score': 0, 'DOI': '10.1007/s10570-018-2122-7'}
+{'num': None, 'Poly_A': 'MFC', 'Poly_B': 'PP', 'Score': '+', 'DOI': None}
+{'num': 415, 'Poly_A': 'S-MFC', 'Poly_B': 'PP', 'Score': 1, 'DOI': '10.1007/s10570-018-2122-7'}
+{'num': 416, 'Poly_A': 'PVA', 'Poly_B': 'PA', 'Score': 1, 'DOI': '10.1080/00222348.2011.609782'}
+{'num': 424, 'Poly_A': 'EVA', 'Poly_B': 'PolySAN', 'Score': 0, 'DOI': '10.1063/1.3466567'}
+{'num': 453, 'Poly_A': 'PS', 'Poly_B': 'PHS', 'Score': 1, 'DOI': '10.1021/jp073408s'}
+{'num': 465, 'Poly_A': 'TPU', 'Poly_B': 'PP-g-NHR', 'Score': 'more', 'DOI': '10.1016/j.polymer.2003.12.077'}
+{'num': 493, 'Poly_A': 'PLA', 'Poly_B': 'PBAT', 'Score': 0, 'DOI': '10.1515/epoly-2020-0005'}
+{'num': 494, 'Poly_A': 'PLA', 'Poly_B': 'PBAT', 'Score': '+', 'DOI': '10.1515/epoly-2020-0005'}
+{'num': 495, 'Poly_A': 'PLA', 'Poly_B': 'PBAT', 'Score': '+', 'DOI': '10.1515/epoly-2020-0005'}
+{'num': 496, 'Poly_A': 'PLA', 'Poly_B': 'PBAT', 'Score': '+', 'DOI': '10.1515/epoly-2020-0005'}
+{'num': 497, 'Poly_A': 'PLA', 'Poly_B': 'PBAT', 'Score': '+', 'DOI': '10.1515/epoly-2020-0005'}
+{'num': 514, 'Poly_A': 'PVAc', 'Poly_B': 'PEMA\n(wt=18%)', 'Score': 1, 'DOI': '10.1002/app.1989.070381001'}
+{'num': 515, 'Poly_A': 'poly\n(ε-caprolactone)', 'Poly_B': 'poly\n(3-hydroxybutyrate)', 'Score': '+', 'DOI': '10.1016/j.eurpolymj.2016.11.018'}
+{'num': 526, 'Poly_A': 'PAN', 'Poly_B': 'PVP', 'Score': 0, 'DOI': '10.5755/j01.ms.25.1.18794'}
+{'num': 534, 'Poly_A': 'PP', 'Poly_B': 'HDPE', 'Score': '+', 'DOI': '10.1007/s00289-014-1191-5'}
+{'num': 535, 'Poly_A': 'PP', 'Poly_B': 'HDPE', 'Score': 0, 'DOI': '10.1007/s00289-014-1191-5'}
+{'num': 537, 'Poly_A': 'PP', 'Poly_B': 'HDPE', 'Score': '+', 'DOI': '10.1007/s00289-014-1191-5'}
+{'num': 538, 'Poly_A': 'PP', 'Poly_B': 'HDPE', 'Score': '+', 'DOI': '10.1007/s00289-014-1191-5'}
+{'num': 545, 'Poly_A': 'IPNs\n(SBS/PBMA-b-PMA)', 'Poly_B': 'PVC', 'Score': 1, 'DOI': '10.4028/www.scientific.net/amr.320.97'}
+{'num': 553, 'Poly_A': 'PA6', 'Poly_B': 'PEG', 'Score': 1, 'DOI': '10.1177/1528083714562089'}
+{'num': 554, 'Poly_A': 'PA6', 'Poly_B': 'PEG', 'Score': 1, 'DOI': '10.1177/1528083714562089'}
+{'num': 556, 'Poly_A': 'PC', 'Poly_B': 'polyABS', 'Score': '+', 'DOI': '10.1002/app.46418'}
+{'num': 557, 'Poly_A': 'PC', 'Poly_B': 'polyABS', 'Score': '+', 'DOI': '10.1002/app.46418'}
+{'num': 568, 'Poly_A': 'PET\n(80%)', 'Poly_B': 'HDPE\n(20%)', 'Score': 0, 'DOI': '10.1002/jrs.1636'}
+{'num': 573, 'Poly_A': 'PMMA', 'Poly_B': 'MMA-co-EMA\n(含75%EMA)', 'Score': 1, 'DOI': '10.1080/00914039008031513'}
+{'num': 574, 'Poly_A': 'PMMA', 'Poly_B': 'PBMA', 'Score': 0.5, 'DOI': '10.1080/00914039008031513'}
+{'num': 575, 'Poly_A': 'PMMA', 'Poly_B': 'MMA-co-OMA\n(含25%OMA)', 'Score': 0.5, 'DOI': '10.1080/00914039008031513'}
+{'num': 576, 'Poly_A': 'PMMA', 'Poly_B': 'PEMA\n(17%)', 'Score': 1, 'DOI': '10.1080/00914039008031513'}
+{'num': None, 'Poly_A': 'PMMA', 'Poly_B': 'PBMA\n(5%)', 'Score': 0.5, 'DOI': None}
+{'num': None, 'Poly_A': 'PMMA', 'Poly_B': 'POMA', 'Score': 0, 'DOI': None}
+{'num': 597, 'Poly_A': 'PS', 'Poly_B': 'PP', 'Score': '+', 'DOI': '10.1039/d0ra00517g'}
+{'num': 623, 'Poly_A': 'PU', 'Poly_B': 'IPN\n(VER/EA)', 'Score': 0.5, 'DOI': '10.1295/polymj.pj2006186'}
+{'num': 648, 'Poly_A': 'PES', 'Poly_B': 'PSf', 'Score': 0.5, 'DOI': '10.1016/j.memsci.2016.04.035'}
+{'num': 649, 'Poly_A': 'PES', 'Poly_B': 'PSf', 'Score': 0.5, 'DOI': '10.1016/j.memsci.2016.04.035'}
+{'num': 650, 'Poly_A': 'PES', 'Poly_B': 'PSf', 'Score': 0.5, 'DOI': '10.1016/j.memsci.2016.04.035'}
+{'num': 654, 'Poly_A': 'HDPE', 'Poly_B': 'PA6', 'Score': 1, 'DOI': '10.1002/app.47984'}
+{'num': 655, 'Poly_A': 'HDPE', 'Poly_B': 'PA6', 'Score': 1, 'DOI': '10.1002/app.47984'}
+{'num': 686, 'Poly_A': 'PLA', 'Poly_B': 'PBAT', 'Score': '+', 'DOI': '10.1002/pen.24795'}
+{'num': 687, 'Poly_A': 'PLA', 'Poly_B': 'PBAT', 'Score': 0, 'DOI': '10.1002/pen.24795'}
+{'num': 696, 'Poly_A': 'PET-POB', 'Poly_B': 'PBT', 'Score': 0.5, 'DOI': '10.1002/pol.1984.180220910'}
+{'num': 697, 'Poly_A': 'PET-POB\n(60%POB polified PET)', 'Poly_B': 'PBT', 'Score': 1, 'DOI': '10.1002/pol.1984.180220910'}
+{'num': 715, 'Poly_A': 'o-fluorostyrene-co-\np-chlorostyren\n(o-fluorostyrene 15~74%)', 'Poly_B': 'PPO', 'Score': 1, 'DOI': '10.1002/app.1983.070280412'}
+{'num': 716, 'Poly_A': 'p-fluorostyrene-co-\np-chlorostyren', 'Poly_B': 'PPO', 'Score': 0, 'DOI': '10.1002/app.1983.070280412'}
+{'num': None, 'Poly_A': 'p-fluorostyrene-co-\no-chlorostyren', 'Poly_B': 'PPO', 'Score': 0, 'DOI': None}
+{'num': 717, 'Poly_A': 'o-fluorostyrene-co-\np-fluorostyrene', 'Poly_B': 'PPO', 'Score': 0.5, 'DOI': '10.1002/app.1983.070280412'}
+{'num': 718, 'Poly_A': 'p-fluorostyrene-co-\np-chlorostyren', 'Poly_B': 'PPO', 'Score': 0, 'DOI': '10.1002/app.1983.070280412'}
+{'num': 720, 'Poly_A': 'o-fluorostyrene-co-\np-chlorostyren\n(o-fluorostyrene <15% or >74%)', 'Poly_B': 'PPO', 'Score': 0, 'DOI': '10.1002/app.1983.070280412'}
+{'num': 725, 'Poly_A': 'PET', 'Poly_B': 'PPO', 'Score': '+', 'DOI': '10.1002/app.1994.070541217'}
+{'num': 726, 'Poly_A': 'PET', 'Poly_B': 'PPO', 'Score': 0, 'DOI': '10.1002/app.1994.070541217'}
+{'num': 727, 'Poly_A': 'GMS', 'Poly_B': 'PPO', 'Score': 1, 'DOI': '10.1002/app.1994.070541217'}
+{'num': 728, 'Poly_A': 'PET', 'Poly_B': 'PPO', 'Score': '+', 'DOI': '10.1016/j.jnucmat.2016.07.017'}
+{'num': 737, 'Poly_A': 'PVC', 'Poly_B': 'EVA\n(VAc45%)', 'Score': 0, 'DOI': '10.1002/polc.5070510108'}
+{'num': 738, 'Poly_A': 'PVC', 'Poly_B': 'EVA', 'Score': '+', 'DOI': '10.1002/polc.5070510108'}
+{'num': 739, 'Poly_A': 'PVC', 'Poly_B': 'NBR', 'Score': 0.5, 'DOI': '10.1002/polc.5070510108'}
+{'num': 740, 'Poly_A': 'PVC', 'Poly_B': 'NBR', 'Score': 0.5, 'DOI': '10.1002/polc.5070510108'}
+{'num': 757, 'Poly_A': 'PEEK', 'Poly_B': 'PES', 'Score': 1, 'DOI': '10.1002/polb.10199'}
+{'num': 758, 'Poly_A': 'PEEK', 'Poly_B': 'PES', 'Score': 1, 'DOI': '10.1002/polb.10199'}
+{'num': 759, 'Poly_A': 'PEEK', 'Poly_B': 'PES', 'Score': '+', 'DOI': '10.1002/polb.10199'}
+{'num': 760, 'Poly_A': 'PEEK', 'Poly_B': 'PES', 'Score': '+', 'DOI': '10.1002/polb.10199'}
+{'num': 783, 'Poly_A': 'PLA', 'Poly_B': 'TPS', 'Score': '+', 'DOI': '10.1002/app.49675'}
+{'num': 785, 'Poly_A': 'PLA', 'Poly_B': 'TPS', 'Score': '+', 'DOI': '10.1002/app.49675'}
+{'num': 786, 'Poly_A': 'PLA', 'Poly_B': 'TPS', 'Score': '+', 'DOI': '10.1002/app.49675'}
+{'num': 787, 'Poly_A': 'PLA', 'Poly_B': 'TPS', 'Score': '+', 'DOI': '10.1002/app.49675'}
+{'num': 788, 'Poly_A': 'PPS', 'Poly_B': 'SEBS', 'Score': '-', 'DOI': '10.1016/s0032-3861(99)00489-9'}
+{'num': 789, 'Poly_A': 'ABS', 'Poly_B': 'SAN', 'Score': '+', 'DOI': '10.1002/pen.20755'}
+{'num': 796, 'Poly_A': 'PA6', 'Poly_B': 'PVP', 'Score': 0.5, 'DOI': '10.1177/096739110801600907'}
+{'num': 797, 'Poly_A': 'PA6', 'Poly_B': 'PVP', 'Score': 0.5, 'DOI': '10.1177/096739110801600907'}
+{'num': 798, 'Poly_A': 'PA6', 'Poly_B': 'PVP', 'Score': '-', 'DOI': '10.1177/096739110801600907'}
+{'num': 799, 'Poly_A': 'PA6', 'Poly_B': 'PVP', 'Score': 0.5, 'DOI': '10.1177/096739110801600907'}
+{'num': 800, 'Poly_A': 'PA6', 'Poly_B': 'PVP', 'Score': 0.5, 'DOI': '10.1177/096739110801600907'}
+{'num': 4401, 'Poly_A': 'PBS', 'Poly_B': 'PER', 'Score': 1, 'DOI': '10.1016/j.polymertesting.2009.08.004'}
+{'num': 4402, 'Poly_A': 'PBS', 'Poly_B': 'PER', 'Score': 1, 'DOI': '10.1016/j.polymertesting.2009.08.004'}
+{'num': 4403, 'Poly_A': 'PBS', 'Poly_B': 'PER', 'Score': 1, 'DOI': '10.1016/j.polymertesting.2009.08.004'}
+{'num': 4404, 'Poly_A': 'PBS', 'Poly_B': 'PER', 'Score': 1, 'DOI': '10.1016/j.polymertesting.2009.08.004'}
+{'num': 4405, 'Poly_A': 'PBS', 'Poly_B': 'PER', 'Score': 1, 'DOI': '10.1016/j.polymertesting.2009.08.004'}
+{'num': 4406, 'Poly_A': 'PBS', 'Poly_B': 'PER', 'Score': 1, 'DOI': '10.1016/j.polymertesting.2009.08.004'}
+{'num': 4407, 'Poly_A': 'PBS', 'Poly_B': 'PER', 'Score': 1, 'DOI': '10.1016/j.polymertesting.2009.08.004'}
+{'num': 4408, 'Poly_A': 'PBS', 'Poly_B': 'PER', 'Score': 1, 'DOI': '10.1016/j.polymertesting.2009.08.004'}
+{'num': 4409, 'Poly_A': 'PBS', 'Poly_B': 'PER', 'Score': 1, 'DOI': '10.1016/j.polymertesting.2009.08.004'}
+{'num': 4410, 'Poly_A': 'PBS', 'Poly_B': 'PER', 'Score': 1, 'DOI': '10.1016/j.polymertesting.2009.08.004'}
+{'num': 4411, 'Poly_A': 'PBS', 'Poly_B': 'PER', 'Score': 1, 'DOI': '10.1016/j.polymertesting.2009.08.004'}
+{'num': 4416, 'Poly_A': 'PVC', 'Poly_B': 'PAN', 'Score': 0, 'DOI': '10.1080/00222347708212240'}
+{'num': 4417, 'Poly_A': 'PVC', 'Poly_B': 'AN-VAc\ncopolymer', 'Score': 1, 'DOI': '10.1080/00222347708212240'}
+{'num': 4418, 'Poly_A': 'PVC', 'Poly_B': 'PAN', 'Score': '+', 'DOI': '10.1080/00222347708212240'}
+{'num': 4434, 'Poly_A': 'Nylon 66', 'Poly_B': 'PE', 'Score': 0, 'DOI': '10.1080/00222348808212311'}
+{'num': 4442, 'Poly_A': 'Gelatin\n(明胶)', 'Poly_B': 'PVA', 'Score': 1, 'DOI': '10.1007/s11595-014-0920-9'}
+{'num': 4451, 'Poly_A': 'TMPBA', 'Poly_B': 'PS', 'Score': 1, 'DOI': '10.1080/00222348008212826'}
+{'num': 4461, 'Poly_A': 'PAE', 'Poly_B': 'PVC', 'Score': 'more', 'DOI': '10.1002/pi.4990250406'}
+{'num': 4469, 'Poly_A': 'PES-2\nPES-3', 'Poly_B': 'PVDF', 'Score': 0, 'DOI': '10.1016/s0014-3057(98)00106-2'}
+{'num': 4470, 'Poly_A': 'PES-1', 'Poly_B': 'PVDF', 'Score': 'more', 'DOI': '10.1016/s0014-3057(98)00106-2'}
+{'num': None, 'Poly_A': 'PES-1', 'Poly_B': 'PVDF', 'Score': 'less', 'DOI': None}
+{'num': 4477, 'Poly_A': 'd-PS', 'Poly_B': 'PMMA', 'Score': 0, 'DOI': '10.1002/pol.1987.140250202'}
+{'num': None, 'Poly_A': 'd-PS', 'Poly_B': 'poly(vinyl \nmethyl ether)', 'Score': 1, 'DOI': None}
+{'num': 4482, 'Poly_A': 'P(VdC-VC)', 'Poly_B': 'NBR', 'Score': 0, 'DOI': '10.1002/pen.760210108'}
+{'num': None, 'Poly_A': 'P(VdC-VC)', 'Poly_B': 'NBR', 'Score': 1, 'DOI': None}
+{'num': 4483, 'Poly_A': 'P(VdC-VC)', 'Poly_B': 'NBR', 'Score': 1, 'DOI': '10.1002/pen.760210108'}
+{'num': 4484, 'Poly_A': 'PVC', 'Poly_B': 'NBR', 'Score': 0, 'DOI': '10.1002/pen.760210108'}
+{'num': None, 'Poly_A': 'P(VdC-VC)', 'Poly_B': 'NBR', 'Score': 0.5, 'DOI': None}
+{'num': None, 'Poly_A': 'P(VdC-VC)', 'Poly_B': 'NBR', 'Score': 1, 'DOI': None}
+{'num': 4485, 'Poly_A': 'P(VdC-VC)', 'Poly_B': 'NBR', 'Score': 0.5, 'DOI': '10.1002/pen.760210108'}
+{'num': 4567, 'Poly_A': 'm-LLDPE', 'Poly_B': 'HDPE', 'Score': 1, 'DOI': '10.1002/pi.1528'}
+{'num': None, 'Poly_A': 'm-LLDPE', 'Poly_B': 'HDPE', 'Score': 0.5, 'DOI': None}
+{'num': 4571, 'Poly_A': 'PPS', 'Poly_B': 'PEEK', 'Score': '+', 'DOI': '10.1002/app.42497'}
+{'num': 4572, 'Poly_A': 'PPS', 'Poly_B': 'PEEK', 'Score': 1, 'DOI': '10.1002/app.42497'}
+{'num': 4575, 'Poly_A': 'ETFE', 'Poly_B': 'PMMA', 'Score': 0.5, 'DOI': '10.1016/s0032-3861(97)00215-2'}
+{'num': 4590, 'Poly_A': 'NBR', 'Poly_B': 'EPM', 'Score': '+', 'DOI': '10.1002/(sici)1097-4628(19991017)74:3<480::aid-app2>3.0.co;2-b'}
+{'num': 4592, 'Poly_A': 'NBR', 'Poly_B': 'PP', 'Score': '+', 'DOI': '10.1002/(sici)1097-4628(19991017)74:3<480::aid-app2>3.0.co;2-b'}
+{'num': 4593, 'Poly_A': 'NBR', 'Poly_B': 'EPDM', 'Score': 0, 'DOI': '10.1002/(sici)1097-4628(19991017)74:3<480::aid-app2>3.0.co;2-b'}
+{'num': None, 'Poly_A': 'NBR', 'Poly_B': 'EPDM', 'Score': '+', 'DOI': None}
+{'num': 4594, 'Poly_A': 'PS', 'Poly_B': 'polybutadiene', 'Score': 0, 'DOI': '10.1002/pol.1952.120090504'}
+{'num': 4601, 'Poly_A': 'PEMA', 'Poly_B': 'MMA-co-BMA', 'Score': 0.5, 'DOI': '10.1021/ma60075a031'}
+{'num': None, 'Poly_A': 'PPMA', 'Poly_B': 'MMA-co-BMA', 'Score': 0.5, 'DOI': None}
+{'num': 4611, 'Poly_A': 'PVDF', 'Poly_B': 'PVA', 'Score': 0, 'DOI': '10.1016/j.memsci.2017.05.041'}
+{'num': 4623, 'Poly_A': 'HPC', 'Poly_B': 'LHMS', 'Score': 'more', 'DOI': '10.1002/pi.4980220103'}
+{'num': None, 'Poly_A': 'HPC', 'Poly_B': 'HHMS', 'Score': 'less', 'DOI': None}
+{'num': 4625, 'Poly_A': 'HPC', 'Poly_B': 'HHMS', 'Score': '-', 'DOI': '10.1002/pi.4980220103'}
+{'num': 4634, 'Poly_A': 'PLA', 'Poly_B': 'PCL', 'Score': '+', 'DOI': '10.1007/s00289-019-02766-3'}
+{'num': 4635, 'Poly_A': 'PLA', 'Poly_B': 'PCL', 'Score': '-', 'DOI': '10.1007/s00289-019-02766-3'}
+{'num': 4651, 'Poly_A': 'PS', 'Poly_B': 'PMMA', 'Score': 0, 'DOI': '10.4067/s0717-97072010000100021'}
+{'num': 4652, 'Poly_A': 'PS', 'Poly_B': 'PEG', 'Score': 0, 'DOI': '10.4067/s0717-97072010000100021'}
+{'num': 4654, 'Poly_A': 'PVDF', 'Poly_B': 'PA12', 'Score': 'more', 'DOI': '10.1002/1097-4628(20001114)78:7<1374::aid-app80>3.0.co;2-n'}
+{'num': None, 'Poly_A': 'PVDF', 'Poly_B': 'PA12', 'Score': 'less', 'DOI': None}
+{'num': 4686, 'Poly_A': 'starch', 'Poly_B': 'PVA', 'Score': 0.5, 'DOI': '10.1002/pen.23178'}
+{'num': None, 'Poly_A': 'starch', 'Poly_B': 'PVA', 'Score': '-', 'DOI': None}
+{'num': 4688, 'Poly_A': 'PS', 'Poly_B': 'PPO', 'Score': 1, 'DOI': '10.1002/app.1978.070220312'}
+{'num': 4694, 'Poly_A': 'PGP', 'Poly_B': 'PLA', 'Score': 0, 'DOI': '10.1002/1097-0126(200011)49:11<1283::aid-pi471>3.0.co;2-d'}
+{'num': None, 'Poly_A': 'PLGA', 'Poly_B': 'PTSP', 'Score': 0.5, 'DOI': None}
+{'num': 4695, 'Poly_A': 'PGP', 'Poly_B': 'PSTP', 'Score': 'more', 'DOI': '10.1002/1097-0126(200011)49:11<1283::aid-pi471>3.0.co;2-d'}
+{'num': 4696, 'Poly_A': 'PGP', 'Poly_B': 'PLA', 'Score': 0, 'DOI': '10.1002/1097-0126(200011)49:11<1283::aid-pi471>3.0.co;2-d'}
+{'num': None, 'Poly_A': 'PLGA', 'Poly_B': 'PTSP', 'Score': 0.5, 'DOI': None}
+{'num': 4697, 'Poly_A': 'PS', 'Poly_B': 'poly(vinyl methyl ether)', 'Score': 0, 'DOI': '10.1021/ma60039a012'}
+{'num': None, 'Poly_A': 'PS', 'Poly_B': 'poly(vinyl methyl ether)', 'Score': 1, 'DOI': None}
+{'num': 4757, 'Poly_A': 'PBT', 'Poly_B': 'PVC', 'Score': 1, 'DOI': '10.1002/pen.760210902'}
+{'num': 4758, 'Poly_A': 'PBT', 'Poly_B': 'CP-350', 'Score': 1, 'DOI': '10.1002/pen.760210902'}
+{'num': 4768, 'Poly_A': 'PP', 'Poly_B': 'LDPE', 'Score': '+', 'DOI': '10.1002/app.22306'}
+{'num': 4770, 'Poly_A': 'PP', 'Poly_B': 'LDPE', 'Score': '+', 'DOI': '10.1002/app.22306, 10.1002/app.22306, 10.1002/app.22306'}
+{'num': 4771, 'Poly_A': 'PP', 'Poly_B': 'LDPE', 'Score': '+', 'DOI': '10.1002/app.22306, 10.1002/app.22306, 10.1002/app.22306'}
+{'num': 4772, 'Poly_A': 'PP', 'Poly_B': 'LDPE', 'Score': '+', 'DOI': '10.1002/app.22306, 10.1002/app.22306, 10.1002/app.22306'}
+{'num': 4773, 'Poly_A': 'PP', 'Poly_B': 'LDPE', 'Score': '+', 'DOI': '10.1002/app.22306'}
+{'num': 4789, 'Poly_A': 'polyisoprene', 'Poly_B': 'polybutadiene', 'Score': 0, 'DOI': '10.1134/s1811238207040029'}
+{'num': 4808, 'Poly_A': 'PLA', 'Poly_B': 'PBS', 'Score': 1, 'DOI': '10.1080/19475411.2020.1729274'}
+{'num': 4818, 'Poly_A': 'HDPE', 'Poly_B': 'PET', 'Score': '+', 'DOI': '10.1080/25740881.2020.1765382'}
+{'num': 4821, 'Poly_A': 'HDPE', 'Poly_B': 'PET', 'Score': '+', 'DOI': '10.1080/25740881.2020.1765382'}
+{'num': 4821, 'Poly_A': 'HDPE', 'Poly_B': 'PET', 'Score': '+', 'DOI': '10.1080/25740881.2020.1765383'}
+{'num': 4835, 'Poly_A': 'LLDPE', 'Poly_B': 'NR (natural rubber)', 'Score': '+', 'DOI': '10.1080/03602559.2011.557819'}
+{'num': 4836, 'Poly_A': 'LLDPE', 'Poly_B': 'NR (natural rubber)', 'Score': '+', 'DOI': '10.1080/03602559.2011.557819'}
+{'num': 4907, 'Poly_A': 'PHFA', 'Poly_B': 'PC', 'Score': 1, 'DOI': '10.1002/pol.1981.170190618'}
+{'num': 4907, 'Poly_A': 'PHFA', 'Poly_B': 'PBMA', 'Score': 1, 'DOI': '10.1002/pol.1981.170190618'}
+{'num': 4907, 'Poly_A': 'PS', 'Poly_B': 'PC', 'Score': 0, 'DOI': '10.1002/pol.1981.170190618'}
+{'num': 4907, 'Poly_A': 'PS', 'Poly_B': 'PBMA', 'Score': 0, 'DOI': '10.1002/pol.1981.170190618'}
+{'num': 4908, 'Poly_A': 'PMA (Polystyrene-co- Vinylphenyl Methyl Carbinol)', 'Poly_B': 'PEO', 'Score': 0, 'DOI': '10.1002/pol.1981.170190618'}
+{'num': 4917, 'Poly_A': 'EVA', 'Poly_B': 'PP', 'Score': 0, 'DOI': '10.1002/pc.22915'}
+{'num': 4939, 'Poly_A': 'CS', 'Poly_B': 'PVA', 'Score': 0, 'DOI': '10.1016/j.carbpol.2005.08.023'}
+{'num': 4973, 'Poly_A': 'EBU', 'Poly_B': 'PS', 'Score': 0.5, 'DOI': '10.1002/app.28893'}
+{'num': 4981, 'Poly_A': 'PA 11', 'Poly_B': 'PE', 'Score': '+', 'DOI': '10.1002/pi.1674'}
+{'num': 4996, 'Poly_A': 'NR (natural rubber)', 'Poly_B': 'CSM', 'Score': '+', 'DOI': '10.3139/217.2011'}
+{'num': 4997, 'Poly_A': 'NR (natural rubber)', 'Poly_B': 'CSM', 'Score': '+', 'DOI': '10.3139/217.2011'}
+{'num': 4998, 'Poly_A': 'NR (natural rubber)', 'Poly_B': 'CSM', 'Score': '+', 'DOI': '10.3139/217.2011'}
+{'num': 4999, 'Poly_A': 'PS', 'Poly_B': 'CSM', 'Score': '+', 'DOI': '10.3139/217.2011'}
+{'num': 5000, 'Poly_A': 'NR (natural rubber)', 'Poly_B': 'CSM', 'Score': '+', 'DOI': '10.3139/217.2011'}
+{'num': 5002, 'Poly_A': 'NR (natural rubber)', 'Poly_B': 'CSM', 'Score': '+', 'DOI': '10.3139/217.2011'}
+{'num': 5007, 'Poly_A': 'PVME', 'Poly_B': 'PS', 'Score': 1, 'DOI': '10.1002/pen.760221710'}
+{'num': 5008, 'Poly_A': 'PVME', 'Poly_B': 'PS', 'Score': 1, 'DOI': '10.1002/pen.760221710'}
+{'num': 5025, 'Poly_A': 'EPR', 'Poly_B': 'i-PP', 'Score': 1, 'DOI': '10.1002/pen.20425'}
+{'num': 5026, 'Poly_A': 'EPR', 'Poly_B': 'i-PP', 'Score': 'more', 'DOI': '10.1002/pen.20425'}
+{'num': 5027, 'Poly_A': 'PBT', 'Poly_B': 'ABS', 'Score': 0, 'DOI': '10.1002/pen.20425'}
+{'num': 5027, 'Poly_A': 'PBT', 'Poly_B': 'PC', 'Score': 0, 'DOI': '10.1002/pen.20425'}
+{'num': 5027, 'Poly_A': 'PBT', 'Poly_B': 'PVC', 'Score': 0, 'DOI': '10.1002/pen.20425'}
+{'num': 5027, 'Poly_A': 'PBT', 'Poly_B': 'SEBS', 'Score': 0, 'DOI': '10.1002/pen.20425'}
+{'num': 5027, 'Poly_A': 'PBT', 'Poly_B': 'PPS', 'Score': 0, 'DOI': '10.1002/pen.20425'}
+{'num': 5028, 'Poly_A': 'EPR', 'Poly_B': 'i-PP', 'Score': 1, 'DOI': '10.1002/pen.20425'}
+{'num': 5028, 'Poly_A': 'SEBS', 'Poly_B': 'i-PP', 'Score': 1, 'DOI': '10.1002/pen.20425'}
+{'num': 5029, 'Poly_A': 'EPR', 'Poly_B': 'i-PP', 'Score': '+', 'DOI': '10.1002/pen.20425'}
+{'num': 5030, 'Poly_A': 'SEBS', 'Poly_B': 'i-PP', 'Score': 0.5, 'DOI': '10.1002/pen.20425'}
+{'num': 5031, 'Poly_A': 'EPR', 'Poly_B': 'i-PP', 'Score': 'more', 'DOI': '10.1002/pen.20425'}
+{'num': 5032, 'Poly_A': 'EPR', 'Poly_B': 'i-PP', 'Score': 'more', 'DOI': '10.1002/pen.20425'}
+{'num': 5041, 'Poly_A': 'PA 1010', 'Poly_B': 'TPU', 'Score': 1, 'DOI': '10.1002/polb.20410'}
+{'num': 5043, 'Poly_A': 'PA 1010', 'Poly_B': 'TPU', 'Score': 1, 'DOI': '10.1002/polb.20410'}
+{'num': 5065, 'Poly_A': 'PS', 'Poly_B': 'PPO', 'Score': 1, 'DOI': '10.1063/1.322449'}
+{'num': 5067, 'Poly_A': 'PpClS', 'Poly_B': 'PPO', 'Score': 0, 'DOI': '10.1063/1.322449'}
+{'num': 5090, 'Poly_A': 'CS', 'Poly_B': 'PLA', 'Score': '+', 'DOI': '10.1002/app.43755'}
+{'num': 5092, 'Poly_A': 'CS', 'Poly_B': 'PLA', 'Score': 0, 'DOI': '10.1002/app.43755'}
+{'num': 5093, 'Poly_A': 'CS', 'Poly_B': 'PLA', 'Score': 0, 'DOI': '10.1002/app.43755'}
+{'num': 5094, 'Poly_A': 'starch', 'Poly_B': 'PLA', 'Score': '+', 'DOI': '10.1002/app.43755'}
+{'num': 5101, 'Poly_A': 'nylon-epoxy resin', 'Poly_B': 'nylon', 'Score': '1', 'DOI': '10.1002/pen.760201209'}
+{'num': 5102, 'Poly_A': 'nylon-epoxy resin', 'Poly_B': 'nylon', 'Score': '1', 'DOI': '10.1002/pen.760201209'}
+{'num': 5104, 'Poly_A': 'PA 6', 'Poly_B': 'PP', 'Score': '+', 'DOI': '10.1080/00914030008033902'}
+{'num': 5113, 'Poly_A': 'WRP (Waste rubber powder: 36.4% natuaral rubber, 15.1% styrene-butadiene rubber, 3.1% polybutadiene, 6.6% oil, 32.8% carbon black, 6.0% ash)', 'Poly_B': 'PS', 'Score': '+', 'DOI': '10.1007/s00289-013-0991-3'}
+{'num': 5114, 'Poly_A': 'WRP (Waste rubber powder: 36.4% natuaral rubber, 15.1% styrene-butadiene rubber, 3.1% polybutadiene, 6.6% oil, 32.8% carbon black, 6.0% ash)', 'Poly_B': 'PS', 'Score': '+', 'DOI': '10.1007/s00289-013-0991-3'}
+{'num': 5125, 'Poly_A': 'POE', 'Poly_B': 'COC', 'Score': 1, 'DOI': '10.1080/03602550802129478'}
+{'num': 5126, 'Poly_A': 'POE', 'Poly_B': 'PET', 'Score': '1', 'DOI': '10.1080/03602550802129478'}
+{'num': 5128, 'Poly_A': 'COC', 'Poly_B': 'SPET', 'Score': 0, 'DOI': '10.1080/03602550802129478'}
+{'num': 5128, 'Poly_A': 'COC', 'Poly_B': 'POE-g-MA', 'Score': 0, 'DOI': '10.1080/03602550802129478'}
+{'num': 5129, 'Poly_A': 'SPET', 'Poly_B': 'COC', 'Score': 0.5, 'DOI': '10.1080/03602550802129478'}
+{'num': 5129, 'Poly_A': 'SPET', 'Poly_B': 'POE-g-MA', 'Score': 0.5, 'DOI': '10.1080/03602550802129478'}
+{'num': 5133, 'Poly_A': 'PEN', 'Poly_B': 'PBN', 'Score': 1, 'DOI': '10.1002/pen.760352210'}
+{'num': 5134, 'Poly_A': 'PEN', 'Poly_B': 'PBN', 'Score': 1, 'DOI': '10.1002/pen.760352210'}
+{'num': 5147, 'Poly_A': 'PVC', 'Poly_B': 'PCL', 'Score': 1, 'DOI': '10.1080/00222347708212239'}
+{'num': 5151, 'Poly_A': 'PHFA', 'Poly_B': 'PC', 'Score': 1, 'DOI': '10.1002/pol.1980.130180307'}
+{'num': 5151, 'Poly_A': 'PHFA', 'Poly_B': 'PBMA', 'Score': 1, 'DOI': '10.1002/pol.1980.130180307'}
+{'num': 5151, 'Poly_A': 'PHFA', 'Poly_B': 'PPO', 'Score': 1, 'DOI': '10.1002/pol.1980.130180307'}
+{'num': 5153, 'Poly_A': 'PS', 'Poly_B': 'PC', 'Score': 0, 'DOI': None}
+{'num': 5153, 'Poly_A': 'PHFA', 'Poly_B': 'PPO', 'Score': 1, 'DOI': '10.1002/pol.1980.130180307'}
+{'num': 5153, 'Poly_A': 'PS', 'Poly_B': 'PPO', 'Score': 1, 'DOI': '10.1002/pol.1980.130180307'}
+{'num': 5160, 'Poly_A': 'PMMA', 'Poly_B': 'STCN', 'Score': '+', 'DOI': '10.1002/1097-4628(20010118)79:3<488::aid-app120>3.0.co;2-f'}
+{'num': 5161, 'Poly_A': 'PVC', 'Poly_B': 'EVA', 'Score': 1, 'DOI': '10.1002/1097-4628(20010118)79:3<488::aid-app120>3.0.co;2-f'}
+{'num': 5162, 'Poly_A': 'PMMA', 'Poly_B': 'STCN', 'Score': 1, 'DOI': '10.1002/1097-4628(20010118)79:3<488::aid-app120>3.0.co;2-f'}
+{'num': 5186, 'Poly_A': 'R-PP (recycled polypropylene)', 'Poly_B': 'R-HIPS (recycled high impact polystyrene)', 'Score': '+', 'DOI': '10.1016/j.polymer.2018.05.017'}
+{'num': 5188, 'Poly_A': 'R-PP (recycled polypropylene)', 'Poly_B': 'R-HIPS (recycled high impact polystyrene)', 'Score': '+', 'DOI': '10.1016/j.polymer.2018.05.017'}
+{'num': 5190, 'Poly_A': 'R-PP (recycled polypropylene)', 'Poly_B': 'R-HIPS (recycled high impact polystyrene)', 'Score': '+', 'DOI': '10.1016/j.polymer.2018.05.017'}
+{'num': 5201, 'Poly_A': 'vinylacrylic copolymers', 'Poly_B': 'Silicone', 'Score': 0, 'DOI': '10.1002/pi.4990310409'}
+{'num': 5202, 'Poly_A': 'PS', 'Poly_B': 'PVC', 'Score': 0, 'DOI': '10.1081/ppt-120016341'}
+{'num': 5203, 'Poly_A': 'PS', 'Poly_B': 'PVC', 'Score': '+', 'DOI': '10.1081/ppt-120016341'}
+{'num': 5204, 'Poly_A': 'PS', 'Poly_B': 'PVC', 'Score': 0, 'DOI': '10.1081/ppt-120016341'}
+{'num': 5212, 'Poly_A': '1,4-PI', 'Poly_B': 'Poly(4-methylstyrene)', 'Score': 0, 'DOI': '10.1002/polb.24428'}
+{'num': 5212, 'Poly_A': '1,4-PI', 'Poly_B': 'Poly(4-ethylstyrene)', 'Score': 1, 'DOI': '10.1002/polb.24428'}
+{'num': 5212, 'Poly_A': '1,4-PI', 'Poly_B': 'Poly(4-propylstyrene)', 'Score': 1, 'DOI': '10.1002/polb.24428'}
+{'num': 5212, 'Poly_A': '1,4-PI', 'Poly_B': 'Poly(4-butylstyrene)', 'Score': 1, 'DOI': '10.1002/polb.24428'}
+{'num': 5212, 'Poly_A': '1,4-PI', 'Poly_B': 'Poly(4-hexylstyrene)', 'Score': 1, 'DOI': '10.1002/polb.24428'}
+{'num': 5212, 'Poly_A': '1,4-PI', 'Poly_B': 'Poly(4-octylstyrene)', 'Score': 1, 'DOI': '10.1002/polb.24428'}
+{'num': 5213, 'Poly_A': '1,4-PI', 'Poly_B': 'Poly(4-propylstyrene)', 'Score': 1, 'DOI': '10.1002/polb.24428'}
+{'num': 5214, 'Poly_A': 'LDPE', 'Poly_B': 'PVDF', 'Score': '+', 'DOI': '10.1002/app.42507'}
+{'num': 5215, 'Poly_A': 'PVDF', 'Poly_B': 'LDPE', 'Score': 'more', 'DOI': '10.1002/app.42507'}
+{'num': 5216, 'Poly_A': 'LDPE', 'Poly_B': 'PVDF', 'Score': 0, 'DOI': '10.1002/app.42507'}
+{'num': 5222, 'Poly_A': 'PES', 'Poly_B': 'TVVM', 'Score': '+', 'DOI': '10.1080/01694243.2018.1482988'}
+{'num': 5227, 'Poly_A': 'CP', 'Poly_B': 'Ethylene-vinyl acetate copolymer', 'Score': 1, 'DOI': '10.1021/ma00237a010'}
+{'num': 5228, 'Poly_A': 'CP', 'Poly_B': 'Ethylene-vinyl acetate copolymer', 'Score': 1, 'DOI': '10.1021/ma00237a010'}
+{'num': 5230, 'Poly_A': 'CP', 'Poly_B': 'Ethylene-vinyl acetate copolymer', 'Score': 1, 'DOI': '10.1021/ma00237a010'}
+{'num': 5248, 'Poly_A': 'PP', 'Poly_B': 'PA66', 'Score': '+', 'DOI': '10.1016/s0032-3861(97)10290-7'}
+{'num': 5250, 'Poly_A': 'PP', 'Poly_B': 'PA66', 'Score': '+', 'DOI': '10.1016/s0032-3861(97)10290-7'}
+{'num': 5274, 'Poly_A': 'PA6', 'Poly_B': 'PS', 'Score': '+', 'DOI': '10.1016/s0014-3057(00)00118-x'}
+{'num': 5275, 'Poly_A': 'PA6', 'Poly_B': 'PS', 'Score': 0, 'DOI': '10.1016/s0014-3057(00)00118-x'}
+{'num': 5283, 'Poly_A': 'PP', 'Poly_B': 'PE', 'Score': '+', 'DOI': '10.1007/s13369-012-0231-4'}
+{'num': 5285, 'Poly_A': 'PP', 'Poly_B': 'PE', 'Score': '+', 'DOI': '10.1007/s13369-012-0231-4'}
+{'num': 5306, 'Poly_A': 'PC', 'Poly_B': 'PBA', 'Score': 0, 'DOI': '10.1002/(sici)1521-3935(19980801)199:8<1709::aid-macp1709>3.0.co;2-z'}
+{'num': 5338, 'Poly_A': 'isotactic polypropylene (iPP)', 'Poly_B': 'atactic PMMA', 'Score': '+', 'DOI': '10.1002/app.26174'}
+{'num': 5339, 'Poly_A': 'PA6', 'Poly_B': 'PVC', 'Score': '+', 'DOI': '10.1002/app.26174'}
+{'num': 5355, 'Poly_A': 'PC', 'Poly_B': 'SAN', 'Score': 0.5, 'DOI': '10.1002/app.1988.070360809'}
+{'num': 5400, 'Poly_A': 'PET', 'Poly_B': 'PVC', 'Score': 0, 'DOI': '10.1002/app.1993.070501010'}
+{'num': 5401, 'Poly_A': 'PET', 'Poly_B': 'PVC', 'Score': '-', 'DOI': '10.1002/app.1993.070501010'}
+{'num': 5405, 'Poly_A': 'isotactic polypropylene (iPP)', 'Poly_B': 'HDPE', 'Score': 0, 'DOI': '10.1016/j.polymertesting.2019.105995'}
+{'num': 5427, 'Poly_A': 'EVOH', 'Poly_B': 'POE-g-MAH', 'Score': '+', 'DOI': '10.1002/pen.23479'}
+{'num': 5428, 'Poly_A': 'EVOH', 'Poly_B': 'POE-g-MAH', 'Score': 1, 'DOI': '10.1002/pen.23479'}
+{'num': 5431, 'Poly_A': 'PS', 'Poly_B': 'PCL', 'Score': 'more', 'DOI': '10.1016/j.matlet.2015.11.029'}
+{'num': 5432, 'Poly_A': 'PLA', 'Poly_B': 'PS', 'Score': 0.5, 'DOI': '10.1016/j.matlet.2015.11.029'}
+{'num': 5433, 'Poly_A': 'PLA', 'Poly_B': 'PS', 'Score': 0.5, 'DOI': '10.1016/j.matlet.2015.11.029'}
+{'num': 5440, 'Poly_A': 'maleated NR (MNR) ', 'Poly_B': 'NR', 'Score': 1, 'DOI': '10.1088/1757-899x/223/1/012014'}
+{'num': 5448, 'Poly_A': 'PHAU', 'Poly_B': 'PVC', 'Score': 1, 'DOI': '10.1002/app.1995.070561101'}
+{'num': 5449, 'Poly_A': 'PBAU', 'Poly_B': 'PVC', 'Score': 1, 'DOI': '10.1002/app.1995.070561101'}
+{'num': 5449, 'Poly_A': 'PEAU', 'Poly_B': 'PVC', 'Score': 0, 'DOI': '10.1002/app.1995.070561101'}
+{'num': 5449, 'Poly_A': 'PEAU', 'Poly_B': 'PVC', 'Score': 0, 'DOI': '10.1002/app.1995.070561101'}
+{'num': 5450, 'Poly_A': 'PET', 'Poly_B': 'LLDPE', 'Score': '+', 'DOI': '10.1016/s0032-3861(98)00183-9'}
+{'num': 5451, 'Poly_A': 'PS', 'Poly_B': 'HDPE', 'Score': '+', 'DOI': '10.1002/app.10826'}
+{'num': 5452, 'Poly_A': 'PS', 'Poly_B': 'HDPE', 'Score': 0, 'DOI': '10.1002/app.10826'}
+{'num': 5454, 'Poly_A': 'PS', 'Poly_B': 'LLDPE', 'Score': '+', 'DOI': '10.1515/epoly.2010.10.1.597'}
+{'num': 5454, 'Poly_A': 'PS', 'Poly_B': 'LLDPE', 'Score': 0, 'DOI': '10.1515/epoly.2010.10.1.597'}
+{'num': 5461, 'Poly_A': 'PMMA', 'Poly_B': 'SAN', 'Score': '+', 'DOI': '10.1002/masy.19910440107'}
+{'num': 5464, 'Poly_A': 'PVME', 'Poly_B': 'PS', 'Score': 1, 'DOI': '10.1002/masy.19910440107'}
+{'num': 5464, 'Poly_A': 'PVDF', 'Poly_B': 'PMMA', 'Score': 1, 'DOI': '10.1002/masy.19910440107'}
+{'num': 5465, 'Poly_A': 'PVC', 'Poly_B': 'PCL', 'Score': 1, 'DOI': '10.1002/masy.19910440107'}
+{'num': 5466, 'Poly_A': 'PMMA', 'Poly_B': 'PAN', 'Score': 0, 'DOI': '10.1002/masy.19910440107'}
+{'num': 5466, 'Poly_A': 'PMMA', 'Poly_B': 'PS', 'Score': 0, 'DOI': None}
+{'num': 5467, 'Poly_A': 'PMMA', 'Poly_B': 'SAN', 'Score': 0.5, 'DOI': '10.1002/masy.19910440107'}
+{'num': 5468, 'Poly_A': 'PMMA', 'Poly_B': 'PS', 'Score': 0, 'DOI': '10.1002/masy.19910440107'}
+{'num': 5469, 'Poly_A': 'polycyclohexyl methacrylate', 'Poly_B': 'PS', 'Score': 1, 'DOI': '10.1002/masy.19910440107'}
+{'num': 5470, 'Poly_A': 'polycyclohexyl methacrylate', 'Poly_B': 'poly-a-methylstyrene', 'Score': 1, 'DOI': '10.1002/masy.19910440107'}
+{'num': 5470, 'Poly_A': 'polycyclohexyl acrylate', 'Poly_B': 'poly-p-methylstyrene', 'Score': 1, 'DOI': '10.1002/masy.19910440107'}
+{'num': 5470, 'Poly_A': 'polycyclohexyl methacrylate', 'Poly_B': 'poly-a-methylstyrene', 'Score': 1, 'DOI': '10.1002/masy.19910440107'}
+{'num': 5470, 'Poly_A': 'polycyclohexyl acrylate', 'Poly_B': 'Poly(4-methylstyrene)', 'Score': 1, 'DOI': '10.1002/masy.19910440107'}
+{'num': 5503, 'Poly_A': 'Poly ( ethylene-co-acrylic acid)', 'Poly_B': 'Starch', 'Score': 1, 'DOI': '10.1002/app.1992.070441112'}
+{'num': 5503, 'Poly_A': 'PE', 'Poly_B': 'Starch', 'Score': 0, 'DOI': '10.1002/app.1992.070441112'}
+{'num': 5504, 'Poly_A': 'NR', 'Poly_B': 'EPDM', 'Score': '+', 'DOI': '10.1016/s0142-9418(02)00056-9'}
+{'num': 5504, 'Poly_A': 'NR', 'Poly_B': 'EPDM', 'Score': '+', 'DOI': '10.1016/s0142-9418(02)00056-9'}
+{'num': 5504, 'Poly_A': 'NR', 'Poly_B': 'EPDM', 'Score': '+', 'DOI': '10.1016/s0142-9418(02)00056-9'}
+{'num': 5504, 'Poly_A': 'NR', 'Poly_B': 'EPDM', 'Score': '+', 'DOI': '10.1016/s0142-9418(02)00056-9'}
+{'num': 5508, 'Poly_A': 'P(S/ nBMA)', 'Poly_B': 'PS', 'Score': 0.5, 'DOI': '10.1021/ba-1984-0206.ch010'}
+{'num': 5509, 'Poly_A': 'P(S/ nBMA)', 'Poly_B': 'PS', 'Score': 0.5, 'DOI': '10.1021/ba-1984-0206.ch010'}
+{'num': 5514, 'Poly_A': 'thermoplastic polyurethane (TPU)', 'Poly_B': 'POE', 'Score': '+', 'DOI': '10.1002/app.28412'}
+{'num': 5514, 'Poly_A': 'thermoplastic polyurethane (TPU)', 'Poly_B': 'POE', 'Score': '+', 'DOI': '10.1002/app.28412'}
+{'num': 5515, 'Poly_A': 'thermoplastic polyurethane (TPU)', 'Poly_B': 'POE', 'Score': '+', 'DOI': '10.1002/app.28412'}
+{'num': 5516, 'Poly_A': 'thermoplastic polyurethane (TPU)', 'Poly_B': 'POE', 'Score': '+', 'DOI': '10.1002/app.28412'}
+{'num': 5516, 'Poly_A': 'thermoplastic polyurethane (TPU)', 'Poly_B': 'POE', 'Score': '+', 'DOI': '10.1002/app.28412'}
+{'num': 5530, 'Poly_A': 'PLA', 'Poly_B': 'PBAT', 'Score': '+', 'DOI': '10.1016/j.ijbiomac.2020.09.142'}
+{'num': 5531, 'Poly_A': 'PLA', 'Poly_B': 'PBAT', 'Score': 0, 'DOI': '10.1016/j.ijbiomac.2020.09.142'}
+{'num': 5532, 'Poly_A': 'PLA', 'Poly_B': 'PBAT', 'Score': '+', 'DOI': '10.1016/j.ijbiomac.2020.09.142'}
+{'num': 5572, 'Poly_A': 'PA6', 'Poly_B': 'PVOH', 'Score': '+', 'DOI': '10.1021/ma001669t'}
+{'num': 5573, 'Poly_A': 'PA6', 'Poly_B': 'PVOH', 'Score': '+', 'DOI': '10.1021/ma001669t'}
+{'num': 5574, 'Poly_A': 'PA6', 'Poly_B': 'PVOH/PVAc=3/1', 'Score': 0.5, 'DOI': '10.1021/ma001669t'}
+{'num': 5574, 'Poly_A': 'PA6', 'Poly_B': 'PVAc', 'Score': 1, 'DOI': '10.1021/ma001669t'}
+{'num': 5587, 'Poly_A': 'PMMA', 'Poly_B': 'PS', 'Score': 0, 'DOI': '10.1002/pen.760220204'}
+{'num': 5589, 'Poly_A': 'PEMS', 'Poly_B': 'PDMS', 'Score': '+', 'DOI': '10.1021/ma012054e'}
+{'num': 801, 'Poly_A': None, 'Poly_B': None, 'Score': 'norela ', 'DOI': '10.1590/s0103-90162003000400009'}
+{'num': 802, 'Poly_A': None, 'Poly_B': None, 'Score': 'norela ', 'DOI': '10.1590/s0103-90162003000400009'}
+{'num': 817, 'Poly_A': 'PPO', 'Poly_B': 'PS', 'Score': 1, 'DOI': '10.1002/app.1985.070301118'}
+{'num': None, 'Poly_A': 'PMMA', 'Poly_B': 'PVDF', 'Score': 1, 'DOI': '10.1002/app.1985.070301118'}
+{'num': None, 'Poly_A': 'PVC', 'Poly_B': 'EVA', 'Score': 1, 'DOI': '10.1002/app.1985.070301118'}
+{'num': None, 'Poly_A': 'PVC', 'Poly_B': 'poly(butadiene-co-acrylonitrile)', 'Score': 1, 'DOI': '10.1002/app.1985.070301118'}
+{'num': 832, 'Poly_A': 'PP', 'Poly_B': 'PES', 'Score': 0, 'DOI': '10.1515/polyeng.2000.20.3.201'}
+{'num': 837, 'Poly_A': '1-PP', 'Poly_B': 'isotactic poly (1-butene) (PB1)', 'Score': 1, 'DOI': '10.1002/(sici)1097-4628(19961003)62:1<87::aid-app12>3.0.co;2-5'}
+{'num': 838, 'Poly_A': 'EPR', 'Poly_B': 'i-PP', 'Score': 0, 'DOI': '10.1002/(sici)1097-4628(19961003)62:1<87::aid-app12>3.0.co;2-5'}
+{'num': 848, 'Poly_A': 'PDMS–urethane', 'Poly_B': 'PMMA', 'Score': 0.5, 'DOI': '10.1002/app.2315'}
+{'num': 849, 'Poly_A': 'PDMS–urethane', 'Poly_B': 'PMMA', 'Score': '-', 'DOI': '10.1002/app.2315'}
+{'num': 850, 'Poly_A': 'PVC', 'Poly_B': 'SAN', 'Score': 1, 'DOI': '10.1002/app.26636'}
+{'num': 862, 'Poly_A': 'starch', 'Poly_B': 'PLA', 'Score': '+', 'DOI': '10.1016/j.ijbiomac.2019.09.026'}
+{'num': None, 'Poly_A': 'starch', 'Poly_B': 'PCL', 'Score': '+', 'DOI': '10.1016/j.ijbiomac.2019.09.026'}
+{'num': 863, 'Poly_A': 'starch', 'Poly_B': 'PLA', 'Score': '+', 'DOI': '10.1016/j.ijbiomac.2019.09.026'}
+{'num': 911, 'Poly_A': 'EPDM', 'Poly_B': 'NR', 'Score': 0, 'DOI': '10.1016/j.coco.2020.100442'}
+{'num': 912, 'Poly_A': 'EPDM', 'Poly_B': 'NR', 'Score': 0, 'DOI': '10.1016/j.coco.2020.100442'}
+{'num': 921, 'Poly_A': 'chitosan', 'Poly_B': 'pectin molecules', 'Score': '+', 'DOI': '10.1134/s1070427211020248'}
+{'num': 922, 'Poly_A': 'PCL', 'Poly_B': 'EC', 'Score': 0.5, 'DOI': '10.1016/s0014-3057(01)00032-5'}
+{'num': 923, 'Poly_A': 'PCL', 'Poly_B': 'PB', 'Score': 0, 'DOI': '10.1016/s0014-3057(01)00032-5'}
+{'num': 927, 'Poly_A': ' STR5L', 'Poly_B': 'EPDM', 'Score': 0, 'DOI': '10.1002/app.12329'}
+{'num': None, 'Poly_A': ' STR5L', 'Poly_B': 'BEPDM', 'Score': 0, 'DOI': '10.1002/app.12329'}
+{'num': 928, 'Poly_A': 'NR', 'Poly_B': 'EPDM', 'Score': 0, 'DOI': '10.1002/app.12329'}
+{'num': None, 'Poly_A': 'NR', 'Poly_B': 'BEPDM', 'Score': 0, 'DOI': '10.1002/app.12329'}
+{'num': 935, 'Poly_A': 'alkyl methacrylate polymers', 'Poly_B': 'poly(viny1idene fluoride)', 'Score': 1, 'DOI': '10.1021/ma60053a018'}
+{'num': 945, 'Poly_A': 'PS', 'Poly_B': 'PPO', 'Score': 1, 'DOI': '10.1021/ma60061a027'}
+{'num': 946, 'Poly_A': 'poly(4-chlo- rostyrene) (PpClS)', 'Poly_B': 'PPO', 'Score': 0, 'DOI': '10.1021/ma60061a027'}
+{'num': None, 'Poly_A': 'random copolymers of styrene (S)', 'Poly_B': '4-chlorostyrene (pC1S)', 'Score': 1, 'DOI': None}
+{'num': 948, 'Poly_A': 'PpClS ', 'Poly_B': 'PoClS/PPO', 'Score': 0, 'DOI': '10.1021/ma60061a027'}
+{'num': 951, 'Poly_A': 'PP', 'Poly_B': 'PBE', 'Score': 1, 'DOI': '10.1109/tdei.2019.008528'}
+{'num': 963, 'Poly_A': 'poly(4-vinylphenol)', 'Poly_B': 'poly(methy1 methacrylate)', 'Score': 0, 'DOI': '10.1021/ma50005a036'}
+{'num': None, 'Poly_A': 'poly(4-vinylphenol)', 'Poly_B': 'poly(styrene-co-acrylonitrile)', 'Score': 0, 'DOI': None}
+{'num': 964, 'Poly_A': ' Novolac', 'Poly_B': 'PS', 'Score': 0, 'DOI': '10.1021/ma50005a036'}
+{'num': 965, 'Poly_A': 'Poly(4-vinylphenol)', 'Poly_B': 'PSAN', 'Score': 0, 'DOI': '10.1021/ma50005a036'}
+{'num': None, 'Poly_A': 'Poly(4-vinylphenol)', 'Poly_B': 'PMMA', 'Score': 0, 'DOI': '10.1021/ma50005a036'}
+{'num': 966, 'Poly_A': 'novolacs', 'Poly_B': 'PSAN', 'Score': '+', 'DOI': '10.1021/ma50005a036'}
+{'num': 967, 'Poly_A': 'poly(4-vinyl- phenol)', 'Poly_B': 'PSAN', 'Score': 0, 'DOI': '10.1021/ma50005a036'}
+{'num': None, 'Poly_A': 'poly(4-vinyl- phenol)', 'Poly_B': 'PMMA', 'Score': 0, 'DOI': None}
+{'num': None, 'Poly_A': 'substituted-phenol novolacs', 'Poly_B': 'PSAN', 'Score': 1, 'DOI': None}
+{'num': None, 'Poly_A': 'substituted-phenol novolacs', 'Poly_B': 'PMMA', 'Score': 1, 'DOI': None}
+{'num': 968, 'Poly_A': None, 'Poly_B': None, 'Score': 1, 'DOI': '10.1134/s1070427212090182'}
+{'num': 975, 'Poly_A': 'PHEMA', 'Poly_B': 'PVDF', 'Score': '+', 'DOI': '10.1021/la2018314'}
+{'num': 977, 'Poly_A': 'NR', 'Poly_B': 'BR', 'Score': '+', 'DOI': '10.1016/j.compositesa.2018.11.001'}
+{'num': 978, 'Poly_A': 'soy protein', 'Poly_B': 'poly (butylene succinate)', 'Score': 1, 'DOI': '10.1016/j.compositesa.2018.11.001'}
+{'num': 985, 'Poly_A': 'EVOH ', 'Poly_B': 'polyoleﬁns', 'Score': 1, 'DOI': '10.1002/adv.20160'}
+{'num': 1011, 'Poly_A': 'CNC(cellulose nanocrystals )', 'Poly_B': 'PLLA', 'Score': 1, 'DOI': '10.1007/s10570-017-1461-0'}
+{'num': 1014, 'Poly_A': 'EPR(ethylene-propylene random copolymer)', 'Poly_B': 'EbP(ethylene-propylene blockcopolymer)', 'Score': 1, 'DOI': '10.1016/j.polymer.2010.08.021'}
+{'num': 1015, 'Poly_A': 'EPR(ethylene-propylene random copolymer)', 'Poly_B': 'EbP', 'Score': 1, 'DOI': '10.1016/j.polymer.2010.08.021'}
+{'num': 1017, 'Poly_A': 'PPC', 'Poly_B': 'poly(3-hydroxy- butyrate) ', 'Score': 0.5, 'DOI': '10.1002/app.45823'}
+{'num': None, 'Poly_A': 'PPC', 'Poly_B': 'poly(vinyl acetate)', 'Score': 0.5, 'DOI': None}
+{'num': 1028, 'Poly_A': 'PVC', 'Poly_B': 'NBR', 'Score': '+', 'DOI': '10.1002/1097-4628(20010103)79:1<60::aid-app70>3.0.co;2-l'}
+{'num': 1029, 'Poly_A': 'NR', 'Poly_B': 'SBR', 'Score': 1, 'DOI': '10.1002/1097-4628(20010103)79:1<60::aid-app70>3.0.co;2-l'}
+{'num': None, 'Poly_A': 'NR', 'Poly_B': 'BR', 'Score': 1, 'DOI': None}
+{'num': None, 'Poly_A': 'NR', 'Poly_B': 'EPDM', 'Score': 0, 'DOI': None}
+{'num': None, 'Poly_A': 'NR', 'Poly_B': 'NBR', 'Score': 0, 'DOI': None}
+{'num': None, 'Poly_A': 'NR', 'Poly_B': 'CR', 'Score': 0, 'DOI': None}
+{'num': 1051, 'Poly_A': 'SMA', 'Poly_B': 'LDPE', 'Score': '+', 'DOI': '10.1080/10601329808000551'}
+{'num': 1053, 'Poly_A': 'IIR', 'Poly_B': 'EPDM', 'Score': 1, 'DOI': '10.1002/pc.20980'}
+{'num': 1055, 'Poly_A': 'CPO(chlorinated maleated polypropyle)', 'Poly_B': 'EBR', 'Score': 1, 'DOI': '10.1021/ma030381b'}
+{'num': 1064, 'Poly_A': 'PVC', 'Poly_B': 'polychloroprene', 'Score': 1, 'DOI': '10.1002/app.1984.070290519'}
+{'num': None, 'Poly_A': 'PVC', 'Poly_B': 'chlorinated polyiso- prene', 'Score': 0, 'DOI': None}
+{'num': 1065, 'Poly_A': 'PVC', 'Poly_B': 'poly- ethylene-N-vinyl-N-methylacetamide', 'Score': 1, 'DOI': '10.1021/ma60045a014'}
+{'num': None, 'Poly_A': 'PVC', 'Poly_B': 'N-dimethylacrylamide', 'Score': 1, 'DOI': None}
+{'num': 1089, 'Poly_A': 'PPE', 'Poly_B': 'PS', 'Score': 1, 'DOI': '10.1002/app.1992.070440222'}
+{'num': 1093, 'Poly_A': 'PP', 'Poly_B': 'PA6', 'Score': '+', 'DOI': '10.1007/s00289-009-0100-9'}
+{'num': 1099, 'Poly_A': 'PLA', 'Poly_B': 'ENR', 'Score': '+', 'DOI': '10.1002/app.48996'}
+{'num': 1100, 'Poly_A': 'PC', 'Poly_B': 'Poly(vinylidene ﬂuoride)', 'Score': 0, 'DOI': '10.1016/s0032-3861(99)00803-4'}
+{'num': None, 'Poly_A': 'PC', 'Poly_B': 'ABS', 'Score': 0, 'DOI': '10.1111/j.1439-0418.2004.00843.x'}
+{'num': None, 'Poly_A': 'PMMA', 'Poly_B': 'PC/Poly(vinylidene ﬂuoride)', 'Score': 1, 'DOI': None}
+{'num': None, 'Poly_A': 'PMMA', 'Poly_B': 'PC/ABS blend', 'Score': 1, 'DOI': None}
+{'num': 1115, 'Poly_A': 'PLA', 'Poly_B': 'PPC', 'Score': '+', 'DOI': '10.3144/expresspolymlett.2012.92'}
+{'num': 1120, 'Poly_A': 'LDPE', 'Poly_B': 'EVA-18(18 wt % vinyl acetate)', 'Score': 1, 'DOI': '10.1002/app.12663'}
+{'num': 1124, 'Poly_A': 'PANI', 'Poly_B': 'PVAm', 'Score': 1, 'DOI': '10.1016/j.memsci.2017.06.047'}
+{'num': 1131, 'Poly_A': 'PS', 'Poly_B': 'VYHH', 'Score': 0, 'DOI': '10.1002/(sici)1097-4628(19960829)61:9<1473::aid-app6>3.0.co;2-g'}
+{'num': 1134, 'Poly_A': 'PMMA', 'Poly_B': 'PTBF', 'Score': '+', 'DOI': '10.1002/app.1995.070570212'}
+{'num': 1138, 'Poly_A': 'RS(rice starch)', 'Poly_B': 'HMP', 'Score': 1, 'DOI': '10.1094/cchem.2000.77.5.544'}
+{'num': 1142, 'Poly_A': 'Nylon6', 'Poly_B': 'LDPE', 'Score': 0, 'DOI': '10.1002/(sici)1097-4628(20000425)76:4<488::aid-app6>3.0.co;2-6'}
+{'num': 1144, 'Poly_A': 'Nylon6', 'Poly_B': 'LDPE', 'Score': 0, 'DOI': '10.1002/(sici)1097-4628(20000425)76:4<488::aid-app6>3.0.co;2-6'}
+{'num': 1157, 'Poly_A': 'PLA', 'Poly_B': 'BF(bamboo fiber)', 'Score': '+', 'DOI': '10.1016/j.polymertesting.2014.04.001'}
+{'num': 1158, 'Poly_A': 'PLA', 'Poly_B': 'BF(bamboo fiber)', 'Score': 0, 'DOI': '10.1016/j.polymertesting.2014.04.001'}
+{'num': 1159, 'Poly_A': 'PLA', 'Poly_B': 'BF(bamboo fiber)', 'Score': '+', 'DOI': '10.1016/j.polymertesting.2014.04.001'}
+{'num': 1167, 'Poly_A': 'PEO', 'Poly_B': 'PMMA', 'Score': 0, 'DOI': '10.1002/pol.1984.170221107'}
+{'num': 4003, 'Poly_A': 'CPE', 'Poly_B': 'EMA', 'Score': 1, 'DOI': '10.1002/app.40316'}
+{'num': 4005, 'Poly_A': 'PVC', 'Poly_B': 'PMMA', 'Score': 0.5, 'DOI': '10.1111/j.1749-6632.2003.tb06005.x'}
+{'num': 4007, 'Poly_A': 'PVC', 'Poly_B': 'PVC-co-VAc', 'Score': 1, 'DOI': '10.1111/j.1749-6632.2003.tb06005.x'}
+{'num': 4008, 'Poly_A': 'PVC', 'Poly_B': 'PVC-co-Vac-co-MAL', 'Score': 1, 'DOI': '10.1111/j.1749-6632.2003.tb06005.x'}
+{'num': 4009, 'Poly_A': None, 'Poly_B': 'SAN', 'Score': 0.5, 'DOI': '10.1002/app.48743'}
+{'num': 4018, 'Poly_A': 'PLA', 'Poly_B': 'PEBAX', 'Score': 1, 'DOI': '10.1002/pi.6058'}
+{'num': 4023, 'Poly_A': 'PP', 'Poly_B': 'kenaf fibre', 'Score': '+', 'DOI': '10.1002/pi.6058'}
+{'num': 4050, 'Poly_A': 'PLA', 'Poly_B': 'PPC', 'Score': 1, 'DOI': '10.1002/polb.20669'}
+{'num': 4063, 'Poly_A': 'PFS', 'Poly_B': 'PS', 'Score': 0, 'DOI': '10.1002/app.1983.070280119'}
+{'num': 4116, 'Poly_A': 'PET', 'Poly_B': 'ABS', 'Score': '+', 'DOI': '10.1002/pen.23933'}
+{'num': 4134, 'Poly_A': 'PA', 'Poly_B': '壳聚糖', 'Score': 1, 'DOI': '10.1002/polb.20981'}
+{'num': 4190, 'Poly_A': 'PP', 'Poly_B': 'PE', 'Score': 0, 'DOI': '10.1002/pen.760240206'}
+{'num': 4192, 'Poly_A': 'PS', 'Poly_B': 'PCPP', 'Score': 0.5, 'DOI': '10.1021/bk-1994-0572.ch023'}
+{'num': 4233, 'Poly_A': 'PE', 'Poly_B': 'Lignin', 'Score': 0, 'DOI': "10.4028/www.scientific.net/amr.181-182.88', '10.4028/www.scientific.net/amr.391-392.143', '10.4028/www.scientific.net/amr.194-196.1476"}
+{'num': 4236, 'Poly_A': 'LDPE', 'Poly_B': 'Lignin', 'Score': '+', 'DOI': '10.4028/www.scientific.net/amr.181-182.88'}
+{'num': 4238, 'Poly_A': 'PMA/PS/PMMA/PVA', 'Poly_B': 'PVA/PaMS/nitrocellulose/nitrocellulose', 'Score': 1, 'DOI': '10.1002/app.1961.070051514'}
+{'num': 4249, 'Poly_A': 'PS', 'Poly_B': 'PMMA/SAN', 'Score': '0/1', 'DOI': '10.1002/app.20973'}
+{'num': 4287, 'Poly_A': 'PET', 'Poly_B': 'PC', 'Score': '+', 'DOI': '10.1002/pi.6081'}
+{'num': 4291, 'Poly_A': 'PS', 'Poly_B': 'PE/PP', 'Score': '+', 'DOI': '10.1080/00222340701257794'}
+{'num': 4292, 'Poly_A': 'PP', 'Poly_B': 'PS', 'Score': '+', 'DOI': '10.1080/00222340701257794'}
+{'num': 4302, 'Poly_A': 'XNBR', 'Poly_B': 'SBR', 'Score': '+', 'DOI': '10.1016/j.compositesb.2016.12.003'}
+{'num': 4309, 'Poly_A': 'PEG', 'Poly_B': 'CS', 'Score': 1, 'DOI': '10.1016/j.memsci.2003.11.020'}
+{'num': 4351, 'Poly_A': 'PP', 'Poly_B': 'MCC', 'Score': '+', 'DOI': '10.1016/j.compositesa.2009.03.011'}
+{'num': 4398, 'Poly_A': 'PA', 'Poly_B': None, 'Score': '+', 'DOI': '10.1016/b978-1-895198-83-6.50008-8'}
+{'num': 4400, 'Poly_A': 'PBS', 'Poly_B': 'PER', 'Score': 1, 'DOI': '10.1016/j.polymertesting.2009.08.004'}
+{'Poly_A': 'poly(methyl acrylate)', 'Poly_B': 'poly-(vinyl acetate)', 'Score': 1}
+{'Poly_A': 'PS', 'Poly_B': 'poly (o-methylstyrene)', 'Score': 1}
+{'Poly_A': 'PMMA', 'Poly_B': 'nitrocellulose', 'Score': 1}
+{'Poly_A': 'poly-(vinyl acetate)', 'Poly_B': 'nitrocellulose', 'Score': 1}
+{'Poly_A': 'PMA', 'Poly_B': 'PEA', 'Score': 0}
+{'Poly_A': 'PMA', 'Poly_B': 'PMMA', 'Score': 0}
+{'Poly_A': 'PMA', 'Poly_B': 'PBA', 'Score': 0}
+{'Poly_A': 'PEA', 'Poly_B': 'PMMA', 'Score': 0}
+{'Poly_A': 'PEA', 'Poly_B': 'PMMA(DMF) ', 'Score': 0}
+{'Poly_A': 'PEA', 'Poly_B': 'PEMA', 'Score': 0}
+{'Poly_A': 'PEA', 'Poly_B': 'PBMA', 'Score': 0}
+{'Poly_A': 'PEA', 'Poly_B': 'PiPA', 'Score': 0}
+{'Poly_A': 'PEA', 'Poly_B': 'PBA', 'Score': 0}
+{'Poly_A': 'PEA', 'Poly_B': 'PiBoMA ', 'Score': 0}
+{'Poly_A': 'PEMA', 'Poly_B': 'PMMA', 'Score': 0}
+{'Poly_A': 'PiPA', 'Poly_B': 'PBA', 'Score': 0}
+{'Poly_A': 'PiPA', 'Poly_B': 'PtBA ', 'Score': 0}
+{'Poly_A': 'PBA', 'Poly_B': 'PMMA', 'Score': 0}
+{'Poly_A': 'PBA', 'Poly_B': 'PsEA ', 'Score': 0}
+{'Poly_A': 'PBA', 'Poly_B': 'PtBA ', 'Score': 0}
+{'Poly_A': 'PBA', 'Poly_B': 'PiBMA ', 'Score': 0}
+{'Poly_A': 'PsBA', 'Poly_B': 'PtBA ', 'Score': 0}
+{'Poly_A': 'PiBMA', 'Poly_B': 'PMMA', 'Score': 0}
+{'Poly_A': 'PMMA', 'Poly_B': 'PBzMA ', 'Score': 0}
+{'Poly_A': 'PMMA', 'Poly_B': 'PiBoMA ', 'Score': 0}
+{'Poly_A': 'PBzM A', 'Poly_B': 'PiBoMA ', 'Score': 0}
+{'Poly_A': 'PMA', 'Poly_B': 'PtBVE ', 'Score': 0}
+{'Poly_A': 'PtBVE ', 'Poly_B': 'PiBVE', 'Score': 0}
+{'Poly_A': 'PMA', 'Poly_B': 'PS', 'Score': 0}
+{'Poly_A': 'PEA', 'Poly_B': 'PS', 'Score': 0}
+{'Poly_A': 'PBA', 'Poly_B': 'PS', 'Score': 0}
+{'Poly_A': 'PBMA', 'Poly_B': 'PS', 'Score': 0}
+{'Poly_A': 'PMMA', 'Poly_B': 'PS', 'Score': 0}
+{'Poly_A': 'PiBoMA', 'Poly_B': 'PS', 'Score': 0}
+{'Poly_A': 'PBzMA', 'Poly_B': 'PS', 'Score': 0}
+{'Poly_A': 'PMMA', 'Poly_B': 'PVOH', 'Score': 0}
+{'Poly_A': 'PAA', 'Poly_B': 'PVOH', 'Score': 0}
+{'Poly_A': 'PNaA', 'Poly_B': 'PNaMA', 'Score': 1}
+{'Poly_A': 'PNaA', 'Poly_B': 'PAA', 'Score': 1}
+{'Poly_A': 'PMAA', 'Poly_B': 'PNaMA', 'Score': 1}
+{'Poly_A': 'AA- NaA  copolymer', 'Poly_B': 'MAA- NaMA copolymer', 'Score': 0}
+{'Poly_A': 'PMAA', 'Poly_B': 'PNaA', 'Score': 1}
+{'Poly_A': 'PMAA', 'Poly_B': 'PNaA', 'Score': 0}
+{'Poly_A': 'PVC', 'Poly_B': 'Bu/AN=2/1', 'Score': 1}
+{'Poly_A': 'PVAc', 'Poly_B': 'PMA', 'Score': 1}
+{'Poly_A': 'CPE', 'Poly_B': 'CPE', 'Score': 1}
+{'Poly_A': 'PMMA', 'Poly_B': 'PEA', 'Score': 1}
+{'Poly_A': 'NR', 'Poly_B': 'PBu', 'Score': 1}
+{'Poly_A': 'Ebonite', 'Poly_B': 'polysulfide', 'Score': 1}
+{'Poly_A': 'PSt', 'Poly_B': 'poly(a-methyl-styrene)', 'Score': 1}
+{'Poly_A': 'PE', 'Poly_B': 'Polyisobutylene', 'Score': 0}
+{'Poly_A': 'PMMA', 'Poly_B': 'PVAc', 'Score': 0}
+{'Poly_A': 'PSt', 'Poly_B': 'PBu', 'Score': 0}
+{'Poly_A': 'PEA', 'Poly_B': 'PnBMA', 'Score': 0}
+{'Poly_A': 'PMMA', 'Poly_B': 'PMA', 'Score': 0}
+{'Poly_A': 'PSt', 'Poly_B': 'PVC', 'Score': 0}
+{'Poly_A': 'NR', 'Poly_B': 'Polychloroprene', 'Score': 0}
+{'Poly_A': 'PVC', 'Poly_B': 'Poly(2-ethylhexyl acrylate)', 'Score': 0}
+{'Poly_A': 'PSt', 'Poly_B': 'PE', 'Score': 0}
+{'Poly_A': 'PE', 'Poly_B': 'PP', 'Score': 0}
+{'Poly_A': 'PSt', 'Poly_B': 'PMA', 'Score': 0}
+{'Poly_A': 'PMMA', 'Poly_B': 'NR', 'Score': 0}
+{'Poly_A': 'PE', 'Poly_B': 'PVAC', 'Score': 0}
+{'Poly_A': 'PSt', 'Poly_B': 'PTFE', 'Score': 0}
+{'Poly_A': 'PSt', 'Poly_B': 'PAN', 'Score': 0}
+{'Poly_A': 'PE', 'Poly_B': 'Poly(vinyl carbazole)', 'Score': 0}
+{'Poly_A': 'PSt', 'Poly_B': 'Poly(vinyl alcohol)', 'Score': 0}
+{'Poly_A': 'PEO', 'Poly_B': 'PSt', 'Score': 0}
+{'Poly_A': 'PEO', 'Poly_B': 'Poly(4-vinyl biphenyl)', 'Score': 0}
+{'Poly_A': 'PEO', 'Poly_B': 'Poly(vinyl naphthalene)', 'Score': 0}
+{'Poly_A': 'Ebonite', 'Poly_B': 'Butyl rubber', 'Score': 0}
+{'Poly_A': 'Ebonite', 'Poly_B': 'Polyisobutylene', 'Score': 0}
+{'Poly_A': 'Polyisoprene', 'Poly_B': 'PSt', 'Score': 0}
+{'Poly_A': 'Poly(propylene oxide)', 'Poly_B': 'PSt', 'Score': 0}
+{'Poly_A': 'Poly(propylene oxide)', 'Poly_B': 'PAN', 'Score': 0}
+{'Poly_A': 'Poly(propylene oxide)', 'Poly_B': 'PMMA', 'Score': 0}
+{'Poly_A': 'PEO', 'Poly_B': 'PC', 'Score': 0}
+{'Poly_A': 'Nylon 6', 'Poly_B': 'PMMA', 'Score': 0}
+{'Poly_A': 'Nylon 6', 'Poly_B': 'PVAc', 'Score': 0}
+{'Poly_A': 'Nylon 6', 'Poly_B': 'PMA', 'Score': 0}
+{'Poly_A': 'Nylon 6', 'Poly_B': 'PEA', 'Score': 0}
+{'Poly_A': 'PMMA', 'Poly_B': 'cellulose triacetate', 'Score': 0}
+{'Poly_A': 'Nylon 6, 6', 'Poly_B': 'Nylon 6, 10', 'Score': 0}
+{'Poly_A': 'Linear PE', 'Poly_B': 'Branched PE', 'Score': 0}
+{'Poly_A': 'Isotactic PSt', 'Poly_B': 'Atactic PSt', 'Score': 0}
+{'Poly_A': 'PMMA', 'Poly_B': 'PSt', 'Score': 0}
+{'Poly_A': 'PSt', 'Poly_B': 'poly(a-methyl-styrene)', 'Score': 0}
+{'Poly_A': 'Cellulose acetate', 'Poly_B': 'Ethylcellulose', 'Score': 0}
+{'Poly_A': 'Cellulose acetate', 'Poly_B': 'Benzylcellulose', 'Score': 0}
+{'Poly_A': 'Cellulose acetate', 'Poly_B': 'Cellulose acetate(both copolymers)', 'Score': 0}
+{'Poly_A': 'Cellulose acetate', 'Poly_B': 'Cellulose acetate-propionate', 'Score': 0}
+{'Poly_A': 'Cellulose acetate', 'Poly_B': 'Cellulose acetate-butyrate', 'Score': 0}
+{'Poly_A': 'Nitrocellulose', 'Poly_B': 'Benzylcellulose', 'Score': 0}
+{'Poly_A': 'Nitrocellulose', 'Poly_B': 'Cellulose acetate-propionate', 'Score': 1}
+{'Poly_A': 'Nitrocellulose', 'Poly_B': 'Cellulose acetate-butyrate', 'Score': 0}
+{'Poly_A': 'Ethylcellulose', 'Poly_B': 'Benzylcellulose', 'Score': 0}
+{'Poly_A': 'Ethylcellulose', 'Poly_B': 'Cellulose acetate-propionate', 'Score': 0}
+{'Poly_A': 'Ethylcellulose', 'Poly_B': 'Cellulose acetate-butyrate', 'Score': 0}
+{'Poly_A': 'Cellulose acetate-propionate', 'Poly_B': 'Cellulose acetate-butyrate', 'Score': 0}
+{'Poly_A': 'Cellulose acetate', 'Poly_B': 'PVAc', 'Score': 0}
+{'Poly_A': 'Cellulose acetate', 'Poly_B': 'PS', 'Score': 0}
+{'Poly_A': 'Cellulose acetate', 'Poly_B': 'PMMA', 'Score': 0}
+{'Poly_A': 'Cellulose acetate', 'Poly_B': 'PMA', 'Score': 0}
+{'Poly_A': 'Cellulose acetate', 'Poly_B': 'PEA', 'Score': 0}
+{'Poly_A': 'Cellulose acetate', 'Poly_B': 'PBA', 'Score': 0}
+{'Poly_A': 'Cellulose acetate', 'Poly_B': 'PEMA', 'Score': 0}
+{'Poly_A': 'Cellulose acetate', 'Poly_B': 'PBMA', 'Score': 0}
+{'Poly_A': 'Cellulose acetate', 'Poly_B': 'PAN', 'Score': 0}
+{'Poly_A': 'Cellulose acetate', 'Poly_B': 'Polyvinyl acetal', 'Score': 0}
+{'Poly_A': 'Cellulose diacetate', 'Poly_B': 'epichlorohydrin-co-ethylene oxide', 'Score': 0}
+{'Poly_A': 'Cellulose diacetate', 'Poly_B': 'PC', 'Score': 0}
+{'Poly_A': 'Cellulose diacetate', 'Poly_B': 'Polyepichlorohydrin', 'Score': 0}
+{'Poly_A': 'Cellulose diacetate', 'Poly_B': 'PPO', 'Score': 0}
+{'Poly_A': 'Cellulose diacetate', 'Poly_B': 'polysulfone', 'Score': 0}
+{'Poly_A': 'Cellulose diacetate', 'Poly_B': 'polyester-urethane', 'Score': 0}
+{'Poly_A': 'Cellulose diacetate', 'Poly_B': 'SAN', 'Score': 0}
+{'Poly_A': 'Nitrocellulose', 'Poly_B': 'Polyisoprene', 'Score': 0}
+{'Poly_A': 'Nitrocellulose', 'Poly_B': 'PBU', 'Score': 0}
+{'Poly_A': 'Nitrocellulose', 'Poly_B': 'PVAc', 'Score': 1}
+{'Poly_A': 'Nitrocellulose', 'Poly_B': 'PS', 'Score': 0}
+{'Poly_A': 'Nitrocellulose', 'Poly_B': 'PMMA', 'Score': 1}
+{'Poly_A': 'Nitrocellulose', 'Poly_B': 'PMA', 'Score': 1}
+{'Poly_A': 'Nitrocellulose', 'Poly_B': 'PEA', 'Score': 1}
+{'Poly_A': 'Nitrocellulose', 'Poly_B': 'PBA', 'Score': 1}
+{'Poly_A': 'Nitrocellulose', 'Poly_B': 'PEMA', 'Score': 1}
+{'Poly_A': 'Nitrocellulose', 'Poly_B': 'PBMA', 'Score': 1}
+{'Poly_A': 'Nitrocellulose', 'Poly_B': 'Polyvinyl acetal', 'Score': 0}
+{'Poly_A': 'Nitrocellulose', 'Poly_B': 'SAN', 'Score': 1}
+{'Poly_A': 'Nitrocellulose', 'Poly_B': 'Polyepichlorohydrin', 'Score': 0}
+{'Poly_A': 'Nitrocellulose', 'Poly_B': 'PC', 'Score': 0}
+{'Poly_A': 'Nitrocellulose', 'Poly_B': 'PPO', 'Score': 0}
+{'Poly_A': 'Nitrocellulose', 'Poly_B': 'polysulfone', 'Score': 0}
+{'Poly_A': 'Cellulose acetate-propionate', 'Poly_B': 'Polyisoprene', 'Score': 0}
+{'Poly_A': 'Cellulose acetate-propionate', 'Poly_B': 'Chlorinated rubber', 'Score': 0}
+{'Poly_A': 'Cellulose acetate-propionate', 'Poly_B': 'PMA', 'Score': 0.5}
+{'Poly_A': 'Cellulose acetate-propionate', 'Poly_B': 'PEA', 'Score': 0.5}
+{'Poly_A': 'Cellulose acetate-propionate', 'Poly_B': 'PBA', 'Score': 0.5}
+{'Poly_A': 'Cellulose acetate-propionate', 'Poly_B': 'PMMA', 'Score': 0}
+{'Poly_A': 'Cellulose acetate-propionate', 'Poly_B': 'PEMA', 'Score': 0}
+{'Poly_A': 'Cellulose acetate-propionate', 'Poly_B': 'PBMA', 'Score': 0}
+{'Poly_A': 'Cellulose acetate-propionate', 'Poly_B': 'PVAc', 'Score': 0}
+{'Poly_A': 'Cellulose acetate-propionate', 'Poly_B': 'PS', 'Score': 0}
+{'Poly_A': 'Cellulose acetate-propionate', 'Poly_B': 'PMMA', 'Score': 0}
+{'Poly_A': 'Cellulose acetate-propionate', 'Poly_B': 'PC', 'Score': 0}
+{'Poly_A': 'Cellulose acetate-propionate', 'Poly_B': 'Polyepichlorohydrin', 'Score': 0}
+{'Poly_A': 'Cellulose acetate-propionate', 'Poly_B': 'PPO', 'Score': 0}
+{'Poly_A': 'Cellulose acetate-propionate', 'Poly_B': 'polysulfone', 'Score': 0}
+{'Poly_A': 'Cellulose acetate-propionate', 'Poly_B': 'polyester-urethane', 'Score': 0}
+{'Poly_A': 'Cellulose acetate-propionate', 'Poly_B': 'SAN', 'Score': 0}
+{'Poly_A': 'Cellulose acetate-butyrate', 'Poly_B': 'PMMA', 'Score': 0}
+{'Poly_A': 'Cellulose acetate-propionate', 'Poly_B': 'PMA', 'Score': 0.5}
+{'Poly_A': 'Cellulose acetate-butyrate', 'Poly_B': 'PEA', 'Score': 0.5}
+{'Poly_A': 'Cellulose acetate-propionate', 'Poly_B': 'PBA', 'Score': 0.5}
+{'Poly_A': 'Cellulose acetate-butyrate', 'Poly_B': 'PEMA', 'Score': 0}
+{'Poly_A': 'Cellulose acetate-propionate', 'Poly_B': 'PBMA', 'Score': 0}
+{'Poly_A': 'Cellulose acetate-butyrate', 'Poly_B': 'PS', 'Score': 0}
+{'Poly_A': 'Cellulose acetate-propionate', 'Poly_B': 'PC', 'Score': 0}
+{'Poly_A': 'Cellulose acetate-butyrate', 'Poly_B': 'Polyepichlorohydrin', 'Score': 0}
+{'Poly_A': 'Cellulose acetate-propionate', 'Poly_B': 'PPO', 'Score': 0}
+{'Poly_A': 'Cellulose acetate-butyrate', 'Poly_B': 'polysulfone', 'Score': 0}
+{'Poly_A': 'Cellulose acetate-propionate', 'Poly_B': 'polyester-urethane', 'Score': 0}
+{'Poly_A': 'Cellulose acetate-butyrate', 'Poly_B': 'SAN', 'Score': 0}
+{'Poly_A': 'Methylcellulose', 'Poly_B': 'PVA', 'Score': 0}
+{'Poly_A': 'Ethylcellulose', 'Poly_B': 'Polyisoprene', 'Score': 0}
+{'Poly_A': 'Ethylcellulose', 'Poly_B': 'PVAc', 'Score': 0}
+{'Poly_A': 'Ethylcellulose', 'Poly_B': 'PS', 'Score': 0}
+{'Poly_A': 'Ethylcellulose', 'Poly_B': 'PMMA', 'Score': 0}
+{'Poly_A': 'Ethylcellulose', 'Poly_B': 'PMA', 'Score': 0}
+{'Poly_A': 'Ethylcellulose', 'Poly_B': 'PEA', 'Score': 0}
+{'Poly_A': 'Ethylcellulose', 'Poly_B': 'PBA', 'Score': 0}
+{'Poly_A': 'Ethylcellulose', 'Poly_B': 'PEMA', 'Score': 0}
+{'Poly_A': 'Ethylcellulose', 'Poly_B': 'PBMA', 'Score': 0}
+{'Poly_A': 'Ethylcellulose', 'Poly_B': 'Polyvinyl acetal', 'Score': 0}
+{'Poly_A': 'Ethylcellulose', 'Poly_B': 'PC', 'Score': 0}
+{'Poly_A': 'Ethylcellulose', 'Poly_B': 'Polyepichlorohydrin', 'Score': 0}
+{'Poly_A': 'Ethylcellulose', 'Poly_B': 'PPO', 'Score': 0}
+{'Poly_A': 'Ethylcellulose', 'Poly_B': 'polysulfone', 'Score': 0}
+{'Poly_A': 'Ethylcellulose', 'Poly_B': 'polyester-urethane', 'Score': 0}
+{'Poly_A': 'Ethylcellulose', 'Poly_B': 'SAN', 'Score': 0}
+{'Poly_A': 'Benzylcellulose', 'Poly_B': 'PVAc', 'Score': 0}
+{'Poly_A': 'Benzylcellulose', 'Poly_B': 'PEMA', 'Score': 1}
+{'Poly_A': 'Benzylcellulose', 'Poly_B': 'PEA', 'Score': 0.5}
+{'Poly_A': 'Benzylcellulose', 'Poly_B': 'PMA', 'Score': 0}
+{'Poly_A': 'Benzylcellulose', 'Poly_B': 'PBA', 'Score': 0}
+{'Poly_A': 'Benzylcellulose', 'Poly_B': 'PBMA', 'Score': 0}
+{'Poly_A': 'Benzylcellulose', 'Poly_B': 'Polyvinyl acetal', 'Score': 0.8}
+{'Poly_A': 'Polyisoprene', 'Poly_B': 'PE', 'Score': 0}
+{'Poly_A': 'Polyisoprene', 'Poly_B': 'PBU', 'Score': 1}
+{'Poly_A': 'Polyisoprene', 'Poly_B': 'PVAc', 'Score': 0}
+{'Poly_A': 'Polyisoprene', 'Poly_B': 'PMMA', 'Score': 0}
+{'Poly_A': 'Polyisoprene', 'Poly_B': 'PS', 'Score': 0}
+{'Poly_A': 'Polyisoprene', 'Poly_B': 'Polyvinyl acetal', 'Score': 0}
+{'Poly_A': 'PVC', 'Poly_B': 'Chlorinated PVC(highly)', 'Score': 0}
+{'Poly_A': 'PVC', 'Poly_B': 'PBU', 'Score': 0}
+{'Poly_A': 'PVC', 'Poly_B': 'PVAc', 'Score': 0}
+{'Poly_A': 'PVC', 'Poly_B': 'PS', 'Score': 0}
+{'Poly_A': 'PVC', 'Poly_B': 'PMA', 'Score': 0}
+{'Poly_A': 'PVC', 'Poly_B': 'PEA', 'Score': 0}
+{'Poly_A': 'PVC', 'Poly_B': 'PBA', 'Score': 0}
+{'Poly_A': 'PVC', 'Poly_B': 'Poly(2-ethyl hexyl acrylate)', 'Score': 0}
+{'Poly_A': 'PVC', 'Poly_B': 'PMMA', 'Score': 0}
+{'Poly_A': 'PVC', 'Poly_B': 'PnPMA', 'Score': 1}
+{'Poly_A': 'PVC', 'Poly_B': 'PiPMA', 'Score': 0}
+{'Poly_A': 'PVC', 'Poly_B': 'PBMA', 'Score': 1}
+{'Poly_A': 'PVC', 'Poly_B': 'PiBMA', 'Score': 1}
+{'Poly_A': 'PVC', 'Poly_B': 'Poly(2-ethyl hexyl methacrylate)', 'Score': 0}
+{'Poly_A': 'PVC', 'Poly_B': 'POMA', 'Score': 0}
+{'Poly_A': 'PVC', 'Poly_B': 'PDMA', 'Score': 0}
+{'Poly_A': 'PVC', 'Poly_B': 'Poly-n-octadecyl methacrylate', 'Score': 0}
+{'Poly_A': 'PVC', 'Poly_B': 'Polyvinl isobutyl ether', 'Score': 0}
+{'Poly_A': 'PVC', 'Poly_B': 'Polymethyl vinyl ketone', 'Score': 0}
+{'Poly_A': 'PVC', 'Poly_B': 'PCL', 'Score': 1}
+{'Poly_A': 'PE', 'Poly_B': 'PBU', 'Score': 0.8}
+{'Poly_A': 'PE', 'Poly_B': 'PS', 'Score': 0}
+{'Poly_A': 'PBU', 'Poly_B': 'PS', 'Score': 0}
+{'Poly_A': 'PBU', 'Poly_B': 'SAN', 'Score': 0}
+{'Poly_A': 'PVAc', 'Poly_B': 'PVAc(CROSSLINKED)', 'Score': 1}
+{'Poly_A': 'PVAc', 'Poly_B': 'PS', 'Score': 0}
+{'Poly_A': 'PVAc', 'Poly_B': 'Poly(p-methyl ST)', 'Score': 0}
+{'Poly_A': 'PVAc', 'Poly_B': 'Poly(p-chloro ST)', 'Score': 0}
+{'Poly_A': 'PVAc', 'Poly_B': 'PEA', 'Score': 1}
+{'Poly_A': 'PVAc', 'Poly_B': 'PEMA', 'Score': 0}
+{'Poly_A': 'PVAc', 'Poly_B': 'PBMA', 'Score': 0}
+{'Poly_A': 'PVAc', 'Poly_B': 'PAN', 'Score': 0}
+{'Poly_A': 'PVAc', 'Poly_B': 'Polymethyl vinyl ketone', 'Score': 0}
+{'Poly_A': 'PVAc', 'Poly_B': 'Polyvinyl acetal', 'Score': 0}
+{'Poly_A': 'PVAc', 'Poly_B': 'PC', 'Score': 0}
+{'Poly_A': 'PVAc', 'Poly_B': 'Polyepichlorohydrin', 'Score': 0}
+{'Poly_A': 'PVAc', 'Poly_B': 'PPO', 'Score': 0}
+{'Poly_A': 'PVAc', 'Poly_B': 'polysulfone', 'Score': 0}
+{'Poly_A': 'PVAc', 'Poly_B': 'polyester-urethane', 'Score': 0}
+{'Poly_A': 'PVAc', 'Poly_B': 'Polyether-urethane', 'Score': 0}
+{'Poly_A': 'PVAc', 'Poly_B': 'SAN', 'Score': 0}
+{'Poly_A': 'PS', 'Poly_B': 'Polyisobutene', 'Score': 0.5}
+{'Poly_A': 'PS', 'Poly_B': 'Poly-α-methyl styrene', 'Score': 0}
+{'Poly_A': 'PS', 'Poly_B': 'Poly-o-methyl styrene', 'Score': 1}
+{'Poly_A': 'PS', 'Poly_B': 'Poly-m-methyl styrene', 'Score': 0}
+{'Poly_A': 'PS', 'Poly_B': 'Poly-p-methyl styrene', 'Score': 0}
+{'Poly_A': 'PS', 'Poly_B': 'Polyvinyl toluene', 'Score': 0}
+{'Poly_A': 'PS', 'Poly_B': 'Poly-p-chlorostyrene', 'Score': 0}
+{'Poly_A': 'PS', 'Poly_B': 'Poly-p-methoxystyrene', 'Score': 0}
+{'Poly_A': 'PS', 'Poly_B': 'Poly-p-tert-butyl styrene', 'Score': 0}
+{'Poly_A': 'PS', 'Poly_B': 'Polymethyl acrylate', 'Score': 0}
+{'Poly_A': 'PS', 'Poly_B': 'Polyethyl acrylate', 'Score': 0}
+{'Poly_A': 'PS', 'Poly_B': 'Polybutyl acrylate', 'Score': 0}
+{'Poly_A': 'PS', 'Poly_B': 'PMMA', 'Score': 0}
+{'Poly_A': 'PS', 'Poly_B': 'Polybutyl methacrylate', 'Score': 0}
+{'Poly_A': 'PS', 'Poly_B': 'Polybenayl methacrylate', 'Score': 0}
+{'Poly_A': 'PS', 'Poly_B': 'Polyisobornyl methacrylate', 'Score': 0}
+{'Poly_A': 'PS', 'Poly_B': 'Poly-(2,6-dimethyl-1,4-phenylene) ether', 'Score': 1}
+{'Poly_A': 'PS', 'Poly_B': 'Polyvinyl acetal', 'Score': 0}
+{'Poly_A': 'PS', 'Poly_B': 'PPO', 'Score': 0}
+{'Poly_A': 'PS', 'Poly_B': 'PC', 'Score': 0}
+{'Poly_A': 'PS', 'Poly_B': 'PEO', 'Score': 0}
+{'Poly_A': 'PS', 'Poly_B': 'PSF', 'Score': 0}
+{'Poly_A': 'Polymethyl acrylate', 'Poly_B': 'PEA', 'Score': 0}
+{'Poly_A': 'Polymethyl acrylate', 'Poly_B': 'PBA', 'Score': 0}
+{'Poly_A': 'Polymethyl acrylate', 'Poly_B': 'PMMA', 'Score': 0}
+{'Poly_A': 'Polymethyl acrylate', 'Poly_B': 'Polybutyl methacrylate', 'Score': 0}
+{'Poly_A': 'Polymethyl acrylate', 'Poly_B': 'Polyisopropyl acrylate', 'Score': 0}
+{'Poly_A': 'Polymethyl acrylate', 'Poly_B': 'PBA', 'Score': 0}
+{'Poly_A': 'PEA', 'Poly_B': 'Polyisopropyl acrylate', 'Score': 0}
+{'Poly_A': 'PEA', 'Poly_B': 'PBA', 'Score': 0}
+{'Poly_A': 'PEA', 'Poly_B': 'PMMA', 'Score': 0}
+{'Poly_A': 'PEA', 'Poly_B': 'Polyethyl methacrylate', 'Score': 0}
+{'Poly_A': 'PEA', 'Poly_B': 'Poly-n-butyl methacrylate', 'Score': 0}
+{'Poly_A': 'PEA', 'Poly_B': 'Polyiobornyl methacrylate', 'Score': 0}
+{'Poly_A': 'Polyisopropyl acrylate', 'Poly_B': 'PBA', 'Score': 0}
+{'Poly_A': 'Polyisopropyl acrylate', 'Poly_B': 'PtBA', 'Score': 0}
+{'Poly_A': 'Polyisopropyl acrylate', 'Poly_B': 'Polyisopropyl rnethacrylate', 'Score': 1}
+{'Poly_A': 'PBA', 'Poly_B': 'Poly-sec-butyl acrylate', 'Score': 0}
+{'Poly_A': 'PBA', 'Poly_B': 'PtBA', 'Score': 0}
+{'Poly_A': 'PBA', 'Poly_B': 'PMMA', 'Score': 0}
+{'Poly_A': 'PBA', 'Poly_B': 'Polybutyl methacrylate', 'Score': 0}
+{'Poly_A': 'PBA', 'Poly_B': 'Polyisobutyl methacrylate', 'Score': 0}
+{'Poly_A': 'Poly-sec-butyl acrylate', 'Poly_B': 'PtBA', 'Score': 0}
+{'Poly_A': 'PAA', 'Poly_B': 'Polysodium acrylate', 'Score': 1}
+{'Poly_A': 'PAA', 'Poly_B': 'Polymethacrylic acid', 'Score': 0}
+{'Poly_A': 'PMMA-isotactic', 'Poly_B': 'PMMA-syndiotactic', 'Score': 1}
+{'Poly_A': 'PMMA', 'Poly_B': 'PEA', 'Score': 0}
+{'Poly_A': 'PMMA', 'Poly_B': 'PnBuMA\xa0', 'Score': 0}
+{'Poly_A': 'PMMA', 'Poly_B': 'Polyisobutyl methacrylate', 'Score': 0}
+{'Poly_A': 'PMMA', 'Poly_B': 'Polybenzyl methacrylate', 'Score': 0}
+{'Poly_A': 'PMMA', 'Poly_B': 'Polyisobornyl methacrylate', 'Score': 0}
+{'Poly_A': 'PMMA', 'Poly_B': 'Polymethacrylonitrile', 'Score': 0}
+{'Poly_A': 'Polybenzyl methacrylate', 'Poly_B': 'Polyisobornyl methacrylate', 'Score': 0}
+{'Poly_A': 'PMAA', 'Poly_B': 'Polysodium methacrylate', 'Score': 1}
+{'Poly_A': 'Polymethyl acrylate', 'Poly_B': 'Poly-tert-butyl vinyl ether', 'Score': 0}
+{'Poly_A': 'PAA', 'Poly_B': 'PVA', 'Score': 0}
+{'Poly_A': 'PAA', 'Poly_B': 'PEO', 'Score': 1}
+{'Poly_A': 'PMMA', 'Poly_B': 'Polyvinyl acetal', 'Score': 0}
+{'Poly_A': 'PMMA', 'Poly_B': 'Polyvinylidene fluoride', 'Score': 1}
+{'Poly_A': 'PMMA', 'Poly_B': 'PC', 'Score': 0}
+{'Poly_A': 'PMMA', 'Poly_B': 'polyepichlorohydrin', 'Score': 0}
+{'Poly_A': 'PMMA', 'Poly_B': 'PPO', 'Score': 0}
+{'Poly_A': 'PMMA', 'Poly_B': 'PSF', 'Score': 0}
+{'Poly_A': 'PMMA', 'Poly_B': 'polyester-urethane', 'Score': 0}
+{'Poly_A': 'Polyethyl methacrylate', 'Poly_B': 'Polyvinylidene fluoride', 'Score': 1}
+{'Poly_A': 'Polymethacrylic acid', 'Poly_B': 'Polyvinyl alcohol', 'Score': 0.8}
+{'Poly_A': 'Polymethyl acrylate', 'Poly_B': 'Chlorinated rubber', 'Score': 0}
+{'Poly_A': 'PMMA', 'Poly_B': 'Chlorinated rubber', 'Score': 0.5}
+{'Poly_A': 'polyethyl acrylate', 'Poly_B': 'Chlorinated rubber', 'Score': 1}
+{'Poly_A': 'poly-n-butyl  acrylate', 'Poly_B': 'Chlorinated rubber', 'Score': 1}
+{'Poly_A': 'polyethyl methacrylate', 'Poly_B': 'Chlorinated rubber', 'Score': 1}
+{'Poly_A': 'poly-n-butyl  methacrylate', 'Poly_B': 'Chlorinated rubber', 'Score': 1}
+{'Poly_A': 'Polyisobutene', 'Poly_B': 'Silicone', 'Score': 0.8}
+{'Poly_A': 'Poly-a-methyl styrene', 'Poly_B': 'Poly(2,6-dimethyl-l,4-~henylene) ether', 'Score': 1}
+{'Poly_A': 'Poly-o-methyl styrene', 'Poly_B': 'Poly-m-methyl styrene', 'Score': 0}
+{'Poly_A': 'Poly-o-methyl styrene', 'Poly_B': 'Poly-p-methyl styrene', 'Score': 0}
+{'Poly_A': 'Poly-m-methyl styrene', 'Poly_B': 'Poly-p-methyl styrene', 'Score': 0.8}
+{'Poly_A': 'Poly-p-methyl styrene', 'Poly_B': 'Poly-p-chlorostyrene', 'Score': 0}
+{'Poly_A': 'Poly-p-chlorostyrene', 'Poly_B': 'Poly-p-methoxy styrene', 'Score': 0}
+{'Poly_A': 'Polyvinyl biphenyl', 'Poly_B': 'PEO', 'Score': 0}
+{'Poly_A': 'Polyvinyl naphthalene', 'Poly_B': 'PEO', 'Score': 0}
+{'Poly_A': 'Polyepichlorohydrin', 'Poly_B': 'PC', 'Score': 0}
+{'Poly_A': 'Polyepichlorohydrin', 'Poly_B': 'PPO', 'Score': 0}
+{'Poly_A': 'Polyepichlorohydrin', 'Poly_B': 'PSF', 'Score': 0}
+{'Poly_A': 'Polyepichlorohydrin', 'Poly_B': 'polyether-urethane', 'Score': 0}
+{'Poly_A': 'PPO', 'Poly_B': 'PC', 'Score': 0}
+{'Poly_A': 'PPO', 'Poly_B': 'PSF', 'Score': 0}
+{'Poly_A': 'PPO', 'Poly_B': 'polyester-urethane', 'Score': 0}
+{'Poly_A': 'PPO', 'Poly_B': 'styrene-methyl methacrylate copolymer', 'Score': 0}
+{'Poly_A': 'PPO', 'Poly_B': 'vinyl chloride-vinyl acetate copolymer', 'Score': 0}
+{'Poly_A': 'PC', 'Poly_B': 'PSF', 'Score': 0}
+{'Poly_A': 'PC', 'Poly_B': 'polyester-urethane', 'Score': 0}
+{'Poly_A': 'PC', 'Poly_B': 'styrene-methyl methacrylate copolymer', 'Score': 0}
+{'Poly_A': 'PC', 'Poly_B': 'vinyl chloride-vinyl acetate copolymer', 'Score': 0}
+{'Poly_A': 'PSF', 'Poly_B': 'PC', 'Score': 0}
+{'Poly_A': 'PSF', 'Poly_B': 'polyester-urethane', 'Score': 0}
+{'Poly_A': 'PSF', 'Poly_B': 'styrene-methyl methacrylate copolymer', 'Score': 0}
+{'Poly_A': 'PSF', 'Poly_B': 'vinyl chloride-vinyl acetate copolymer', 'Score': 0}
+{'Poly_A': 'Polyisobutyl vinyl ether', 'Poly_B': 'Poly-tert-butyl vinyl ether', 'Score': 0}
+{'Poly_A': 'Poly-bis-phenol-A-carbonate', 'Poly_B': 'Poly(oxyethylene)carbonate', 'Score': 0}
+{'Poly_A': 'Poly-bis-phenol-A-carbonate', 'Poly_B': 'Polyoxyethylene glycol', 'Score': 0}
+{'Poly_A': 'Polyvinyl fluoride', 'Poly_B': 'PVDF', 'Score': 0}
+{'Poly_A': 'Coal tar lacquer', 'Poly_B': 'Phenol -formaldehyde resin', 'Score': 0}
