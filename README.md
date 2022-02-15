@@ -7,3 +7,7 @@ We present our Half Dense Difference Network (HDDN) in this folder. The training
 Text Data Mining (TDM)
 
 TDM is important for us to design an information extraction module. Firstly, we use data with labels to train the classifier and achieve over 90% accuracy. Based on this classifier, we put all sentences through the classifier and get thousands of compatibility-relative ones.
+
+Method
+
+The details of our method is presented in our Supplement.pdf.
