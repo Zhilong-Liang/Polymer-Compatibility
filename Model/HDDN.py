@@ -59,7 +59,7 @@ def whole_net(x_train,y_train,x_test,y_test,folder,lrate,hidden_size,kind,itera,
             self.MLP6 = nn.Linear(h5,h6)
             self.MLP7 = nn.Linear(h6,h7)
             self.MLP8 = nn.Linear(h7,1)
-            self.relu = nn.Sigmoid()
+            self.nolinear = nn.Sigmoid()
             self.dropout = nn.Dropout(p=0.2)
 
         def forward(self,x):
@@ -68,29 +68,29 @@ def whole_net(x_train,y_train,x_test,y_test,folder,lrate,hidden_size,kind,itera,
             C = x[:,4096:4098]
             A1 = self.MLP1(A); B1 = self.MLP1(B)
             A1 = self.dropout(A1); B1 = self.dropout(B1)
-            A1 = self.relu(A1)*10; B1 = self.relu(B1)*10
+            A1 = self.nolinear(A1)*10; B1 = self.nolinear(B1)*10
             A2 = self.MLP2(A1); B2 = self.MLP2(B1)
             A2 = self.dropout(A2); B2 = self.dropout(B2)
-            A2 = self.relu(A2)*10;B2 = self.relu(B2)*10
+            A2 = self.nolinear(A2)*10;B2 = self.nolinear(B2)*10
             A3 = self.MLP3(A2+A1);B3 = self.MLP3(B2+B1)
             A3 = self.dropout(A3); B3 = self.dropout(B3)
-            A3 = self.relu(A3)*10;B3 = self.relu(B3)*10
+            A3 = self.nolinear(A3)*10;B3 = self.nolinear(B3)*10
             A4 = self.MLP4(A3+A2+A1);B4 = self.MLP4(B3+B2+B1)
             A4 = self.dropout(A4); B4 = self.dropout(B4)
-            A4 = self.relu(A4)*10;B4 = self.relu(B4)*10
+            A4 = self.nolinear(A4)*10;B4 = self.nolinear(B4)*10
             delta = abs(A4-B4)           
             D1=self.MLP5(delta)            
             D1 = self.dropout(D1)
-            D1 = self.relu(D1)*10            
+            D1 = self.nolinear(D1)*10            
             D2 = self.MLP6(D1)
             D2 = self.dropout(D2)
-            D2 = self.relu(D2)*10                
+            D2 = self.nolinear(D2)*10                
             D3 = self.MLP7(D2)
             D3 = self.dropout(D3)
-            D3 = self.relu(D3)*10           
+            D3 = self.nolinear(D3)*10           
             D4 = self.MLP8(D3)
             D4 = self.dropout(D4)
-            output = self.relu(D4)*10
+            output = self.nolinear(D4)*10
             return output[:,0]
     
 
@@ -106,7 +106,7 @@ def whole_net(x_train,y_train,x_test,y_test,folder,lrate,hidden_size,kind,itera,
             self.MLP6 = nn.Linear(h5,h6)
             self.MLP7 = nn.Linear(h6,h7)
             self.MLP8 = nn.Linear(h7,1)
-            self.relu = nn.Sigmoid()
+            self.nolinear = nn.Sigmoid()
             self.dropout = nn.Dropout(p=0.2)
 
         def forward(self,x):
@@ -115,30 +115,30 @@ def whole_net(x_train,y_train,x_test,y_test,folder,lrate,hidden_size,kind,itera,
             C = x[:,4096:4098]
             A1 = self.MLP1(A); B1 = self.MLP1(B)
             A1 = self.dropout(A1); B1 = self.dropout(B1)
-            A1 = self.relu(A1)*10; B1 = self.relu(B1)*10
+            A1 = self.nolinear(A1)*10; B1 = self.nolinear(B1)*10
             A2 = self.MLP2(A1); B2 = self.MLP2(B1)
             A2 = self.dropout(A2); B2 = self.dropout(B2)
-            A2 = self.relu(A2)*10;B2 = self.relu(B2)*10
+            A2 = self.nolinear(A2)*10;B2 = self.nolinear(B2)*10
             A3 = self.MLP3(A2+A1);B3 = self.MLP3(B2+B1)
             A3 = self.dropout(A3); B3 = self.dropout(B3)
-            A3 = self.relu(A3)*10;B3 = self.relu(B3)*10
+            A3 = self.nolinear(A3)*10;B3 = self.nolinear(B3)*10
             A4 = self.MLP4(A3+A2+A1);B4 = self.MLP4(B3+B2+B1)
             A4 = self.dropout(A4); B4 = self.dropout(B4)
-            A4 = self.relu(A4)*10;B4 = self.relu(B4)*10
+            A4 = self.nolinear(A4)*10;B4 = self.nolinear(B4)*10
             delta = abs(A4-B4)
             delta = torch.cat((delta,C),1)            
             D1=self.MLP5(delta)            
             D1 = self.dropout(D1)
-            D1 = self.relu(D1)*10           
+            D1 = self.nolinear(D1)*10           
             D2 = self.MLP6(D1)
             D2 = self.dropout(D2)
-            D2 = self.relu(D2)*10                
+            D2 = self.nolinear(D2)*10                
             D3 = self.MLP7(D2)
             D3 = self.dropout(D3)
-            D3 = self.relu(D3)*10             
+            D3 = self.nolinear(D3)*10             
             D4 = self.MLP8(D3)
             D4 = self.dropout(D4)
-            output = self.relu(D4)*10
+            output = self.nolinear(D4)*10
             return output[:,0]
     
     class HDDN_noabs(nn.Module):
@@ -153,7 +153,7 @@ def whole_net(x_train,y_train,x_test,y_test,folder,lrate,hidden_size,kind,itera,
             self.MLP6 = nn.Linear(h5,h6)
             self.MLP7 = nn.Linear(h6,h7)
             self.MLP8 = nn.Linear(h7,1)
-            self.relu = nn.Sigmoid()
+            self.nolinear = nn.Sigmoid()
             self.dropout = nn.Dropout(p=0.2)
 
         def forward(self,x):
@@ -162,30 +162,30 @@ def whole_net(x_train,y_train,x_test,y_test,folder,lrate,hidden_size,kind,itera,
             C = x[:,4096:4098]
             A1 = self.MLP1(A); B1 = self.MLP1(B)
             A1 = self.dropout(A1); B1 = self.dropout(B1)
-            A1 = self.relu(A1)*10; B1 = self.relu(B1)*10
+            A1 = self.nolinear(A1)*10; B1 = self.nolinear(B1)*10
             A2 = self.MLP2(A1); B2 = self.MLP2(B1)
             A2 = self.dropout(A2); B2 = self.dropout(B2)
-            A2 = self.relu(A2)*10;B2 = self.relu(B2)*10
+            A2 = self.nolinear(A2)*10;B2 = self.nolinear(B2)*10
             A3 = self.MLP3(A2+A1);B3 = self.MLP3(B2+B1)
             A3 = self.dropout(A3); B3 = self.dropout(B3)
-            A3 = self.relu(A3)*10;B3 = self.relu(B3)*10
+            A3 = self.nolinear(A3)*10;B3 = self.nolinear(B3)*10
             A4 = self.MLP4(A3+A2+A1);B4 = self.MLP4(B3+B2+B1)
             A4 = self.dropout(A4); B4 = self.dropout(B4)
-            A4 = self.relu(A4)*10;B4 = self.relu(B4)*10
+            A4 = self.nolinear(A4)*10;B4 = self.nolinear(B4)*10
             delta = A4-B4
             delta = torch.cat((delta,C),1)            
             D1=self.MLP5(delta)            
             D1 = self.dropout(D1)
-            D1 = self.relu(D1)*10           
+            D1 = self.nolinear(D1)*10           
             D2 = self.MLP6(D1)
             D2 = self.dropout(D2)
-            D2 = self.relu(D2)*10                
+            D2 = self.nolinear(D2)*10                
             D3 = self.MLP7(D2)
             D3 = self.dropout(D3)
-            D3 = self.relu(D3)*10             
+            D3 = self.nolinear(D3)*10             
             D4 = self.MLP8(D3)
             D4 = self.dropout(D4)
-            output = self.relu(D4)*10
+            output = self.nolinear(D4)*10
             return output[:,0]
 
     #搭建MLP回归网络
@@ -201,35 +201,35 @@ def whole_net(x_train,y_train,x_test,y_test,folder,lrate,hidden_size,kind,itera,
             self.MLP6 = nn.Linear(h5,h6)
             self.MLP7 = nn.Linear(h6,h7)
             self.MLP8 = nn.Linear(h7,1)
-            self.relu = nn.Sigmoid()
+            self.nolinear = nn.Sigmoid()
             self.dropout = nn.Dropout(p=0.2)
 
         def forward(self,x):
             A = x        
             A1 = self.MLP1(A)
             A1 = self.dropout(A1)
-            A1 = self.relu(A1)*10
+            A1 = self.nolinear(A1)*10
             A2 = self.MLP2(A1)
             A2 = self.dropout(A2)
-            A2 = self.relu(A2)*10
+            A2 = self.nolinear(A2)*10
             A3 = self.MLP3(A2)
             A3 = self.dropout(A3)
-            A3 = self.relu(A3)*10
+            A3 = self.nolinear(A3)*10
             A4 = self.MLP4(A3)
             A4 = self.dropout(A4)
-            A4 = self.relu(A4)*10         
+            A4 = self.nolinear(A4)*10         
             D1=self.MLP5(A4)            
             D1 = self.dropout(D1)
-            D1 = self.relu(D1)*10            
+            D1 = self.nolinear(D1)*10            
             D2 = self.MLP6(D1)
             D2 = self.dropout(D2)
-            D2 = self.relu(D2)*10                
+            D2 = self.nolinear(D2)*10                
             D3 = self.MLP7(D2)
             D3 = self.dropout(D3)
-            D3 = self.relu(D3)*10          
+            D3 = self.nolinear(D3)*10          
             D4 = self.MLP8(D3)
             D4 = self.dropout(D4)
-            output = self.relu(D4)*10
+            output = self.nolinear(D4)*10
             return output[:,0]
         
     class CDN(nn.Module):
@@ -291,35 +291,35 @@ def whole_net(x_train,y_train,x_test,y_test,folder,lrate,hidden_size,kind,itera,
             self.MLP6 = nn.Linear(h4,h4)
             self.MLP7 = nn.Linear(h4,h4)
             self.MLP8 = nn.Linear(h4,1)
-            self.relu = nn.Sigmoid()
+            self.nolinear = nn.Sigmoid()
             self.dropout = nn.Dropout(p=0.2)
 
         def forward(self,x):
             A = x        
             A1 = self.MLP1(A)
             A1 = self.dropout(A1)
-            A1 = self.relu(A1)*10
+            A1 = self.nolinear(A1)*10
             A2 = self.MLP2(A1)
             A2 = self.dropout(A2)
-            A2 = self.relu(A2)*10
+            A2 = self.nolinear(A2)*10
             A3 = self.MLP3(A2+A1)
             A3 = self.dropout(A3)
-            A3 = self.relu(A3)*10
+            A3 = self.nolinear(A3)*10
             A4 = self.MLP4(A3+A2+A1)
             A4 = self.dropout(A4)
-            A4 = self.relu(A4)*10         
+            A4 = self.nolinear(A4)*10         
             D1=self.MLP5(A4+A3+A2+A1)            
             D1 = self.dropout(D1)
-            D1 = self.relu(D1)*10            
+            D1 = self.nolinear(D1)*10            
             D2 = self.MLP6(D1+A4+A3+A2+A1)
             D2 = self.dropout(D2)
-            D2 = self.relu(D2)*10                
+            D2 = self.nolinear(D2)*10                
             D3 = self.MLP7(D2+D1+A4+A3+A2+A1)
             D3 = self.dropout(D3)
-            D3 = self.relu(D3)*10          
+            D3 = self.nolinear(D3)*10          
             D4 = self.MLP8(D3+D2+D1+A4+A3+A2+A1)
             D4 = self.dropout(D4)
-            output = self.relu(D4)*10
+            output = self.nolinear(D4)*10
             return output[:,0]
 
     class HDDN_nodense(nn.Module):
@@ -334,7 +334,7 @@ def whole_net(x_train,y_train,x_test,y_test,folder,lrate,hidden_size,kind,itera,
             self.MLP6 = nn.Linear(h5,h6)
             self.MLP7 = nn.Linear(h6,h7)
             self.MLP8 = nn.Linear(h7,1)
-            self.relu = nn.Sigmoid()
+            self.nolinear = nn.Sigmoid()
             self.dropout = nn.Dropout(p=0.2)
 
         def forward(self,x):
@@ -343,30 +343,30 @@ def whole_net(x_train,y_train,x_test,y_test,folder,lrate,hidden_size,kind,itera,
             C = x[:,4096:4098]
             A1 = self.MLP1(A); B1 = self.MLP1(B)
             A1 = self.dropout(A1); B1 = self.dropout(B1)
-            A1 = self.relu(A1)*10; B1 = self.relu(B1)*10
+            A1 = self.nolinear(A1)*10; B1 = self.nolinear(B1)*10
             A2 = self.MLP2(A1); B2 = self.MLP2(B1)
             A2 = self.dropout(A2); B2 = self.dropout(B2)
-            A2 = self.relu(A2)*10;B2 = self.relu(B2)*10
+            A2 = self.nolinear(A2)*10;B2 = self.nolinear(B2)*10
             A3 = self.MLP3(A2);B3 = self.MLP3(B2)
             A3 = self.dropout(A3); B3 = self.dropout(B3)
-            A3 = self.relu(A3)*10;B3 = self.relu(B3)*10
+            A3 = self.nolinear(A3)*10;B3 = self.nolinear(B3)*10
             A4 = self.MLP4(A3);B4 = self.MLP4(B3)
             A4 = self.dropout(A4); B4 = self.dropout(B4)
-            A4 = self.relu(A4)*10;B4 = self.relu(B4)*10
+            A4 = self.nolinear(A4)*10;B4 = self.nolinear(B4)*10
             delta = abs(A4-B4)
             delta = torch.cat((delta,C),1)            
             D1=self.MLP5(delta)            
             D1 = self.dropout(D1)
-            D1 = self.relu(D1)*10           
+            D1 = self.nolinear(D1)*10           
             D2 = self.MLP6(D1)
             D2 = self.dropout(D2)
-            D2 = self.relu(D2)*10                
+            D2 = self.nolinear(D2)*10                
             D3 = self.MLP7(D2)
             D3 = self.dropout(D3)
-            D3 = self.relu(D3)*10             
+            D3 = self.nolinear(D3)*10             
             D4 = self.MLP8(D3)
             D4 = self.dropout(D4)
-            output = self.relu(D4)*10
+            output = self.nolinear(D4)*10
             return output[:,0]
 
     class HDDN_nodiff(nn.Module):
@@ -381,7 +381,7 @@ def whole_net(x_train,y_train,x_test,y_test,folder,lrate,hidden_size,kind,itera,
             self.MLP6 = nn.Linear(h5,h6)
             self.MLP7 = nn.Linear(h6,h7)
             self.MLP8 = nn.Linear(h7,1)
-            self.relu = nn.Sigmoid()
+            self.nolinear = nn.Sigmoid()
             self.dropout = nn.Dropout(p=0.2)
 
         def forward(self,x):
@@ -389,29 +389,29 @@ def whole_net(x_train,y_train,x_test,y_test,folder,lrate,hidden_size,kind,itera,
             C = x[:,4096:4098]
             A1 = self.MLP1(A)
             A1 = self.dropout(A1)
-            A1 = self.relu(A1)*10
+            A1 = self.nolinear(A1)*10
             A2 = self.MLP2(A1)
             A2 = self.dropout(A2)
-            A2 = self.relu(A2)*10
+            A2 = self.nolinear(A2)*10
             A3 = self.MLP3(A2+A1)
             A3 = self.dropout(A3)
-            A3 = self.relu(A3)*10
+            A3 = self.nolinear(A3)*10
             A4 = self.MLP4(A3+A2+A1)
             A4 = self.dropout(A4)
-            A4 = self.relu(A4)*10
+            A4 = self.nolinear(A4)*10
             delta = torch.cat((A4,C),1)            
             D1=self.MLP5(delta)            
             D1 = self.dropout(D1)
-            D1 = self.relu(D1)*10           
+            D1 = self.nolinear(D1)*10           
             D2 = self.MLP6(D1)
             D2 = self.dropout(D2)
-            D2 = self.relu(D2)*10                
+            D2 = self.nolinear(D2)*10                
             D3 = self.MLP7(D2)
             D3 = self.dropout(D3)
-            D3 = self.relu(D3)*10             
+            D3 = self.nolinear(D3)*10             
             D4 = self.MLP8(D3)
             D4 = self.dropout(D4)
-            output = self.relu(D4)*10
+            output = self.nolinear(D4)*10
             return output[:,0]
         
     if kind == 0:
